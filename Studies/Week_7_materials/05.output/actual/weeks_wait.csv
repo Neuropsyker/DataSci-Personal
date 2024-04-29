@@ -1,0 +1,754 @@
+,diagnostic_sub_category,diagnostic_description,count_of_diagnostics_id,current_wait_band,is_breach
+0,CT,CT Abdomen,6,0,N
+1,CT,CT Abdomen,2,1,N
+2,CT,CT Abdomen,7,2,N
+3,CT,CT Abdomen,3,3,N
+4,CT,CT Abdomen,7,4,N
+5,CT,CT Abdomen,4,6,N
+6,CT,CT Abdomen,5,8,Y
+7,CT,CT Abdomen,1,11,Y
+8,CT,CT Abdomen,4,12,Y
+9,CT,CT Abdomen,4,17,Y
+10,CT,CT Abdomen and pelvis,3,0,N
+11,CT,CT Abdomen and pelvis,14,1,N
+12,CT,CT Abdomen and pelvis,8,2,N
+13,CT,CT Abdomen and pelvis,9,3,N
+14,CT,CT Abdomen and pelvis,4,4,N
+15,CT,CT Abdomen and pelvis,4,5,N
+16,CT,CT Abdomen and pelvis,11,6,N
+17,CT,CT Abdomen and pelvis,5,7,Y
+18,CT,CT Abdomen and pelvis,7,8,Y
+19,CT,CT Abdomen and pelvis,7,9,Y
+20,CT,CT Abdomen and pelvis,2,10,Y
+21,CT,CT Abdomen and pelvis,4,11,Y
+22,CT,CT Abdomen and pelvis,1,12,Y
+23,CT,CT Abdomen and pelvis with contrast,13,0,N
+24,CT,CT Abdomen and pelvis with contrast,103,1,N
+25,CT,CT Abdomen and pelvis with contrast,75,2,N
+26,CT,CT Abdomen and pelvis with contrast,32,3,N
+27,CT,CT Abdomen and pelvis with contrast,20,4,N
+28,CT,CT Abdomen and pelvis with contrast,15,5,N
+29,CT,CT Abdomen and pelvis with contrast,47,6,N
+30,CT,CT Abdomen and pelvis with contrast,20,7,Y
+31,CT,CT Abdomen and pelvis with contrast,26,8,Y
+32,CT,CT Abdomen and pelvis with contrast,8,9,Y
+33,CT,CT Abdomen and pelvis with contrast,23,10,Y
+34,CT,CT Abdomen and pelvis with contrast,12,11,Y
+35,CT,CT Abdomen and pelvis with contrast,12,12,Y
+36,CT,CT Abdomen and pelvis with contrast,16,13,Y
+37,CT,CT Abdomen and pelvis with contrast,7,16,Y
+38,CT,CT Abdomen and pelvis with contrast,5,20,Y
+39,CT,CT Abdomen and pelvis with contrast,4,21,Y
+40,CT,CT Abdomen and pelvis with contrast,3,22,Y
+41,CT,CT Abdomen and pelvis with contrast,5,23,Y
+42,CT,CT Abdomen with contrast,32,1,N
+43,CT,CT Abdomen with contrast,31,2,N
+44,CT,CT Abdomen with contrast,24,3,N
+45,CT,CT Abdomen with contrast,13,4,N
+46,CT,CT Abdomen with contrast,12,5,N
+47,CT,CT Abdomen with contrast,46,6,N
+48,CT,CT Abdomen with contrast,13,7,Y
+49,CT,CT Abdomen with contrast,14,8,Y
+50,CT,CT Abdomen with contrast,5,9,Y
+51,CT,CT Abdomen with contrast,5,10,Y
+52,CT,CT Abdomen with contrast,4,11,Y
+53,CT,CT Abdomen with contrast,9,12,Y
+54,CT,CT Abdomen with contrast,8,13,Y
+55,CT,CT Abdomen with contrast,2,14,Y
+56,CT,CT Abdomen with contrast,8,22,Y
+57,CT,CT Adrenal Both,6,1,N
+58,CT,CT Adrenal Both,7,2,N
+59,CT,CT Adrenal Both,7,3,N
+60,CT,CT Adrenal Both,2,4,N
+61,CT,CT Adrenal Both,8,6,N
+62,CT,CT Adrenal Both,3,7,Y
+63,CT,CT Adrenal Both,8,8,Y
+64,CT,CT Adrenal Both,2,9,Y
+65,CT,CT Adrenal Both,7,10,Y
+66,CT,CT Adrenal Both,1,11,Y
+67,CT,CT Adrenal with contrast Both,1,1,N
+68,CT,CT Adrenal with contrast Both,2,7,Y
+69,CT,CT Adrenal with contrast Both,4,9,Y
+70,CT,CT Angio aortic arch and carotid Both,19,1,N
+71,CT,CT Angio aortic arch and carotid Both,9,2,N
+72,CT,CT Angio aortic arch and carotid Both,5,3,N
+73,CT,CT Angio aortic arch and carotid Both,5,4,N
+74,CT,CT Angio aortic arch and carotid Both,5,5,N
+75,CT,CT Angio aortic arch and carotid Both,12,6,N
+76,CT,CT Angio aortic arch and carotid Both,6,7,Y
+77,CT,CT Angio aortic arch and carotid Both,6,8,Y
+78,CT,CT Angio aortic arch and carotid Both,5,9,Y
+79,CT,CT Angio aortic arch and carotid Both,5,12,Y
+80,CT,CT Angiogram,4,1,N
+81,CT,CT Angiogram,4,6,N
+82,CT,CT Angiogram abdomen,2,7,Y
+83,CT,CT Angiogram aorta,4,0,N
+84,CT,CT Angiogram aorta,14,1,N
+85,CT,CT Angiogram aorta,21,2,N
+86,CT,CT Angiogram aorta,8,3,N
+87,CT,CT Angiogram aorta,14,4,N
+88,CT,CT Angiogram aorta,3,5,N
+89,CT,CT Angiogram aorta,15,6,N
+90,CT,CT Angiogram aorta,11,7,Y
+91,CT,CT Angiogram aorta,8,8,Y
+92,CT,CT Angiogram aorta,1,9,Y
+93,CT,CT Angiogram aorta,6,10,Y
+94,CT,CT Angiogram aorta,2,12,Y
+95,CT,CT Angiogram aorta,5,13,Y
+96,CT,CT Angiogram aorta,2,18,Y
+97,CT,CT Angiogram aorta,3,26,Y
+98,CT,CT Angiogram intracranial,12,1,N
+99,CT,CT Angiogram intracranial,6,2,N
+100,CT,CT Angiogram intracranial,8,3,N
+101,CT,CT Angiogram intracranial,7,4,N
+102,CT,CT Angiogram intracranial,2,5,N
+103,CT,CT Angiogram intracranial,4,6,N
+104,CT,CT Angiogram intracranial,2,8,Y
+105,CT,CT Angiogram intracranial,1,9,Y
+106,CT,CT Angiogram intracranial,4,12,Y
+107,CT,CT Angiogram lower limb Both,16,1,N
+108,CT,CT Angiogram lower limb Both,8,2,N
+109,CT,CT Angiogram lower limb Both,7,3,N
+110,CT,CT Angiogram lower limb Both,6,4,N
+111,CT,CT Angiogram lower limb Both,6,5,N
+112,CT,CT Angiogram lower limb Both,7,6,N
+113,CT,CT Angiogram lower limb Both,5,7,Y
+114,CT,CT Angiogram lower limb Both,3,8,Y
+115,CT,CT Angiogram lower limb Both,4,9,Y
+116,CT,CT Angiogram lower limb Both,7,10,Y
+117,CT,CT Angiogram lower limb Both,3,11,Y
+118,CT,CT Angiogram lower limb Both,4,12,Y
+119,CT,CT Angiogram lower limb Lt,6,1,N
+120,CT,CT Angiogram lower limb Lt,3,2,N
+121,CT,CT Angiogram lower limb Lt,3,6,N
+122,CT,CT Angiogram lower limb Lt,4,14,Y
+123,CT,CT Angiogram lower limb Rt,3,8,Y
+124,CT,CT Angiogram lower limb Rt,5,10,Y
+125,CT,CT Angiogram mesenteric artery,2,7,Y
+126,CT,CT Angiogram mesenteric artery,2,21,Y
+127,CT,CT Angiogram pulmonary,5,0,N
+128,CT,CT Angiogram pulmonary,36,1,N
+129,CT,CT Angiogram pulmonary,12,2,N
+130,CT,CT Angiogram pulmonary,5,3,N
+131,CT,CT Angiogram pulmonary,3,4,N
+132,CT,CT Angiogram pulmonary,5,5,N
+133,CT,CT Angiogram pulmonary,9,7,Y
+134,CT,CT Angiogram pulmonary,3,8,Y
+135,CT,CT Angiogram pulmonary,1,10,Y
+136,CT,CT Angiogram pulmonary,6,11,Y
+137,CT,CT Angiogram pulmonary,7,12,Y
+138,CT,CT Angiogram renal and abdominal,5,2,N
+139,CT,CT Angiogram renal and abdominal,6,3,N
+140,CT,CT Angiogram renal and abdominal,6,11,Y
+141,CT,CT Angiogram upper limb Both,2,2,N
+142,CT,CT Angiogram upper limb Lt,2,3,N
+143,CT,CT Angiogram upper limb Rt,4,3,N
+144,CT,CT Angiogram upper limb Rt,2,6,N
+145,CT,CT Angiography thorax and abdomen,3,1,N
+146,CT,CT Angiography thorax and abdomen,3,2,N
+147,CT,CT Angiography thorax and abdomen,6,4,N
+148,CT,CT Angiography thorax and abdomen,4,6,N
+149,CT,CT Angiography thorax and abdomen,4,10,Y
+150,CT,CT Ankle Lt,6,2,N
+151,CT,CT Ankle Lt,6,3,N
+152,CT,CT Ankle Lt,3,6,N
+153,CT,CT Ankle Lt,5,8,Y
+154,CT,CT Ankle Lt,1,9,Y
+155,CT,CT Ankle Lt,3,11,Y
+156,CT,CT Ankle Rt,2,2,N
+157,CT,CT Ankle Rt,3,9,Y
+158,CT,CT Aorta abdominal with contrast,1,6,N
+159,CT,CT Aorta thoracic,3,2,N
+160,CT,CT Aorta whole with contrast,6,8,Y
+161,CT,CT Aorta whole with contrast,5,10,Y
+162,CT,CT Chest high resolution,4,0,N
+163,CT,CT Chest high resolution,22,1,N
+164,CT,CT Chest high resolution,32,2,N
+165,CT,CT Chest high resolution,25,3,N
+166,CT,CT Chest high resolution,9,4,N
+167,CT,CT Chest high resolution,19,5,N
+168,CT,CT Chest high resolution,33,6,N
+169,CT,CT Chest high resolution,15,7,Y
+170,CT,CT Chest high resolution,22,8,Y
+171,CT,CT Chest high resolution,7,9,Y
+172,CT,CT Chest high resolution,13,10,Y
+173,CT,CT Chest high resolution,10,11,Y
+174,CT,CT Chest high resolution,7,12,Y
+175,CT,CT Chest high resolution,4,19,Y
+176,CT,CT Chest high resolution with contrast,3,3,N
+177,CT,CT Clavicle Rt,2,2,N
+178,CT,CT Colonoscopy virtual,10,0,N
+179,CT,CT Colonoscopy virtual,55,1,N
+180,CT,CT Colonoscopy virtual,42,2,N
+181,CT,CT Colonoscopy virtual,28,3,N
+182,CT,CT Colonoscopy virtual,25,4,N
+183,CT,CT Colonoscopy virtual,19,5,N
+184,CT,CT Colonoscopy virtual,36,6,N
+185,CT,CT Colonoscopy virtual,7,7,Y
+186,CT,CT Colonoscopy virtual,14,8,Y
+187,CT,CT Colonoscopy virtual,7,9,Y
+188,CT,CT Colonoscopy virtual,6,10,Y
+189,CT,CT Colonoscopy virtual,7,11,Y
+190,CT,CT Colonoscopy virtual,3,12,Y
+191,CT,CT Colonoscopy virtual,2,13,Y
+192,CT,CT Colonoscopy virtual,6,15,Y
+193,CT,CT Colonoscopy virtual,4,19,Y
+194,CT,CT Colonoscopy virtual,3,22,Y
+195,CT,CT Colonoscopy virtual,3,23,Y
+196,CT,CT Cone Beam,5,3,N
+197,CT,CT Cone Beam,3,6,N
+198,CT,CT Cone Beam,5,7,Y
+199,CT,CT Cone Beam,3,8,Y
+200,CT,CT Cone Beam,3,12,Y
+201,CT,CT Elbow Lt,2,0,N
+202,CT,CT Elbow Lt,6,1,N
+203,CT,CT Elbow Lt,3,3,N
+204,CT,CT Elbow Lt,1,4,N
+205,CT,CT Elbow Lt,3,6,N
+206,CT,CT Elbow Lt,5,8,Y
+207,CT,CT Elbow Lt,6,9,Y
+208,CT,CT Elbow Rt,5,3,N
+209,CT,CT Elbow Rt,2,9,Y
+210,CT,CT Elbow Rt,5,13,Y
+211,CT,CT Enterography,3,2,N
+212,CT,CT Facial bones,5,1,N
+213,CT,CT Facial bones,4,3,N
+214,CT,CT Facial bones,5,4,N
+215,CT,CT Foot Lt,3,1,N
+216,CT,CT Foot Lt,2,2,N
+217,CT,CT Foot Lt,2,3,N
+218,CT,CT Foot Lt,8,6,N
+219,CT,CT Foot Rt,5,2,N
+220,CT,CT Foot Rt,1,3,N
+221,CT,CT Foot Rt,4,6,N
+222,CT,CT Foot Rt,5,8,Y
+223,CT,CT Foot Rt,7,9,Y
+224,CT,CT Groin Right,3,3,N
+225,CT,CT Groin Right,2,6,N
+226,CT,CT Guided biopsy,1,1,N
+227,CT,CT Guided biopsy,3,3,N
+228,CT,CT Guided biopsy,1,17,Y
+229,CT,CT Guided biopsy abdomen,1,1,N
+230,CT,CT Guided biopsy abdomen,1,4,N
+231,CT,CT Guided biopsy pelvis,3,1,N
+232,CT,CT Guided biopsy pelvis,1,3,N
+233,CT,CT Guided biopsy thorax,5,1,N
+234,CT,CT Guided biopsy thorax,2,2,N
+235,CT,CT Guided biopsy thorax,2,3,N
+236,CT,CT Guided biopsy thorax,3,7,Y
+237,CT,CT Guided drainage abdomen,5,1,N
+238,CT,CT Guided drainage thorax,1,2,N
+239,CT,CT Hand Lt,6,1,N
+240,CT,CT Head,10,0,N
+241,CT,CT Head,94,1,N
+242,CT,CT Head,70,2,N
+243,CT,CT Head,44,3,N
+244,CT,CT Head,30,4,N
+245,CT,CT Head,18,5,N
+246,CT,CT Head,26,6,N
+247,CT,CT Head,2,7,Y
+248,CT,CT Head,6,8,Y
+249,CT,CT Head,4,9,Y
+250,CT,CT Head,3,10,Y
+251,CT,CT Head,3,11,Y
+252,CT,CT Head,7,12,Y
+253,CT,CT Head,2,16,Y
+254,CT,CT Head,1,17,Y
+255,CT,CT Head,3,20,Y
+256,CT,CT Head and neck,1,11,Y
+257,CT,CT Head and neck with contrast,6,3,N
+258,CT,CT Head and neck with contrast,2,8,Y
+259,CT,CT Head and thorax,2,6,N
+260,CT,CT Head with contrast,3,0,N
+261,CT,CT Head with contrast,18,1,N
+262,CT,CT Head with contrast,7,2,N
+263,CT,CT Head with contrast,7,3,N
+264,CT,CT Head with contrast,8,4,N
+265,CT,CT Head with contrast,1,6,N
+266,CT,CT Head with contrast,4,7,Y
+267,CT,CT Head with contrast,5,8,Y
+268,CT,CT Head with contrast,1,16,Y
+269,CT,CT Head with contrast,4,21,Y
+270,CT,CT Hip Lt,4,1,N
+271,CT,CT Hip Lt,3,2,N
+272,CT,CT Hip Lt,3,8,Y
+273,CT,CT Hip Rt,3,1,N
+274,CT,CT Hip Rt,7,2,N
+275,CT,CT Hip Rt,3,11,Y
+276,CT,CT IAM with contrast,8,2,N
+277,CT,CT IAM with contrast,3,3,N
+278,CT,CT IAM with contrast,3,4,N
+279,CT,CT IAM with contrast,5,5,N
+280,CT,CT IAM with contrast,3,6,N
+281,CT,CT IAM with contrast,2,8,Y
+282,CT,CT Internal auditory meatus Both,7,1,N
+283,CT,CT Internal auditory meatus Both,1,3,N
+284,CT,CT Internal auditory meatus Both,5,8,Y
+285,CT,CT Internal auditory meatus Both,2,12,Y
+286,CT,CT Internal auditory meatus Both,2,18,Y
+287,CT,CT Kidney triple phase Both,1,45,Y
+288,CT,CT Knee Both,5,2,N
+289,CT,CT Knee Lt,9,1,N
+290,CT,CT Knee Lt,5,3,N
+291,CT,CT Knee Lt,7,4,N
+292,CT,CT Knee Lt,2,5,N
+293,CT,CT Knee Lt,6,6,N
+294,CT,CT Knee Lt,2,8,Y
+295,CT,CT Knee Lt,7,9,Y
+296,CT,CT Knee Lt,1,10,Y
+297,CT,CT Knee Rt,2,0,N
+298,CT,CT Knee Rt,5,1,N
+299,CT,CT Knee Rt,6,2,N
+300,CT,CT Knee Rt,2,3,N
+301,CT,CT Knee Rt,3,6,N
+302,CT,CT Knee Rt,6,7,Y
+303,CT,CT Knee Rt,4,8,Y
+304,CT,CT Knee Rt,5,9,Y
+305,CT,CT Knee Rt,5,10,Y
+306,CT,CT Knee Rt,2,11,Y
+307,CT,CT Liver,6,5,N
+308,CT,CT Liver triple phase,14,1,N
+309,CT,CT Liver triple phase,7,2,N
+310,CT,CT Liver triple phase,8,3,N
+311,CT,CT Liver triple phase,3,4,N
+312,CT,CT Liver triple phase,1,5,N
+313,CT,CT Liver triple phase,8,6,N
+314,CT,CT Liver triple phase,3,7,Y
+315,CT,CT Liver triple phase,7,8,Y
+316,CT,CT Liver triple phase,1,9,Y
+317,CT,CT Liver triple phase,5,10,Y
+318,CT,CT Liver triple phase,3,11,Y
+319,CT,CT Liver triple phase,6,12,Y
+320,CT,CT Liver triple phase,5,13,Y
+321,CT,CT Liver with contrast,3,1,N
+322,CT,CT Liver with contrast,9,2,N
+323,CT,CT Liver with contrast,11,3,N
+324,CT,CT Liver with contrast,2,4,N
+325,CT,CT Liver with contrast,5,6,N
+326,CT,CT Liver with contrast,5,7,Y
+327,CT,CT Liver with contrast,5,8,Y
+328,CT,CT Liver with contrast,7,10,Y
+329,CT,CT Low dose thorax,8,0,N
+330,CT,CT Low dose thorax,86,1,N
+331,CT,CT Low dose thorax,77,2,N
+332,CT,CT Low dose thorax,47,3,N
+333,CT,CT Low dose thorax,20,4,N
+334,CT,CT Low dose thorax,10,5,N
+335,CT,CT Low dose thorax,18,6,N
+336,CT,CT Low dose thorax,8,7,Y
+337,CT,CT Low dose thorax,14,8,Y
+338,CT,CT Low dose thorax,4,9,Y
+339,CT,CT Low dose thorax,1,10,Y
+340,CT,CT Low dose thorax,3,11,Y
+341,CT,CT Low dose thorax,2,15,Y
+342,CT,CT Low dose thorax,2,16,Y
+343,CT,CT Low dose thorax,3,20,Y
+344,CT,CT Lower leg Lt,3,3,N
+345,CT,CT Lower leg Lt,4,4,N
+346,CT,CT Lower leg Rt,3,2,N
+347,CT,CT Lower leg Rt,4,4,N
+348,CT,CT Lower leg with contrast Rt,4,8,Y
+349,CT,CT Mandible,6,1,N
+350,CT,CT Mandible,8,2,N
+351,CT,CT Mandible,7,3,N
+352,CT,CT Mastoid Both,9,1,N
+353,CT,CT Mastoid Both,7,2,N
+354,CT,CT Mastoid Both,7,3,N
+355,CT,CT Mastoid Both,4,4,N
+356,CT,CT Mastoid Both,13,6,N
+357,CT,CT Mastoid Both,7,7,Y
+358,CT,CT Mastoid Both,5,8,Y
+359,CT,CT Mastoid Both,9,9,Y
+360,CT,CT Mastoid Both,1,10,Y
+361,CT,CT Mastoid Both,3,11,Y
+362,CT,CT Mastoid Both,5,12,Y
+363,CT,CT Neck,1,2,N
+364,CT,CT Neck,8,3,N
+365,CT,CT Neck,6,6,N
+366,CT,CT Neck and thorax,3,8,Y
+367,CT,CT Neck and thorax,2,11,Y
+368,CT,CT Neck and thorax with contrast,6,3,N
+369,CT,CT Neck and thorax with contrast,1,8,Y
+370,CT,CT Neck thorax abdomen and pelvis,1,10,Y
+371,CT,CT Neck thorax abdomen and pelvis,6,12,Y
+372,CT,CT Neck thorax abdomen pelvis with Cont,7,1,N
+373,CT,CT Neck thorax abdomen pelvis with Cont,8,2,N
+374,CT,CT Neck thorax abdomen pelvis with Cont,5,3,N
+375,CT,CT Neck thorax abdomen pelvis with Cont,4,4,N
+376,CT,CT Neck thorax abdomen pelvis with Cont,3,6,N
+377,CT,CT Neck thorax abdomen pelvis with Cont,8,7,Y
+378,CT,CT Neck thorax abdomen pelvis with Cont,3,8,Y
+379,CT,CT Neck thorax abdomen pelvis with Cont,5,9,Y
+380,CT,CT Neck thorax abdomen pelvis with Cont,4,13,Y
+381,CT,CT Neck thorax and abdomen,6,1,N
+382,CT,CT Neck thorax and abdomen,1,6,N
+383,CT,CT Neck thorax and abdomen,1,10,Y
+384,CT,CT Neck thorax and abdomen with contrast,6,1,N
+385,CT,CT Neck thorax and abdomen with contrast,1,2,N
+386,CT,CT Neck thorax and abdomen with contrast,6,3,N
+387,CT,CT Neck thorax and abdomen with contrast,6,6,N
+388,CT,CT Neck with contrast,15,1,N
+389,CT,CT Neck with contrast,5,2,N
+390,CT,CT Neck with contrast,7,3,N
+391,CT,CT Neck with contrast,3,4,N
+392,CT,CT Neck with contrast,3,5,N
+393,CT,CT Neck with contrast,2,6,N
+394,CT,CT Neck with contrast,5,7,Y
+395,CT,CT Neck with contrast,5,8,Y
+396,CT,CT Neck with contrast,5,20,Y
+397,CT,CT Orbit Both,1,1,N
+398,CT,CT Orbit Both,3,5,N
+399,CT,CT Orbit Both,4,6,N
+400,CT,CT Orbit with contrast Both,2,2,N
+401,CT,CT Orbit with contrast Both,6,6,N
+402,CT,CT Pancreas,6,1,N
+403,CT,CT Pancreas,4,7,Y
+404,CT,CT Pancreas with contrast,5,0,N
+405,CT,CT Pancreas with contrast,12,1,N
+406,CT,CT Pancreas with contrast,21,2,N
+407,CT,CT Pancreas with contrast,10,3,N
+408,CT,CT Pancreas with contrast,6,4,N
+409,CT,CT Pancreas with contrast,7,5,N
+410,CT,CT Pancreas with contrast,12,6,N
+411,CT,CT Pancreas with contrast,1,7,Y
+412,CT,CT Pancreas with contrast,4,8,Y
+413,CT,CT Pancreas with contrast,2,9,Y
+414,CT,CT Pancreas with contrast,5,10,Y
+415,CT,CT Pancreas with contrast,1,11,Y
+416,CT,CT Pancreas with contrast,8,12,Y
+417,CT,CT Pancreas with contrast,2,13,Y
+418,CT,CT Pancreas with contrast,6,22,Y
+419,CT,CT Parotids with contrast,4,6,N
+420,CT,CT Parotids with contrast,1,8,Y
+421,CT,CT Pelvis,7,1,N
+422,CT,CT Pelvis,5,2,N
+423,CT,CT Pelvis,6,3,N
+424,CT,CT Pelvis,3,4,N
+425,CT,CT Pelvis,8,6,N
+426,CT,CT Pelvis,6,7,Y
+427,CT,CT Pelvis,1,9,Y
+428,CT,CT Pelvis,3,11,Y
+429,CT,CT Pelvis,4,12,Y
+430,CT,CT Pelvis,3,14,Y
+431,CT,CT Pelvis with contrast,5,1,N
+432,CT,CT Pelvis with contrast,5,2,N
+433,CT,CT Pelvis with contrast,5,3,N
+434,CT,CT Pelvis with contrast,3,6,N
+435,CT,CT Pelvis with contrast,3,7,Y
+436,CT,CT Pelvis with contrast,9,8,Y
+437,CT,CT Petrous bones,4,0,N
+438,CT,CT Petrous bones,11,1,N
+439,CT,CT Petrous bones,13,2,N
+440,CT,CT Petrous bones,7,3,N
+441,CT,CT Petrous bones,10,4,N
+442,CT,CT Petrous bones,20,6,N
+443,CT,CT Petrous bones,8,7,Y
+444,CT,CT Petrous bones,8,8,Y
+445,CT,CT Petrous bones,3,9,Y
+446,CT,CT Petrous bones,5,10,Y
+447,CT,CT Petrous bones,2,11,Y
+448,CT,CT Petrous bones,5,12,Y
+449,CT,CT Petrous bones,1,13,Y
+450,CT,CT Renal Both,3,1,N
+451,CT,CT Renal Both,7,2,N
+452,CT,CT Renal Both,8,3,N
+453,CT,CT Renal Both,5,4,N
+454,CT,CT Renal Both,4,5,N
+455,CT,CT Renal Both,5,6,N
+456,CT,CT Renal Both,4,7,Y
+457,CT,CT Renal Both,3,8,Y
+458,CT,CT Renal Both,5,9,Y
+459,CT,CT Renal Both,2,10,Y
+460,CT,CT Renal Both,3,11,Y
+461,CT,CT Renal Both,1,12,Y
+462,CT,CT Renal Both,1,21,Y
+463,CT,CT Renal with contrast Both,3,0,N
+464,CT,CT Renal with contrast Both,11,1,N
+465,CT,CT Renal with contrast Both,4,2,N
+466,CT,CT Renal with contrast Both,3,3,N
+467,CT,CT Renal with contrast Both,4,4,N
+468,CT,CT Renal with contrast Both,5,5,N
+469,CT,CT Renal with contrast Both,5,6,N
+470,CT,CT Renal with contrast Both,4,7,Y
+471,CT,CT Renal with contrast Both,5,8,Y
+472,CT,CT Renal with contrast Both,4,9,Y
+473,CT,CT Renal with contrast Both,3,11,Y
+474,CT,CT Renal with contrast Both,3,12,Y
+475,CT,CT Renal with contrast Both,2,13,Y
+476,CT,CT Renal with contrast Both,2,16,Y
+477,CT,CT Renal with contrast Both,2,45,Y
+478,CT,CT Salivary glands with contrast,4,3,N
+479,CT,CT Shoulder Both,1,2,N
+480,CT,CT Shoulder Lt,5,1,N
+481,CT,CT Shoulder Lt,1,2,N
+482,CT,CT Shoulder Lt,6,3,N
+483,CT,CT Shoulder Lt,7,6,N
+484,CT,CT Shoulder Lt,2,7,Y
+485,CT,CT Shoulder Lt,2,8,Y
+486,CT,CT Shoulder Lt,3,12,Y
+487,CT,CT Shoulder Rt,5,1,N
+488,CT,CT Shoulder Rt,9,2,N
+489,CT,CT Shoulder Rt,4,6,N
+490,CT,CT Shoulder Rt,5,7,Y
+491,CT,CT Shoulder Rt,3,8,Y
+492,CT,CT Shoulder Rt,4,9,Y
+493,CT,CT Shoulder Rt,5,10,Y
+494,CT,CT Sinuses,11,0,N
+495,CT,CT Sinuses,37,1,N
+496,CT,CT Sinuses,27,2,N
+497,CT,CT Sinuses,22,3,N
+498,CT,CT Sinuses,16,4,N
+499,CT,CT Sinuses,3,5,N
+500,CT,CT Sinuses,9,6,N
+501,CT,CT Sinuses,4,7,Y
+502,CT,CT Sinuses,5,8,Y
+503,CT,CT Sinuses,6,9,Y
+504,CT,CT Sinuses,6,10,Y
+505,CT,CT Sinuses,6,18,Y
+506,CT,CT Sinuses with contrast,6,1,N
+507,CT,CT Sinuses with contrast,5,2,N
+508,CT,CT Sinuses with contrast,9,3,N
+509,CT,CT Sinuses with contrast,9,4,N
+510,CT,CT Sinuses with contrast,4,5,N
+511,CT,CT Sinuses with contrast,8,6,N
+512,CT,CT Sinuses with contrast,10,7,Y
+513,CT,CT Sinuses with contrast,7,8,Y
+514,CT,CT Sinuses with contrast,4,9,Y
+515,CT,CT Sinuses with contrast,3,10,Y
+516,CT,CT Spine C T L S with contrast,5,6,N
+517,CT,CT Spine C T L S with contrast,3,9,Y
+518,CT,CT Spine cervical,10,1,N
+519,CT,CT Spine cervical,2,2,N
+520,CT,CT Spine cervical,4,3,N
+521,CT,CT Spine cervical,3,5,N
+522,CT,CT Spine cervical,6,6,N
+523,CT,CT Spine cervical,2,7,Y
+524,CT,CT Spine cervical,3,8,Y
+525,CT,CT Spine cervical,5,9,Y
+526,CT,CT Spine cervical,2,18,Y
+527,CT,CT Spine lumbar,3,0,N
+528,CT,CT Spine lumbar,4,1,N
+529,CT,CT Spine lumbar,8,2,N
+530,CT,CT Spine lumbar,11,3,N
+531,CT,CT Spine lumbar,7,6,N
+532,CT,CT Spine lumbar,5,7,Y
+533,CT,CT Spine lumbar,3,8,Y
+534,CT,CT Spine lumbar,5,9,Y
+535,CT,CT Spine lumbar,1,14,Y
+536,CT,CT Spine lumbar,8,16,Y
+537,CT,CT Spine lumbar,5,20,Y
+538,CT,CT Spine lumbar with contrast,4,8,Y
+539,CT,CT Spine sacral,3,0,N
+540,CT,CT Spine sacral,6,1,N
+541,CT,CT Spine sacral,7,3,N
+542,CT,CT Spine sacral with contrast,3,8,Y
+543,CT,CT Spine thoracic,5,0,N
+544,CT,CT Spine thoracic,3,3,N
+545,CT,CT Spine thoracic,5,6,N
+546,CT,CT Spine thoracic,5,9,Y
+547,CT,CT Sternoclavicular joint Both,4,5,N
+548,CT,CT Sternoclavicular joint Both,3,11,Y
+549,CT,CT Temporal bones,1,6,N
+550,CT,CT Temporal bones,5,8,Y
+551,CT,CT Temporal bones,3,9,Y
+552,CT,CT Thorax,7,0,N
+553,CT,CT Thorax,37,1,N
+554,CT,CT Thorax,15,2,N
+555,CT,CT Thorax,20,3,N
+556,CT,CT Thorax,12,4,N
+557,CT,CT Thorax,16,5,N
+558,CT,CT Thorax,19,6,N
+559,CT,CT Thorax,8,7,Y
+560,CT,CT Thorax,6,8,Y
+561,CT,CT Thorax,4,9,Y
+562,CT,CT Thorax,3,10,Y
+563,CT,CT Thorax,8,11,Y
+564,CT,CT Thorax,5,12,Y
+565,CT,CT Thorax,3,19,Y
+566,CT,CT Thorax,8,22,Y
+567,CT,CT Thorax abdomen and pelvis,5,0,N
+568,CT,CT Thorax abdomen and pelvis,20,1,N
+569,CT,CT Thorax abdomen and pelvis,8,2,N
+570,CT,CT Thorax abdomen and pelvis,5,3,N
+571,CT,CT Thorax abdomen and pelvis,3,4,N
+572,CT,CT Thorax abdomen and pelvis,5,6,N
+573,CT,CT Thorax abdomen and pelvis,6,7,Y
+574,CT,CT Thorax abdomen and pelvis,2,8,Y
+575,CT,CT Thorax abdomen and pelvis,5,12,Y
+576,CT,CT Thorax abdomen pelvis with contrast,25,0,N
+577,CT,CT Thorax abdomen pelvis with contrast,232,1,N
+578,CT,CT Thorax abdomen pelvis with contrast,207,2,N
+579,CT,CT Thorax abdomen pelvis with contrast,138,3,N
+580,CT,CT Thorax abdomen pelvis with contrast,77,4,N
+581,CT,CT Thorax abdomen pelvis with contrast,32,5,N
+582,CT,CT Thorax abdomen pelvis with contrast,103,6,N
+583,CT,CT Thorax abdomen pelvis with contrast,47,7,Y
+584,CT,CT Thorax abdomen pelvis with contrast,51,8,Y
+585,CT,CT Thorax abdomen pelvis with contrast,12,9,Y
+586,CT,CT Thorax abdomen pelvis with contrast,26,10,Y
+587,CT,CT Thorax abdomen pelvis with contrast,12,11,Y
+588,CT,CT Thorax abdomen pelvis with contrast,19,12,Y
+589,CT,CT Thorax abdomen pelvis with contrast,10,13,Y
+590,CT,CT Thorax abdomen pelvis with contrast,8,14,Y
+591,CT,CT Thorax abdomen pelvis with contrast,6,15,Y
+592,CT,CT Thorax abdomen pelvis with contrast,1,16,Y
+593,CT,CT Thorax abdomen pelvis with contrast,3,19,Y
+594,CT,CT Thorax abdomen pelvis with contrast,6,20,Y
+595,CT,CT Thorax abdomen pelvis with contrast,6,21,Y
+596,CT,CT Thorax abdomen pelvis with contrast,3,22,Y
+597,CT,CT Thorax abdomen pelvis with contrast,3,23,Y
+598,CT,CT Thorax abdomen pelvis with contrast,1,25,Y
+599,CT,CT Thorax and abdomen,3,1,N
+600,CT,CT Thorax and abdomen,5,2,N
+601,CT,CT Thorax and abdomen,6,9,Y
+602,CT,CT Thorax and abdomen,2,11,Y
+603,CT,CT Thorax and abdomen with contrast,4,0,N
+604,CT,CT Thorax and abdomen with contrast,9,1,N
+605,CT,CT Thorax and abdomen with contrast,8,2,N
+606,CT,CT Thorax and abdomen with contrast,6,3,N
+607,CT,CT Thorax and abdomen with contrast,7,4,N
+608,CT,CT Thorax and abdomen with contrast,7,5,N
+609,CT,CT Thorax and abdomen with contrast,8,6,N
+610,CT,CT Thorax and abdomen with contrast,7,7,Y
+611,CT,CT Thorax and abdomen with contrast,8,8,Y
+612,CT,CT Thorax and abdomen with contrast,6,9,Y
+613,CT,CT Thorax and abdomen with contrast,6,12,Y
+614,CT,CT Thorax and abdomen with contrast,1,14,Y
+615,CT,CT Thorax and abdomen with contrast,6,16,Y
+616,CT,CT Thorax and abdomen with contrast,2,22,Y
+617,CT,CT Thorax with contrast,9,0,N
+618,CT,CT Thorax with contrast,116,1,N
+619,CT,CT Thorax with contrast,116,2,N
+620,CT,CT Thorax with contrast,77,3,N
+621,CT,CT Thorax with contrast,43,4,N
+622,CT,CT Thorax with contrast,24,5,N
+623,CT,CT Thorax with contrast,98,6,N
+624,CT,CT Thorax with contrast,46,7,Y
+625,CT,CT Thorax with contrast,36,8,Y
+626,CT,CT Thorax with contrast,16,9,Y
+627,CT,CT Thorax with contrast,26,10,Y
+628,CT,CT Thorax with contrast,22,11,Y
+629,CT,CT Thorax with contrast,12,12,Y
+630,CT,CT Thorax with contrast,8,13,Y
+631,CT,CT Thorax with contrast,6,14,Y
+632,CT,CT Thorax with contrast,6,16,Y
+633,CT,CT Thorax with contrast,7,20,Y
+634,CT,CT Thorax with contrast,3,22,Y
+635,CT,CT Triple phase abdomen and pelvis Cont,6,1,N
+636,CT,CT Triple phase abdomen and pelvis Cont,5,6,N
+637,CT,CT Upper arm Lt,6,2,N
+638,CT,CT Upper leg Both,3,2,N
+639,CT,CT Upper leg Both,5,7,Y
+640,CT,CT Upper leg Both,3,8,Y
+641,CT,CT Upper leg Lt,2,6,N
+642,CT,CT Urinary tract,5,0,N
+643,CT,CT Urinary tract,53,1,N
+644,CT,CT Urinary tract,33,2,N
+645,CT,CT Urinary tract,24,3,N
+646,CT,CT Urinary tract,14,4,N
+647,CT,CT Urinary tract,18,5,N
+648,CT,CT Urinary tract,51,6,N
+649,CT,CT Urinary tract,17,7,Y
+650,CT,CT Urinary tract,20,8,Y
+651,CT,CT Urinary tract,7,9,Y
+652,CT,CT Urinary tract,13,10,Y
+653,CT,CT Urinary tract,17,11,Y
+654,CT,CT Urinary tract,12,12,Y
+655,CT,CT Urinary tract,3,13,Y
+656,CT,CT Urinary tract,2,14,Y
+657,CT,CT Urinary tract,4,21,Y
+658,CT,CT Urinary tract,5,23,Y
+659,CT,CT Urinary tract with contrast,5,0,N
+660,CT,CT Urinary tract with contrast,62,1,N
+661,CT,CT Urinary tract with contrast,41,2,N
+662,CT,CT Urinary tract with contrast,23,3,N
+663,CT,CT Urinary tract with contrast,12,4,N
+664,CT,CT Urinary tract with contrast,12,5,N
+665,CT,CT Urinary tract with contrast,11,6,N
+666,CT,CT Urinary tract with contrast,16,7,Y
+667,CT,CT Urinary tract with contrast,11,8,Y
+668,CT,CT Urinary tract with contrast,9,9,Y
+669,CT,CT Urinary tract with contrast,6,10,Y
+670,CT,CT Urinary tract with contrast,10,11,Y
+671,CT,CT Urinary tract with contrast,10,12,Y
+672,CT,CT Urinary tract with contrast,6,13,Y
+673,CT,CT Urinary tract with contrast,6,14,Y
+674,CT,CT Urinary tract with contrast,6,15,Y
+675,CT,CT Urinary tract with contrast,6,18,Y
+676,CT,CT Urinary tract with contrast,2,19,Y
+677,CT,CT Urogram,1,1,N
+678,CT,CT Urogram,3,2,N
+679,CT,CT Urogram,2,3,N
+680,CT,CT Urogram,6,4,N
+681,CT,CT Urogram,10,6,N
+682,CT,CT Urogram,6,7,Y
+683,CT,CT Urogram excretory phase with contrast,3,2,N
+684,CT,CT Venogram,4,2,N
+685,CT,CT Venogram,2,9,Y
+686,CT,CT Venogram Intracranial,6,6,N
+687,CT,CT Whole body,4,1,N
+688,CT,CT Whole body,6,2,N
+689,CT,CT Whole body,4,9,Y
+690,CT,CT Whole body with contrast,1,6,N
+691,CT,CT Whole spine,6,4,N
+692,CT,CT Whole spine,1,6,N
+693,CT,CT Whole spine,3,8,Y
+694,CT,CT Wrist Lt,8,1,N
+695,CT,CT Wrist Lt,7,4,N
+696,CT,CT Wrist Lt,2,6,N
+697,CT,CT Wrist Lt,1,9,Y
+698,CT,CT Wrist Rt,4,1,N
+699,CT,CT Wrist Rt,6,2,N
+700,CT,CT Wrist Rt,5,6,N
+701,CT,CT Wrist Rt,2,9,Y
+702,CT,CT Wrist Rt,2,11,Y
+703,CT Cardiac,CT Angiography for TAVI workup,4,1,N
+704,CT Cardiac,CT Angiography for TAVI workup,6,2,N
+705,CT Cardiac,CT Angiography for TAVI workup,4,4,N
+706,CT Cardiac,CT Angiography for TAVI workup,4,6,N
+707,CT Cardiac,CT Angiography for TAVI workup,7,7,Y
+708,CT Cardiac,CT Angiography for TAVI workup,5,8,Y
+709,CT Cardiac,CT Angiography for TAVI workup,3,16,Y
+710,CT Cardiac,CT Angiography for TAVI workup,6,19,Y
+711,CT Cardiac,CT Cardiac angiogram coronary,35,1,N
+712,CT Cardiac,CT Cardiac angiogram coronary,21,2,N
+713,CT Cardiac,CT Cardiac angiogram coronary,18,3,N
+714,CT Cardiac,CT Cardiac angiogram coronary,12,4,N
+715,CT Cardiac,CT Cardiac angiogram coronary,8,5,N
+716,CT Cardiac,CT Cardiac angiogram coronary,37,6,N
+717,CT Cardiac,CT Cardiac angiogram coronary,17,7,Y
+718,CT Cardiac,CT Cardiac angiogram coronary,19,8,Y
+719,CT Cardiac,CT Cardiac angiogram coronary,15,9,Y
+720,CT Cardiac,CT Cardiac angiogram coronary,22,10,Y
+721,CT Cardiac,CT Cardiac angiogram coronary,20,11,Y
+722,CT Cardiac,CT Cardiac angiogram coronary,13,12,Y
+723,CT Cardiac,CT Cardiac angiogram coronary,9,13,Y
+724,CT Cardiac,CT Cardiac angiogram coronary,19,14,Y
+725,CT Cardiac,CT Cardiac angiogram coronary,21,15,Y
+726,CT Cardiac,CT Cardiac angiogram coronary,21,16,Y
+727,CT Cardiac,CT Cardiac angiogram coronary,10,17,Y
+728,CT Cardiac,CT Cardiac angiogram coronary,14,18,Y
+729,CT Cardiac,CT Cardiac angiogram coronary,8,19,Y
+730,CT Cardiac,CT Cardiac angiogram coronary,14,20,Y
+731,CT Cardiac,CT Cardiac angiogram coronary,5,21,Y
+732,CT Cardiac,CT Cardiac angiogram coronary,6,22,Y
+733,CT Cardiac,CT Cardiac angiogram coronary,6,23,Y
+734,CT Cardiac,CT Cardiac angiogram coronary,1,24,Y
+735,CT Cardiac,CT Cardiac angiogram coronary,7,25,Y
+736,CT Cardiac,CT Cardiac angiogram coronary,7,26,Y
+737,CT Cardiac,CT Cardiac angiogram coronary,3,27,Y
+738,CT Cardiac,CT Cardiac angiogram coronary,3,28,Y
+739,CT Cardiac,CT Cardiac angiogram coronary,7,29,Y
+740,CT Cardiac,CT Cardiac angiogram coronary,3,30,Y
+741,CT Cardiac,CT Cardiac angiogram coronary,6,31,Y
+742,CT Cardiac,CT Cardiac angiogram coronary,2,32,Y
+743,CT Cardiac,CT Cardiac angiogram coronary,3,37,Y
+744,CT Cardiac,CT Cardiac angiogram coronary,6,42,Y
+745,CT Cardiac,CT Cardiac angiogram coronary,4,50,Y
+746,CT Cardiac,CT Cardiac Cor artery calcium scoring,5,6,N
+747,CT Cardiac,CT Cardiac Cor artery calcium scoring,2,8,Y
+748,CT Cardiac,CT Cardiac Cor artery calcium scoring,1,11,Y
+749,CT Cardiac,CT Cardiac Cor artery calcium scoring,6,12,Y
+750,CT Cardiac,CT Cardiac Cor artery calcium scoring,1,19,Y
+751,CT Cardiac,CT Cardiac Cor artery calcium scoring,3,22,Y
+752,CT Cardiac,CT Cardiac Cor artery calcium scoring,2,24,Y

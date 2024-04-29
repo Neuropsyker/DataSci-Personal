@@ -1,0 +1,3458 @@
+,diagnostic_sub_category,diagnostic_description,count_of_diagnostics_id,current_wait_band
+0,Barium Enema,Endoscopic US pancreas,1,2
+1,Barium Enema,Endoscopic US pancreas,5,19
+2,Barium Enema,Endoscopic US pancreas,4,21
+3,Barium Enema,Endoscopic US stomach,1,7
+4,Cardiac MRI,MRI,2,1
+5,Cardiac MRI,MRI,8,2
+6,Cardiac MRI,MRI,9,3
+7,Cardiac MRI,MRI,1,4
+8,Cardiac MRI,MRI,8,5
+9,Cardiac MRI,MRI,13,6
+10,Cardiac MRI,MRI,4,7
+11,Cardiac MRI,MRI,5,8
+12,Cardiac MRI,MRI,9,9
+13,Cardiac MRI,MRI,3,10
+14,Cardiac MRI,MRI,6,11
+15,Cardiac MRI,MRI,6,12
+16,Cardiac MRI,MRI,3,13
+17,Cardiac MRI,MRI,8,14
+18,Cardiac MRI,MRI,5,15
+19,Cardiac MRI,MRI,9,16
+20,Cardiac MRI,MRI,8,17
+21,Cardiac MRI,MRI,5,18
+22,Cardiac MRI,MRI,1,19
+23,Cardiac MRI,MRI,6,20
+24,Cardiac MRI,MRI,6,21
+25,Cardiac MRI,MRI,4,22
+26,Cardiac MRI,MRI,4,23
+27,Cardiac MRI,MRI,1,24
+28,Cardiac MRI,MRI,7,25
+29,Cardiac MRI,MRI,5,26
+30,Cardiac MRI,MRI,3,27
+31,Cardiac MRI,MRI,6,28
+32,Cardiac MRI,MRI,7,29
+33,Cardiac MRI,MRI,6,30
+34,Cardiac MRI,MRI,2,31
+35,Cardiac MRI,MRI,4,32
+36,Cardiac MRI,MRI,7,33
+37,Cardiac MRI,MRI,2,34
+38,Cardiac MRI,MRI,7,35
+39,Cardiac MRI,MRI,2,36
+40,Cardiac MRI,MRI,7,37
+41,Cardiac MRI,MRI,8,38
+42,Cardiac MRI,MRI,5,39
+43,Cardiac MRI,MRI,6,40
+44,Cardiac MRI,MRI,2,41
+45,Cardiac MRI,MRI,4,42
+46,Cardiac MRI,MRI,3,43
+47,Cardiac MRI,MRI,4,45
+48,Cardiac MRI,MRI,1,46
+49,Cardiac MRI,MRI,5,47
+50,Cardiac MRI,MRI,7,48
+51,Cardiac MRI,MRI,3,49
+52,Cardiac MRI,MRI,11,50
+53,Cardiac MRI,MRI,7,51
+54,Cardiac MRI,MRI,4,52
+55,Cardiac MRI,MRI,6,53
+56,Cardiac MRI,MRI,3,54
+57,Cardiac MRI,MRI,6,56
+58,Cardiac MRI,MRI,4,57
+59,Cardiac MRI,MRI,2,58
+60,Cardiac MRI,MRI,1,59
+61,Cardiac MRI,MRI,11,60
+62,Cardiac MRI,MRI,2,61
+63,Cardiac MRI,MRI,8,62
+64,Cardiac MRI,MRI,5,63
+65,Cardiac MRI,MRI,5,64
+66,Cardiac MRI,MRI,7,66
+67,Cardiac MRI,MRI,3,67
+68,Cardiac MRI,MRI,7,69
+69,Cardiac MRI,MRI,8,70
+70,Cardiac MRI,MRI,7,74
+71,Cardiac MRI,MRI,7,76
+72,Cardiac MRI,MRI,6,77
+73,Cardiac MRI,MRI,3,78
+74,Cardiac MRI,MRI,5,79
+75,Cardiac MRI,MRI,4,80
+76,Cardiac MRI,MRI,6,81
+77,Cardiac MRI,MRI,6,82
+78,Cardiac MRI,MRI,2,83
+79,Cardiac MRI,MRI,1,84
+80,Cardiac MRI,MRI,7,86
+81,Cardiac MRI,MRI,4,87
+82,Cardiac MRI,MRI,4,93
+83,Colon,COLON,12,0
+84,Colon,COLON,127,1
+85,Colon,COLON,130,2
+86,Colon,COLON,79,3
+87,Colon,COLON,19,4
+88,Colon,COLON,18,5
+89,Colon,COLON,71,6
+90,Colon,COLON,23,7
+91,Colon,COLON,31,8
+92,Colon,COLON,40,9
+93,Colon,COLON,44,10
+94,Colon,COLON,43,11
+95,Colon,COLON,26,12
+96,Colon,COLON,36,13
+97,Colon,COLON,26,14
+98,Colon,COLON,43,15
+99,Colon,COLON,27,16
+100,Colon,COLON,36,17
+101,Colon,COLON,22,18
+102,Colon,COLON,34,19
+103,Colon,COLON,31,20
+104,Colon,COLON,20,21
+105,Colon,COLON,41,22
+106,Colon,COLON,32,23
+107,Colon,COLON,29,24
+108,Colon,COLON,35,25
+109,Colon,COLON,49,26
+110,Colon,COLON,33,27
+111,Colon,COLON,52,28
+112,Colon,COLON,28,29
+113,Colon,COLON,36,30
+114,Colon,COLON,24,31
+115,Colon,COLON,32,32
+116,Colon,COLON,34,33
+117,Colon,COLON,30,34
+118,Colon,COLON,39,35
+119,Colon,COLON,35,36
+120,Colon,COLON,19,37
+121,Colon,COLON,22,38
+122,Colon,COLON,25,39
+123,Colon,COLON,27,40
+124,Colon,COLON,18,41
+125,Colon,COLON,15,42
+126,Colon,COLON,37,43
+127,Colon,COLON,33,44
+128,Colon,COLON,29,45
+129,Colon,COLON,32,46
+130,Colon,COLON,29,47
+131,Colon,COLON,26,48
+132,Colon,COLON,20,49
+133,Colon,COLON,29,50
+134,Colon,COLON,20,51
+135,Colon,COLON,26,52
+136,Colon,COLON,27,53
+137,Colon,COLON,31,54
+138,Colon,COLON,20,55
+139,Colon,COLON,15,56
+140,Colon,COLON,15,57
+141,Colon,COLON,28,58
+142,Colon,COLON,23,59
+143,Colon,COLON,19,60
+144,Colon,COLON,32,61
+145,Colon,COLON,28,62
+146,Colon,COLON,32,63
+147,Colon,COLON,19,64
+148,Colon,COLON,18,65
+149,Colon,COLON,23,66
+150,Colon,COLON,14,67
+151,Colon,COLON,13,68
+152,Colon,COLON,15,69
+153,Colon,COLON,11,70
+154,Colon,COLON,8,71
+155,Colon,COLON,8,72
+156,Colon,COLON,11,73
+157,Colon,COLON,12,74
+158,Colon,COLON,15,75
+159,Colon,COLON,8,76
+160,Colon,COLON,11,77
+161,Colon,COLON,12,78
+162,Colon,COLON,11,79
+163,Colon,COLON,12,80
+164,Colon,COLON,15,81
+165,Colon,COLON,9,82
+166,Colon,COLON,4,83
+167,Colon,COLON,7,84
+168,Colon,COLON,2,85
+169,Colon,COLON,6,86
+170,Colon,COLON,3,87
+171,Colon,COLON,4,88
+172,Colon,COLON,10,89
+173,Colon,COLON,9,90
+174,Colon,COLON,6,91
+175,Colon,COLON,5,94
+176,Colon,COLON IBD,2,30
+177,Colon,COLON TBT,6,6
+178,Colon,COLON TBT,1,7
+179,Colon,COLON TBT,7,17
+180,Colon,COLON TBT,5,19
+181,Colon,COLON TBT,3,20
+182,Colon,COLON TBT,3,30
+183,Colon,COLON TBT,5,31
+184,Colon,COLON TBT,1,32
+185,Colon,COLON TBT,2,33
+186,Colon,COLON TBT,6,34
+187,Colon,COLON TBT,2,37
+188,Colon,COLON TBT,3,40
+189,Colon,COLON TBT,4,53
+190,Colon,COLON TBT,6,55
+191,Colon,COLON TBT,4,57
+192,Colon,COLON TBT,4,60
+193,Colon,COLON TBT,3,61
+194,Colon,COLON TBT,5,62
+195,Colon,COLON TBT,4,63
+196,Colon,COLON TBT,2,65
+197,Colon,COLON TBT,6,69
+198,Colon,COLON TBT,5,71
+199,Colon,COLON TBT,5,73
+200,Colon,COLON TBT,2,74
+201,Colon,COLON TBT,5,76
+202,Colon,COLON+APC,6,2
+203,Colon,COLON+APC,5,15
+204,Colon,COLON+APC,3,33
+205,Colon,COLON+APC,2,67
+206,Colon,COLON+DYE SPRAY,5,1
+207,Colon,COLON+DYE SPRAY,2,3
+208,Colon,COLON+DYE SPRAY,1,13
+209,Colon,COLON+DYE SPRAY,4,14
+210,Colon,COLON+DYE SPRAY,3,19
+211,Colon,COLON+DYE SPRAY,4,25
+212,Colon,COLON+DYE SPRAY,1,34
+213,Colon,COLON+DYE SPRAY,1,66
+214,Colon,COLON+EFTR,3,11
+215,Colon,COLON+EMR,4,2
+216,Colon,COLON+EMR,7,3
+217,Colon,COLON+EMR,6,5
+218,Colon,COLON+EMR,5,6
+219,Colon,COLON+EMR,1,8
+220,Colon,COLON+EMR,6,9
+221,Colon,COLON+EMR,2,10
+222,Colon,COLON+EMR,3,11
+223,Colon,COLON+EMR,3,12
+224,Colon,COLON+EMR,4,17
+225,Colon,COLON+EMR,4,28
+226,Colon,COLON+EMR,3,29
+227,Colon,COLON+EMR,6,33
+228,Colon,COLON+EMR,6,36
+229,Colon,COLON+EMR,3,48
+230,Colon,COLON+EMR,5,51
+231,Colon,COLON+EMR,5,52
+232,Colon,COLON+EMR,1,59
+233,Colon,COLON+EMR,5,61
+234,Colon,COLON+EMR,4,62
+235,Colon,COLON+EMR,3,65
+236,Colon,COLON+EMR,4,66
+237,Colon,COLON+EMR,6,67
+238,Colon,COLON+EMR,5,69
+239,Colon,COLON+ESD,3,58
+240,Colon,COLON+IBD,2,8
+241,Colon,COLON+IBD,4,12
+242,Colon,COLON+IBD,4,14
+243,Colon,COLON+IBD,2,16
+244,Colon,COLON+IBD,4,19
+245,Colon,COLON+IBD,5,24
+246,Colon,COLON+IBD,2,25
+247,Colon,COLON+IBD,7,30
+248,Colon,COLON+IBD,5,31
+249,Colon,COLON+SSD,4,3
+250,Colon,COLON+SSD,5,4
+251,Colon,COLON+SSD,9,5
+252,Colon,COLON+SSD,3,7
+253,Colon,COLON+SSD,1,8
+254,Colon,COLON+SSD,4,9
+255,Colon,COLON+SSD,1,10
+256,Colon,COLON+SSD,1,13
+257,Colon,COLON+SSD,3,14
+258,Colon,COLONOSCOPY + EMR,3,5
+259,Colon,OGG,6,2
+260,Colon,STREAM 2 COLON,3,7
+261,Colon,STREAM 2 COLON,1,75
+262,Colon,STREAM 3 COLON,4,8
+263,Colon,STREAM 3 COLON,4,24
+264,Colon,STREAM 3 COLON,2,60
+265,Colon,STREAM 3 COLON,5,63
+266,Colon,STREAM 3 COLON,1,74
+267,Colon,STREAM 3 COLON,8,76
+268,Colon,STREAM 3 COLON,5,77
+269,Colon,STREAM 3 COLON,5,78
+270,Colon,STREAM 3 COLON,7,79
+271,Colon,STREAM 3 COLON,6,80
+272,Colon,STREAM 3 COLON,6,81
+273,Colon,STREAM 3 COLON,14,82
+274,Colon,STREAM 3 COLON,5,83
+275,Colon,STREAM 3 COLON,12,84
+276,Colon,STREAM 3 COLON,8,85
+277,Colon,STREAM 3 COLON,2,86
+278,Colon,STREAM 3 COLON,5,87
+279,Colon,STREAM 3 COLON,8,88
+280,Colon,STREAM 3 COLON,8,89
+281,Colon,STREAM 3 COLON,3,94
+282,Colon,STREAM 4 COLON,6,6
+283,Colon,STREAM 4 COLON,4,75
+284,Colon,STREAM 4 COLON,2,76
+285,Colon,STREAM 4 COLON,4,77
+286,Colon,STREAM 4 COLON,2,78
+287,Colon,STREAM 4 COLON,2,79
+288,Colon,STREAM 4 COLON,8,80
+289,Colon,STREAM 4 COLON,1,81
+290,Colon,STREAM 4 COLON,6,82
+291,Colon,STREAM 4 COLON,2,84
+292,Colon,STREAM 4 COLON,2,85
+293,Colon,STREAM 4 COLON,4,86
+294,Colon,STREAM 4 COLON,2,87
+295,Colon,STREAM 4 COLON,2,88
+296,Colon,STREAM 4 COLON,4,89
+297,Colon,STREAM 4 COLON,1,195
+298,Colon,TBT COLON,2,2
+299,Colon,TBT COLON,1,3
+300,CT,CT Abdomen,6,0
+301,CT,CT Abdomen,2,1
+302,CT,CT Abdomen,7,2
+303,CT,CT Abdomen,3,3
+304,CT,CT Abdomen,7,4
+305,CT,CT Abdomen,4,6
+306,CT,CT Abdomen,5,8
+307,CT,CT Abdomen,1,11
+308,CT,CT Abdomen,4,12
+309,CT,CT Abdomen,4,17
+310,CT,CT Abdomen and pelvis,3,0
+311,CT,CT Abdomen and pelvis,14,1
+312,CT,CT Abdomen and pelvis,8,2
+313,CT,CT Abdomen and pelvis,9,3
+314,CT,CT Abdomen and pelvis,4,4
+315,CT,CT Abdomen and pelvis,4,5
+316,CT,CT Abdomen and pelvis,11,6
+317,CT,CT Abdomen and pelvis,5,7
+318,CT,CT Abdomen and pelvis,7,8
+319,CT,CT Abdomen and pelvis,7,9
+320,CT,CT Abdomen and pelvis,2,10
+321,CT,CT Abdomen and pelvis,4,11
+322,CT,CT Abdomen and pelvis,1,12
+323,CT,CT Abdomen and pelvis with contrast,13,0
+324,CT,CT Abdomen and pelvis with contrast,103,1
+325,CT,CT Abdomen and pelvis with contrast,75,2
+326,CT,CT Abdomen and pelvis with contrast,32,3
+327,CT,CT Abdomen and pelvis with contrast,20,4
+328,CT,CT Abdomen and pelvis with contrast,15,5
+329,CT,CT Abdomen and pelvis with contrast,47,6
+330,CT,CT Abdomen and pelvis with contrast,20,7
+331,CT,CT Abdomen and pelvis with contrast,26,8
+332,CT,CT Abdomen and pelvis with contrast,8,9
+333,CT,CT Abdomen and pelvis with contrast,23,10
+334,CT,CT Abdomen and pelvis with contrast,12,11
+335,CT,CT Abdomen and pelvis with contrast,12,12
+336,CT,CT Abdomen and pelvis with contrast,16,13
+337,CT,CT Abdomen and pelvis with contrast,7,16
+338,CT,CT Abdomen and pelvis with contrast,5,20
+339,CT,CT Abdomen and pelvis with contrast,4,21
+340,CT,CT Abdomen and pelvis with contrast,3,22
+341,CT,CT Abdomen and pelvis with contrast,5,23
+342,CT,CT Abdomen with contrast,32,1
+343,CT,CT Abdomen with contrast,31,2
+344,CT,CT Abdomen with contrast,24,3
+345,CT,CT Abdomen with contrast,13,4
+346,CT,CT Abdomen with contrast,12,5
+347,CT,CT Abdomen with contrast,46,6
+348,CT,CT Abdomen with contrast,13,7
+349,CT,CT Abdomen with contrast,14,8
+350,CT,CT Abdomen with contrast,5,9
+351,CT,CT Abdomen with contrast,5,10
+352,CT,CT Abdomen with contrast,4,11
+353,CT,CT Abdomen with contrast,9,12
+354,CT,CT Abdomen with contrast,8,13
+355,CT,CT Abdomen with contrast,2,14
+356,CT,CT Abdomen with contrast,8,22
+357,CT,CT Adrenal Both,6,1
+358,CT,CT Adrenal Both,7,2
+359,CT,CT Adrenal Both,7,3
+360,CT,CT Adrenal Both,2,4
+361,CT,CT Adrenal Both,8,6
+362,CT,CT Adrenal Both,3,7
+363,CT,CT Adrenal Both,8,8
+364,CT,CT Adrenal Both,2,9
+365,CT,CT Adrenal Both,7,10
+366,CT,CT Adrenal Both,1,11
+367,CT,CT Adrenal with contrast Both,1,1
+368,CT,CT Adrenal with contrast Both,2,7
+369,CT,CT Adrenal with contrast Both,4,9
+370,CT,CT Angio aortic arch and carotid Both,19,1
+371,CT,CT Angio aortic arch and carotid Both,9,2
+372,CT,CT Angio aortic arch and carotid Both,5,3
+373,CT,CT Angio aortic arch and carotid Both,5,4
+374,CT,CT Angio aortic arch and carotid Both,5,5
+375,CT,CT Angio aortic arch and carotid Both,12,6
+376,CT,CT Angio aortic arch and carotid Both,6,7
+377,CT,CT Angio aortic arch and carotid Both,6,8
+378,CT,CT Angio aortic arch and carotid Both,5,9
+379,CT,CT Angio aortic arch and carotid Both,5,12
+380,CT,CT Angiogram,4,1
+381,CT,CT Angiogram,4,6
+382,CT,CT Angiogram abdomen,2,7
+383,CT,CT Angiogram aorta,4,0
+384,CT,CT Angiogram aorta,14,1
+385,CT,CT Angiogram aorta,21,2
+386,CT,CT Angiogram aorta,8,3
+387,CT,CT Angiogram aorta,14,4
+388,CT,CT Angiogram aorta,3,5
+389,CT,CT Angiogram aorta,15,6
+390,CT,CT Angiogram aorta,11,7
+391,CT,CT Angiogram aorta,8,8
+392,CT,CT Angiogram aorta,1,9
+393,CT,CT Angiogram aorta,6,10
+394,CT,CT Angiogram aorta,2,12
+395,CT,CT Angiogram aorta,5,13
+396,CT,CT Angiogram aorta,2,18
+397,CT,CT Angiogram aorta,3,26
+398,CT,CT Angiogram intracranial,12,1
+399,CT,CT Angiogram intracranial,6,2
+400,CT,CT Angiogram intracranial,8,3
+401,CT,CT Angiogram intracranial,7,4
+402,CT,CT Angiogram intracranial,2,5
+403,CT,CT Angiogram intracranial,4,6
+404,CT,CT Angiogram intracranial,2,8
+405,CT,CT Angiogram intracranial,1,9
+406,CT,CT Angiogram intracranial,4,12
+407,CT,CT Angiogram lower limb Both,16,1
+408,CT,CT Angiogram lower limb Both,8,2
+409,CT,CT Angiogram lower limb Both,7,3
+410,CT,CT Angiogram lower limb Both,6,4
+411,CT,CT Angiogram lower limb Both,6,5
+412,CT,CT Angiogram lower limb Both,7,6
+413,CT,CT Angiogram lower limb Both,5,7
+414,CT,CT Angiogram lower limb Both,3,8
+415,CT,CT Angiogram lower limb Both,4,9
+416,CT,CT Angiogram lower limb Both,7,10
+417,CT,CT Angiogram lower limb Both,3,11
+418,CT,CT Angiogram lower limb Both,4,12
+419,CT,CT Angiogram lower limb Lt,6,1
+420,CT,CT Angiogram lower limb Lt,3,2
+421,CT,CT Angiogram lower limb Lt,3,6
+422,CT,CT Angiogram lower limb Lt,4,14
+423,CT,CT Angiogram lower limb Rt,3,8
+424,CT,CT Angiogram lower limb Rt,5,10
+425,CT,CT Angiogram mesenteric artery,2,7
+426,CT,CT Angiogram mesenteric artery,2,21
+427,CT,CT Angiogram pulmonary,5,0
+428,CT,CT Angiogram pulmonary,36,1
+429,CT,CT Angiogram pulmonary,12,2
+430,CT,CT Angiogram pulmonary,5,3
+431,CT,CT Angiogram pulmonary,3,4
+432,CT,CT Angiogram pulmonary,5,5
+433,CT,CT Angiogram pulmonary,9,7
+434,CT,CT Angiogram pulmonary,3,8
+435,CT,CT Angiogram pulmonary,1,10
+436,CT,CT Angiogram pulmonary,6,11
+437,CT,CT Angiogram pulmonary,7,12
+438,CT,CT Angiogram renal and abdominal,5,2
+439,CT,CT Angiogram renal and abdominal,6,3
+440,CT,CT Angiogram renal and abdominal,6,11
+441,CT,CT Angiogram upper limb Both,2,2
+442,CT,CT Angiogram upper limb Lt,2,3
+443,CT,CT Angiogram upper limb Rt,4,3
+444,CT,CT Angiogram upper limb Rt,2,6
+445,CT,CT Angiography thorax and abdomen,3,1
+446,CT,CT Angiography thorax and abdomen,3,2
+447,CT,CT Angiography thorax and abdomen,6,4
+448,CT,CT Angiography thorax and abdomen,4,6
+449,CT,CT Angiography thorax and abdomen,4,10
+450,CT,CT Ankle Lt,6,2
+451,CT,CT Ankle Lt,6,3
+452,CT,CT Ankle Lt,3,6
+453,CT,CT Ankle Lt,5,8
+454,CT,CT Ankle Lt,1,9
+455,CT,CT Ankle Lt,3,11
+456,CT,CT Ankle Rt,2,2
+457,CT,CT Ankle Rt,3,9
+458,CT,CT Aorta abdominal with contrast,1,6
+459,CT,CT Aorta thoracic,3,2
+460,CT,CT Aorta whole with contrast,6,8
+461,CT,CT Aorta whole with contrast,5,10
+462,CT,CT Chest high resolution,4,0
+463,CT,CT Chest high resolution,22,1
+464,CT,CT Chest high resolution,32,2
+465,CT,CT Chest high resolution,25,3
+466,CT,CT Chest high resolution,9,4
+467,CT,CT Chest high resolution,19,5
+468,CT,CT Chest high resolution,33,6
+469,CT,CT Chest high resolution,15,7
+470,CT,CT Chest high resolution,22,8
+471,CT,CT Chest high resolution,7,9
+472,CT,CT Chest high resolution,13,10
+473,CT,CT Chest high resolution,10,11
+474,CT,CT Chest high resolution,7,12
+475,CT,CT Chest high resolution,4,19
+476,CT,CT Chest high resolution with contrast,3,3
+477,CT,CT Clavicle Rt,2,2
+478,CT,CT Colonoscopy virtual,10,0
+479,CT,CT Colonoscopy virtual,55,1
+480,CT,CT Colonoscopy virtual,42,2
+481,CT,CT Colonoscopy virtual,28,3
+482,CT,CT Colonoscopy virtual,25,4
+483,CT,CT Colonoscopy virtual,19,5
+484,CT,CT Colonoscopy virtual,36,6
+485,CT,CT Colonoscopy virtual,7,7
+486,CT,CT Colonoscopy virtual,14,8
+487,CT,CT Colonoscopy virtual,7,9
+488,CT,CT Colonoscopy virtual,6,10
+489,CT,CT Colonoscopy virtual,7,11
+490,CT,CT Colonoscopy virtual,3,12
+491,CT,CT Colonoscopy virtual,2,13
+492,CT,CT Colonoscopy virtual,6,15
+493,CT,CT Colonoscopy virtual,4,19
+494,CT,CT Colonoscopy virtual,3,22
+495,CT,CT Colonoscopy virtual,3,23
+496,CT,CT Cone Beam,5,3
+497,CT,CT Cone Beam,3,6
+498,CT,CT Cone Beam,5,7
+499,CT,CT Cone Beam,3,8
+500,CT,CT Cone Beam,3,12
+501,CT,CT Elbow Lt,2,0
+502,CT,CT Elbow Lt,6,1
+503,CT,CT Elbow Lt,3,3
+504,CT,CT Elbow Lt,1,4
+505,CT,CT Elbow Lt,3,6
+506,CT,CT Elbow Lt,5,8
+507,CT,CT Elbow Lt,6,9
+508,CT,CT Elbow Rt,5,3
+509,CT,CT Elbow Rt,2,9
+510,CT,CT Elbow Rt,5,13
+511,CT,CT Enterography,3,2
+512,CT,CT Facial bones,5,1
+513,CT,CT Facial bones,4,3
+514,CT,CT Facial bones,5,4
+515,CT,CT Foot Lt,3,1
+516,CT,CT Foot Lt,2,2
+517,CT,CT Foot Lt,2,3
+518,CT,CT Foot Lt,8,6
+519,CT,CT Foot Rt,5,2
+520,CT,CT Foot Rt,1,3
+521,CT,CT Foot Rt,4,6
+522,CT,CT Foot Rt,5,8
+523,CT,CT Foot Rt,7,9
+524,CT,CT Groin Right,3,3
+525,CT,CT Groin Right,2,6
+526,CT,CT Guided biopsy,1,1
+527,CT,CT Guided biopsy,3,3
+528,CT,CT Guided biopsy,1,17
+529,CT,CT Guided biopsy abdomen,1,1
+530,CT,CT Guided biopsy abdomen,1,4
+531,CT,CT Guided biopsy pelvis,3,1
+532,CT,CT Guided biopsy pelvis,1,3
+533,CT,CT Guided biopsy thorax,5,1
+534,CT,CT Guided biopsy thorax,2,2
+535,CT,CT Guided biopsy thorax,2,3
+536,CT,CT Guided biopsy thorax,3,7
+537,CT,CT Guided drainage abdomen,5,1
+538,CT,CT Guided drainage thorax,1,2
+539,CT,CT Hand Lt,6,1
+540,CT,CT Head,10,0
+541,CT,CT Head,94,1
+542,CT,CT Head,70,2
+543,CT,CT Head,44,3
+544,CT,CT Head,30,4
+545,CT,CT Head,18,5
+546,CT,CT Head,26,6
+547,CT,CT Head,2,7
+548,CT,CT Head,6,8
+549,CT,CT Head,4,9
+550,CT,CT Head,3,10
+551,CT,CT Head,3,11
+552,CT,CT Head,7,12
+553,CT,CT Head,2,16
+554,CT,CT Head,1,17
+555,CT,CT Head,3,20
+556,CT,CT Head and neck,1,11
+557,CT,CT Head and neck with contrast,6,3
+558,CT,CT Head and neck with contrast,2,8
+559,CT,CT Head and thorax,2,6
+560,CT,CT Head with contrast,3,0
+561,CT,CT Head with contrast,18,1
+562,CT,CT Head with contrast,7,2
+563,CT,CT Head with contrast,7,3
+564,CT,CT Head with contrast,8,4
+565,CT,CT Head with contrast,1,6
+566,CT,CT Head with contrast,4,7
+567,CT,CT Head with contrast,5,8
+568,CT,CT Head with contrast,1,16
+569,CT,CT Head with contrast,4,21
+570,CT,CT Hip Lt,4,1
+571,CT,CT Hip Lt,3,2
+572,CT,CT Hip Lt,3,8
+573,CT,CT Hip Rt,3,1
+574,CT,CT Hip Rt,7,2
+575,CT,CT Hip Rt,3,11
+576,CT,CT IAM with contrast,8,2
+577,CT,CT IAM with contrast,3,3
+578,CT,CT IAM with contrast,3,4
+579,CT,CT IAM with contrast,5,5
+580,CT,CT IAM with contrast,3,6
+581,CT,CT IAM with contrast,2,8
+582,CT,CT Internal auditory meatus Both,7,1
+583,CT,CT Internal auditory meatus Both,1,3
+584,CT,CT Internal auditory meatus Both,5,8
+585,CT,CT Internal auditory meatus Both,2,12
+586,CT,CT Internal auditory meatus Both,2,18
+587,CT,CT Kidney triple phase Both,1,45
+588,CT,CT Knee Both,5,2
+589,CT,CT Knee Lt,9,1
+590,CT,CT Knee Lt,5,3
+591,CT,CT Knee Lt,7,4
+592,CT,CT Knee Lt,2,5
+593,CT,CT Knee Lt,6,6
+594,CT,CT Knee Lt,2,8
+595,CT,CT Knee Lt,7,9
+596,CT,CT Knee Lt,1,10
+597,CT,CT Knee Rt,2,0
+598,CT,CT Knee Rt,5,1
+599,CT,CT Knee Rt,6,2
+600,CT,CT Knee Rt,2,3
+601,CT,CT Knee Rt,3,6
+602,CT,CT Knee Rt,6,7
+603,CT,CT Knee Rt,4,8
+604,CT,CT Knee Rt,5,9
+605,CT,CT Knee Rt,5,10
+606,CT,CT Knee Rt,2,11
+607,CT,CT Liver,6,5
+608,CT,CT Liver triple phase,14,1
+609,CT,CT Liver triple phase,7,2
+610,CT,CT Liver triple phase,8,3
+611,CT,CT Liver triple phase,3,4
+612,CT,CT Liver triple phase,1,5
+613,CT,CT Liver triple phase,8,6
+614,CT,CT Liver triple phase,3,7
+615,CT,CT Liver triple phase,7,8
+616,CT,CT Liver triple phase,1,9
+617,CT,CT Liver triple phase,5,10
+618,CT,CT Liver triple phase,3,11
+619,CT,CT Liver triple phase,6,12
+620,CT,CT Liver triple phase,5,13
+621,CT,CT Liver with contrast,3,1
+622,CT,CT Liver with contrast,9,2
+623,CT,CT Liver with contrast,11,3
+624,CT,CT Liver with contrast,2,4
+625,CT,CT Liver with contrast,5,6
+626,CT,CT Liver with contrast,5,7
+627,CT,CT Liver with contrast,5,8
+628,CT,CT Liver with contrast,7,10
+629,CT,CT Low dose thorax,8,0
+630,CT,CT Low dose thorax,86,1
+631,CT,CT Low dose thorax,77,2
+632,CT,CT Low dose thorax,47,3
+633,CT,CT Low dose thorax,20,4
+634,CT,CT Low dose thorax,10,5
+635,CT,CT Low dose thorax,18,6
+636,CT,CT Low dose thorax,8,7
+637,CT,CT Low dose thorax,14,8
+638,CT,CT Low dose thorax,4,9
+639,CT,CT Low dose thorax,1,10
+640,CT,CT Low dose thorax,3,11
+641,CT,CT Low dose thorax,2,15
+642,CT,CT Low dose thorax,2,16
+643,CT,CT Low dose thorax,3,20
+644,CT,CT Lower leg Lt,3,3
+645,CT,CT Lower leg Lt,4,4
+646,CT,CT Lower leg Rt,3,2
+647,CT,CT Lower leg Rt,4,4
+648,CT,CT Lower leg with contrast Rt,4,8
+649,CT,CT Mandible,6,1
+650,CT,CT Mandible,8,2
+651,CT,CT Mandible,7,3
+652,CT,CT Mastoid Both,9,1
+653,CT,CT Mastoid Both,7,2
+654,CT,CT Mastoid Both,7,3
+655,CT,CT Mastoid Both,4,4
+656,CT,CT Mastoid Both,13,6
+657,CT,CT Mastoid Both,7,7
+658,CT,CT Mastoid Both,5,8
+659,CT,CT Mastoid Both,9,9
+660,CT,CT Mastoid Both,1,10
+661,CT,CT Mastoid Both,3,11
+662,CT,CT Mastoid Both,5,12
+663,CT,CT Neck,1,2
+664,CT,CT Neck,8,3
+665,CT,CT Neck,6,6
+666,CT,CT Neck and thorax,3,8
+667,CT,CT Neck and thorax,2,11
+668,CT,CT Neck and thorax with contrast,6,3
+669,CT,CT Neck and thorax with contrast,1,8
+670,CT,CT Neck thorax abdomen and pelvis,1,10
+671,CT,CT Neck thorax abdomen and pelvis,6,12
+672,CT,CT Neck thorax abdomen pelvis with Cont,7,1
+673,CT,CT Neck thorax abdomen pelvis with Cont,8,2
+674,CT,CT Neck thorax abdomen pelvis with Cont,5,3
+675,CT,CT Neck thorax abdomen pelvis with Cont,4,4
+676,CT,CT Neck thorax abdomen pelvis with Cont,3,6
+677,CT,CT Neck thorax abdomen pelvis with Cont,8,7
+678,CT,CT Neck thorax abdomen pelvis with Cont,3,8
+679,CT,CT Neck thorax abdomen pelvis with Cont,5,9
+680,CT,CT Neck thorax abdomen pelvis with Cont,4,13
+681,CT,CT Neck thorax and abdomen,6,1
+682,CT,CT Neck thorax and abdomen,1,6
+683,CT,CT Neck thorax and abdomen,1,10
+684,CT,CT Neck thorax and abdomen with contrast,6,1
+685,CT,CT Neck thorax and abdomen with contrast,1,2
+686,CT,CT Neck thorax and abdomen with contrast,6,3
+687,CT,CT Neck thorax and abdomen with contrast,6,6
+688,CT,CT Neck with contrast,15,1
+689,CT,CT Neck with contrast,5,2
+690,CT,CT Neck with contrast,7,3
+691,CT,CT Neck with contrast,3,4
+692,CT,CT Neck with contrast,3,5
+693,CT,CT Neck with contrast,2,6
+694,CT,CT Neck with contrast,5,7
+695,CT,CT Neck with contrast,5,8
+696,CT,CT Neck with contrast,5,20
+697,CT,CT Orbit Both,1,1
+698,CT,CT Orbit Both,3,5
+699,CT,CT Orbit Both,4,6
+700,CT,CT Orbit with contrast Both,2,2
+701,CT,CT Orbit with contrast Both,6,6
+702,CT,CT Pancreas,6,1
+703,CT,CT Pancreas,4,7
+704,CT,CT Pancreas with contrast,5,0
+705,CT,CT Pancreas with contrast,12,1
+706,CT,CT Pancreas with contrast,21,2
+707,CT,CT Pancreas with contrast,10,3
+708,CT,CT Pancreas with contrast,6,4
+709,CT,CT Pancreas with contrast,7,5
+710,CT,CT Pancreas with contrast,12,6
+711,CT,CT Pancreas with contrast,1,7
+712,CT,CT Pancreas with contrast,4,8
+713,CT,CT Pancreas with contrast,2,9
+714,CT,CT Pancreas with contrast,5,10
+715,CT,CT Pancreas with contrast,1,11
+716,CT,CT Pancreas with contrast,8,12
+717,CT,CT Pancreas with contrast,2,13
+718,CT,CT Pancreas with contrast,6,22
+719,CT,CT Parotids with contrast,4,6
+720,CT,CT Parotids with contrast,1,8
+721,CT,CT Pelvis,7,1
+722,CT,CT Pelvis,5,2
+723,CT,CT Pelvis,6,3
+724,CT,CT Pelvis,3,4
+725,CT,CT Pelvis,8,6
+726,CT,CT Pelvis,6,7
+727,CT,CT Pelvis,1,9
+728,CT,CT Pelvis,3,11
+729,CT,CT Pelvis,4,12
+730,CT,CT Pelvis,3,14
+731,CT,CT Pelvis with contrast,5,1
+732,CT,CT Pelvis with contrast,5,2
+733,CT,CT Pelvis with contrast,5,3
+734,CT,CT Pelvis with contrast,3,6
+735,CT,CT Pelvis with contrast,3,7
+736,CT,CT Pelvis with contrast,9,8
+737,CT,CT Petrous bones,4,0
+738,CT,CT Petrous bones,11,1
+739,CT,CT Petrous bones,13,2
+740,CT,CT Petrous bones,7,3
+741,CT,CT Petrous bones,10,4
+742,CT,CT Petrous bones,20,6
+743,CT,CT Petrous bones,8,7
+744,CT,CT Petrous bones,8,8
+745,CT,CT Petrous bones,3,9
+746,CT,CT Petrous bones,5,10
+747,CT,CT Petrous bones,2,11
+748,CT,CT Petrous bones,5,12
+749,CT,CT Petrous bones,1,13
+750,CT,CT Renal Both,3,1
+751,CT,CT Renal Both,7,2
+752,CT,CT Renal Both,8,3
+753,CT,CT Renal Both,5,4
+754,CT,CT Renal Both,4,5
+755,CT,CT Renal Both,5,6
+756,CT,CT Renal Both,4,7
+757,CT,CT Renal Both,3,8
+758,CT,CT Renal Both,5,9
+759,CT,CT Renal Both,2,10
+760,CT,CT Renal Both,3,11
+761,CT,CT Renal Both,1,12
+762,CT,CT Renal Both,1,21
+763,CT,CT Renal with contrast Both,3,0
+764,CT,CT Renal with contrast Both,11,1
+765,CT,CT Renal with contrast Both,4,2
+766,CT,CT Renal with contrast Both,3,3
+767,CT,CT Renal with contrast Both,4,4
+768,CT,CT Renal with contrast Both,5,5
+769,CT,CT Renal with contrast Both,5,6
+770,CT,CT Renal with contrast Both,4,7
+771,CT,CT Renal with contrast Both,5,8
+772,CT,CT Renal with contrast Both,4,9
+773,CT,CT Renal with contrast Both,3,11
+774,CT,CT Renal with contrast Both,3,12
+775,CT,CT Renal with contrast Both,2,13
+776,CT,CT Renal with contrast Both,2,16
+777,CT,CT Renal with contrast Both,2,45
+778,CT,CT Salivary glands with contrast,4,3
+779,CT,CT Shoulder Both,1,2
+780,CT,CT Shoulder Lt,5,1
+781,CT,CT Shoulder Lt,1,2
+782,CT,CT Shoulder Lt,6,3
+783,CT,CT Shoulder Lt,7,6
+784,CT,CT Shoulder Lt,2,7
+785,CT,CT Shoulder Lt,2,8
+786,CT,CT Shoulder Lt,3,12
+787,CT,CT Shoulder Rt,5,1
+788,CT,CT Shoulder Rt,9,2
+789,CT,CT Shoulder Rt,4,6
+790,CT,CT Shoulder Rt,5,7
+791,CT,CT Shoulder Rt,3,8
+792,CT,CT Shoulder Rt,4,9
+793,CT,CT Shoulder Rt,5,10
+794,CT,CT Sinuses,11,0
+795,CT,CT Sinuses,37,1
+796,CT,CT Sinuses,27,2
+797,CT,CT Sinuses,22,3
+798,CT,CT Sinuses,16,4
+799,CT,CT Sinuses,3,5
+800,CT,CT Sinuses,9,6
+801,CT,CT Sinuses,4,7
+802,CT,CT Sinuses,5,8
+803,CT,CT Sinuses,6,9
+804,CT,CT Sinuses,6,10
+805,CT,CT Sinuses,6,18
+806,CT,CT Sinuses with contrast,6,1
+807,CT,CT Sinuses with contrast,5,2
+808,CT,CT Sinuses with contrast,9,3
+809,CT,CT Sinuses with contrast,9,4
+810,CT,CT Sinuses with contrast,4,5
+811,CT,CT Sinuses with contrast,8,6
+812,CT,CT Sinuses with contrast,10,7
+813,CT,CT Sinuses with contrast,7,8
+814,CT,CT Sinuses with contrast,4,9
+815,CT,CT Sinuses with contrast,3,10
+816,CT,CT Spine C T L S with contrast,5,6
+817,CT,CT Spine C T L S with contrast,3,9
+818,CT,CT Spine cervical,10,1
+819,CT,CT Spine cervical,2,2
+820,CT,CT Spine cervical,4,3
+821,CT,CT Spine cervical,3,5
+822,CT,CT Spine cervical,6,6
+823,CT,CT Spine cervical,2,7
+824,CT,CT Spine cervical,3,8
+825,CT,CT Spine cervical,5,9
+826,CT,CT Spine cervical,2,18
+827,CT,CT Spine lumbar,3,0
+828,CT,CT Spine lumbar,4,1
+829,CT,CT Spine lumbar,8,2
+830,CT,CT Spine lumbar,11,3
+831,CT,CT Spine lumbar,7,6
+832,CT,CT Spine lumbar,5,7
+833,CT,CT Spine lumbar,3,8
+834,CT,CT Spine lumbar,5,9
+835,CT,CT Spine lumbar,1,14
+836,CT,CT Spine lumbar,8,16
+837,CT,CT Spine lumbar,5,20
+838,CT,CT Spine lumbar with contrast,4,8
+839,CT,CT Spine sacral,3,0
+840,CT,CT Spine sacral,6,1
+841,CT,CT Spine sacral,7,3
+842,CT,CT Spine sacral with contrast,3,8
+843,CT,CT Spine thoracic,5,0
+844,CT,CT Spine thoracic,3,3
+845,CT,CT Spine thoracic,5,6
+846,CT,CT Spine thoracic,5,9
+847,CT,CT Sternoclavicular joint Both,4,5
+848,CT,CT Sternoclavicular joint Both,3,11
+849,CT,CT Temporal bones,1,6
+850,CT,CT Temporal bones,5,8
+851,CT,CT Temporal bones,3,9
+852,CT,CT Thorax,7,0
+853,CT,CT Thorax,37,1
+854,CT,CT Thorax,15,2
+855,CT,CT Thorax,20,3
+856,CT,CT Thorax,12,4
+857,CT,CT Thorax,16,5
+858,CT,CT Thorax,19,6
+859,CT,CT Thorax,8,7
+860,CT,CT Thorax,6,8
+861,CT,CT Thorax,4,9
+862,CT,CT Thorax,3,10
+863,CT,CT Thorax,8,11
+864,CT,CT Thorax,5,12
+865,CT,CT Thorax,3,19
+866,CT,CT Thorax,8,22
+867,CT,CT Thorax abdomen and pelvis,5,0
+868,CT,CT Thorax abdomen and pelvis,20,1
+869,CT,CT Thorax abdomen and pelvis,8,2
+870,CT,CT Thorax abdomen and pelvis,5,3
+871,CT,CT Thorax abdomen and pelvis,3,4
+872,CT,CT Thorax abdomen and pelvis,5,6
+873,CT,CT Thorax abdomen and pelvis,6,7
+874,CT,CT Thorax abdomen and pelvis,2,8
+875,CT,CT Thorax abdomen and pelvis,5,12
+876,CT,CT Thorax abdomen pelvis with contrast,25,0
+877,CT,CT Thorax abdomen pelvis with contrast,232,1
+878,CT,CT Thorax abdomen pelvis with contrast,207,2
+879,CT,CT Thorax abdomen pelvis with contrast,138,3
+880,CT,CT Thorax abdomen pelvis with contrast,77,4
+881,CT,CT Thorax abdomen pelvis with contrast,32,5
+882,CT,CT Thorax abdomen pelvis with contrast,103,6
+883,CT,CT Thorax abdomen pelvis with contrast,47,7
+884,CT,CT Thorax abdomen pelvis with contrast,51,8
+885,CT,CT Thorax abdomen pelvis with contrast,12,9
+886,CT,CT Thorax abdomen pelvis with contrast,26,10
+887,CT,CT Thorax abdomen pelvis with contrast,12,11
+888,CT,CT Thorax abdomen pelvis with contrast,19,12
+889,CT,CT Thorax abdomen pelvis with contrast,10,13
+890,CT,CT Thorax abdomen pelvis with contrast,8,14
+891,CT,CT Thorax abdomen pelvis with contrast,6,15
+892,CT,CT Thorax abdomen pelvis with contrast,1,16
+893,CT,CT Thorax abdomen pelvis with contrast,3,19
+894,CT,CT Thorax abdomen pelvis with contrast,6,20
+895,CT,CT Thorax abdomen pelvis with contrast,6,21
+896,CT,CT Thorax abdomen pelvis with contrast,3,22
+897,CT,CT Thorax abdomen pelvis with contrast,3,23
+898,CT,CT Thorax abdomen pelvis with contrast,1,25
+899,CT,CT Thorax and abdomen,3,1
+900,CT,CT Thorax and abdomen,5,2
+901,CT,CT Thorax and abdomen,6,9
+902,CT,CT Thorax and abdomen,2,11
+903,CT,CT Thorax and abdomen with contrast,4,0
+904,CT,CT Thorax and abdomen with contrast,9,1
+905,CT,CT Thorax and abdomen with contrast,8,2
+906,CT,CT Thorax and abdomen with contrast,6,3
+907,CT,CT Thorax and abdomen with contrast,7,4
+908,CT,CT Thorax and abdomen with contrast,7,5
+909,CT,CT Thorax and abdomen with contrast,8,6
+910,CT,CT Thorax and abdomen with contrast,7,7
+911,CT,CT Thorax and abdomen with contrast,8,8
+912,CT,CT Thorax and abdomen with contrast,6,9
+913,CT,CT Thorax and abdomen with contrast,6,12
+914,CT,CT Thorax and abdomen with contrast,1,14
+915,CT,CT Thorax and abdomen with contrast,6,16
+916,CT,CT Thorax and abdomen with contrast,2,22
+917,CT,CT Thorax with contrast,9,0
+918,CT,CT Thorax with contrast,116,1
+919,CT,CT Thorax with contrast,116,2
+920,CT,CT Thorax with contrast,77,3
+921,CT,CT Thorax with contrast,43,4
+922,CT,CT Thorax with contrast,24,5
+923,CT,CT Thorax with contrast,98,6
+924,CT,CT Thorax with contrast,46,7
+925,CT,CT Thorax with contrast,36,8
+926,CT,CT Thorax with contrast,16,9
+927,CT,CT Thorax with contrast,26,10
+928,CT,CT Thorax with contrast,22,11
+929,CT,CT Thorax with contrast,12,12
+930,CT,CT Thorax with contrast,8,13
+931,CT,CT Thorax with contrast,6,14
+932,CT,CT Thorax with contrast,6,16
+933,CT,CT Thorax with contrast,7,20
+934,CT,CT Thorax with contrast,3,22
+935,CT,CT Triple phase abdomen and pelvis Cont,6,1
+936,CT,CT Triple phase abdomen and pelvis Cont,5,6
+937,CT,CT Upper arm Lt,6,2
+938,CT,CT Upper leg Both,3,2
+939,CT,CT Upper leg Both,5,7
+940,CT,CT Upper leg Both,3,8
+941,CT,CT Upper leg Lt,2,6
+942,CT,CT Urinary tract,5,0
+943,CT,CT Urinary tract,53,1
+944,CT,CT Urinary tract,33,2
+945,CT,CT Urinary tract,24,3
+946,CT,CT Urinary tract,14,4
+947,CT,CT Urinary tract,18,5
+948,CT,CT Urinary tract,51,6
+949,CT,CT Urinary tract,17,7
+950,CT,CT Urinary tract,20,8
+951,CT,CT Urinary tract,7,9
+952,CT,CT Urinary tract,13,10
+953,CT,CT Urinary tract,17,11
+954,CT,CT Urinary tract,12,12
+955,CT,CT Urinary tract,3,13
+956,CT,CT Urinary tract,2,14
+957,CT,CT Urinary tract,4,21
+958,CT,CT Urinary tract,5,23
+959,CT,CT Urinary tract with contrast,5,0
+960,CT,CT Urinary tract with contrast,62,1
+961,CT,CT Urinary tract with contrast,41,2
+962,CT,CT Urinary tract with contrast,23,3
+963,CT,CT Urinary tract with contrast,12,4
+964,CT,CT Urinary tract with contrast,12,5
+965,CT,CT Urinary tract with contrast,11,6
+966,CT,CT Urinary tract with contrast,16,7
+967,CT,CT Urinary tract with contrast,11,8
+968,CT,CT Urinary tract with contrast,9,9
+969,CT,CT Urinary tract with contrast,6,10
+970,CT,CT Urinary tract with contrast,10,11
+971,CT,CT Urinary tract with contrast,10,12
+972,CT,CT Urinary tract with contrast,6,13
+973,CT,CT Urinary tract with contrast,6,14
+974,CT,CT Urinary tract with contrast,6,15
+975,CT,CT Urinary tract with contrast,6,18
+976,CT,CT Urinary tract with contrast,2,19
+977,CT,CT Urogram,1,1
+978,CT,CT Urogram,3,2
+979,CT,CT Urogram,2,3
+980,CT,CT Urogram,6,4
+981,CT,CT Urogram,10,6
+982,CT,CT Urogram,6,7
+983,CT,CT Urogram excretory phase with contrast,3,2
+984,CT,CT Venogram,4,2
+985,CT,CT Venogram,2,9
+986,CT,CT Venogram Intracranial,6,6
+987,CT,CT Whole body,4,1
+988,CT,CT Whole body,6,2
+989,CT,CT Whole body,4,9
+990,CT,CT Whole body with contrast,1,6
+991,CT,CT Whole spine,6,4
+992,CT,CT Whole spine,1,6
+993,CT,CT Whole spine,3,8
+994,CT,CT Wrist Lt,8,1
+995,CT,CT Wrist Lt,7,4
+996,CT,CT Wrist Lt,2,6
+997,CT,CT Wrist Lt,1,9
+998,CT,CT Wrist Rt,4,1
+999,CT,CT Wrist Rt,6,2
+1000,CT,CT Wrist Rt,5,6
+1001,CT,CT Wrist Rt,2,9
+1002,CT,CT Wrist Rt,2,11
+1003,CT Cardiac,CT Angiography for TAVI workup,4,1
+1004,CT Cardiac,CT Angiography for TAVI workup,6,2
+1005,CT Cardiac,CT Angiography for TAVI workup,4,4
+1006,CT Cardiac,CT Angiography for TAVI workup,4,6
+1007,CT Cardiac,CT Angiography for TAVI workup,7,7
+1008,CT Cardiac,CT Angiography for TAVI workup,5,8
+1009,CT Cardiac,CT Angiography for TAVI workup,3,16
+1010,CT Cardiac,CT Angiography for TAVI workup,6,19
+1011,CT Cardiac,CT Cardiac angiogram coronary,35,1
+1012,CT Cardiac,CT Cardiac angiogram coronary,21,2
+1013,CT Cardiac,CT Cardiac angiogram coronary,18,3
+1014,CT Cardiac,CT Cardiac angiogram coronary,12,4
+1015,CT Cardiac,CT Cardiac angiogram coronary,8,5
+1016,CT Cardiac,CT Cardiac angiogram coronary,37,6
+1017,CT Cardiac,CT Cardiac angiogram coronary,17,7
+1018,CT Cardiac,CT Cardiac angiogram coronary,19,8
+1019,CT Cardiac,CT Cardiac angiogram coronary,15,9
+1020,CT Cardiac,CT Cardiac angiogram coronary,22,10
+1021,CT Cardiac,CT Cardiac angiogram coronary,20,11
+1022,CT Cardiac,CT Cardiac angiogram coronary,13,12
+1023,CT Cardiac,CT Cardiac angiogram coronary,9,13
+1024,CT Cardiac,CT Cardiac angiogram coronary,19,14
+1025,CT Cardiac,CT Cardiac angiogram coronary,21,15
+1026,CT Cardiac,CT Cardiac angiogram coronary,21,16
+1027,CT Cardiac,CT Cardiac angiogram coronary,10,17
+1028,CT Cardiac,CT Cardiac angiogram coronary,14,18
+1029,CT Cardiac,CT Cardiac angiogram coronary,8,19
+1030,CT Cardiac,CT Cardiac angiogram coronary,14,20
+1031,CT Cardiac,CT Cardiac angiogram coronary,5,21
+1032,CT Cardiac,CT Cardiac angiogram coronary,6,22
+1033,CT Cardiac,CT Cardiac angiogram coronary,6,23
+1034,CT Cardiac,CT Cardiac angiogram coronary,1,24
+1035,CT Cardiac,CT Cardiac angiogram coronary,7,25
+1036,CT Cardiac,CT Cardiac angiogram coronary,7,26
+1037,CT Cardiac,CT Cardiac angiogram coronary,3,27
+1038,CT Cardiac,CT Cardiac angiogram coronary,3,28
+1039,CT Cardiac,CT Cardiac angiogram coronary,7,29
+1040,CT Cardiac,CT Cardiac angiogram coronary,3,30
+1041,CT Cardiac,CT Cardiac angiogram coronary,6,31
+1042,CT Cardiac,CT Cardiac angiogram coronary,2,32
+1043,CT Cardiac,CT Cardiac angiogram coronary,3,37
+1044,CT Cardiac,CT Cardiac angiogram coronary,6,42
+1045,CT Cardiac,CT Cardiac angiogram coronary,4,50
+1046,CT Cardiac,CT Cardiac Cor artery calcium scoring,5,6
+1047,CT Cardiac,CT Cardiac Cor artery calcium scoring,2,8
+1048,CT Cardiac,CT Cardiac Cor artery calcium scoring,1,11
+1049,CT Cardiac,CT Cardiac Cor artery calcium scoring,6,12
+1050,CT Cardiac,CT Cardiac Cor artery calcium scoring,1,19
+1051,CT Cardiac,CT Cardiac Cor artery calcium scoring,3,22
+1052,CT Cardiac,CT Cardiac Cor artery calcium scoring,2,24
+1053,Cystoscopy,CYSTOSCOPY,136,1
+1054,Cystoscopy,CYSTOSCOPY,209,2
+1055,Cystoscopy,CYSTOSCOPY,97,3
+1056,Cystoscopy,CYSTOSCOPY,27,4
+1057,Cystoscopy,CYSTOSCOPY,11,5
+1058,Cystoscopy,CYSTOSCOPY,52,6
+1059,Cystoscopy,CYSTOSCOPY,7,7
+1060,Cystoscopy,CYSTOSCOPY,4,8
+1061,Cystoscopy,CYSTOSCOPY,4,9
+1062,Cystoscopy,CYSTOSCOPY,3,10
+1063,Cystoscopy,CYSTOSCOPY,5,11
+1064,Cystoscopy,CYSTOSCOPY,1,22
+1065,Cystoscopy,CYSTOSCOPY,3,77
+1066,Dexa,Bone densitometry DXA,18,0
+1067,Dexa,Bone densitometry DXA,128,1
+1068,Dexa,Bone densitometry DXA,85,2
+1069,Dexa,Bone densitometry DXA,121,3
+1070,Dexa,Bone densitometry DXA,65,4
+1071,Dexa,Bone densitometry DXA,33,5
+1072,Dexa,Bone densitometry DXA,166,6
+1073,Dexa,Bone densitometry DXA,99,7
+1074,Dexa,Bone densitometry DXA,105,8
+1075,Dexa,Bone densitometry DXA,84,9
+1076,Dexa,Bone densitometry DXA,84,10
+1077,Dexa,Bone densitometry DXA,99,11
+1078,Dexa,Bone densitometry DXA,59,12
+1079,Dexa,Bone densitometry DXA,72,13
+1080,Dexa,Bone densitometry DXA,48,14
+1081,Dexa,Bone densitometry DXA,51,15
+1082,Dexa,Bone densitometry DXA,66,16
+1083,Dexa,Bone densitometry DXA,25,17
+1084,Dexa,Bone densitometry DXA,57,18
+1085,Dexa,Bone densitometry DXA,42,19
+1086,Dexa,Bone densitometry DXA,5,20
+1087,Dexa,Bone densitometry DXA,5,21
+1088,Dexa,Bone densitometry DXA,6,22
+1089,Dexa,Bone densitometry DXA,1,33
+1090,Echocardiography,Echocardiogram,27,1
+1091,Echocardiography,Echocardiogram,26,2
+1092,Echocardiography,Echocardiogram,39,3
+1093,Echocardiography,Echocardiogram,41,4
+1094,Echocardiography,Echocardiogram,38,5
+1095,Echocardiography,Echocardiogram,139,6
+1096,Echocardiography,Echocardiogram,108,7
+1097,Echocardiography,Echocardiogram,90,8
+1098,Echocardiography,Echocardiogram,72,9
+1099,Echocardiography,Echocardiogram,53,10
+1100,Echocardiography,Echocardiogram,42,11
+1101,Echocardiography,Echocardiogram,42,12
+1102,Echocardiography,Echocardiogram,35,13
+1103,Echocardiography,Echocardiogram,30,14
+1104,Echocardiography,Echocardiogram,31,15
+1105,Echocardiography,Echocardiogram,26,16
+1106,Echocardiography,Echocardiogram,24,17
+1107,Echocardiography,Echocardiogram,17,18
+1108,Echocardiography,Echocardiogram,22,19
+1109,Echocardiography,Echocardiogram,21,20
+1110,Echocardiography,Echocardiogram,18,21
+1111,Echocardiography,Echocardiogram,9,22
+1112,Echocardiography,Echocardiogram,18,23
+1113,Echocardiography,Echocardiogram,9,24
+1114,Echocardiography,Echocardiogram,8,25
+1115,Echocardiography,Echocardiogram,17,26
+1116,Echocardiography,Echocardiogram,10,27
+1117,Echocardiography,Echocardiogram,14,28
+1118,Echocardiography,Echocardiogram,12,29
+1119,Echocardiography,Echocardiogram,11,30
+1120,Echocardiography,Echocardiogram,10,31
+1121,Echocardiography,Echocardiogram,4,32
+1122,Echocardiography,Echocardiogram,15,33
+1123,Echocardiography,Echocardiogram,8,34
+1124,Echocardiography,Echocardiogram,11,35
+1125,Echocardiography,Echocardiogram,7,36
+1126,Echocardiography,Echocardiogram,3,37
+1127,Echocardiography,Echocardiogram,5,38
+1128,Echocardiography,Echocardiogram,5,40
+1129,Echocardiography,Echocardiogram,1,41
+1130,Echocardiography,Echocardiogram,4,42
+1131,Echocardiography,Echocardiogram,2,46
+1132,Echocardiography,Echocardiogram,2,50
+1133,Echocardiography,Echocardiogram,1,55
+1134,Electrophysiology,EPS,6,6
+1135,EMG,Nerve Conduction Studies,17,0
+1136,EMG,Nerve Conduction Studies,88,1
+1137,EMG,Nerve Conduction Studies,85,2
+1138,EMG,Nerve Conduction Studies,61,3
+1139,EMG,Nerve Conduction Studies,7,4
+1140,EMG,Nerve Conduction Studies,3,6
+1141,EMG,Nerve Conduction Studies,3,7
+1142,EMG,Nerve Conduction Studies,4,19
+1143,Flexi,COLON+FLEXI,6,6
+1144,Flexi,COLON+FLEXI,4,9
+1145,Flexi,COLON+FLEXI,6,11
+1146,Flexi,COLON+FLEXI,3,36
+1147,Flexi,COLON+FLEXI,1,50
+1148,Flexi,COLON+FLEXI,6,64
+1149,Flexi,COLON+FLEXI,3,72
+1150,Flexi,COLON+FLEXI+ENEMA,1,30
+1151,Flexi,FLEXI,7,0
+1152,Flexi,FLEXI,33,1
+1153,Flexi,FLEXI,36,2
+1154,Flexi,FLEXI,16,3
+1155,Flexi,FLEXI,10,4
+1156,Flexi,FLEXI,10,5
+1157,Flexi,FLEXI,26,6
+1158,Flexi,FLEXI,20,7
+1159,Flexi,FLEXI,23,8
+1160,Flexi,FLEXI,14,9
+1161,Flexi,FLEXI,16,10
+1162,Flexi,FLEXI,16,11
+1163,Flexi,FLEXI,12,12
+1164,Flexi,FLEXI,8,13
+1165,Flexi,FLEXI,14,14
+1166,Flexi,FLEXI,20,15
+1167,Flexi,FLEXI,11,16
+1168,Flexi,FLEXI,7,17
+1169,Flexi,FLEXI,7,18
+1170,Flexi,FLEXI,15,19
+1171,Flexi,FLEXI,11,20
+1172,Flexi,FLEXI,6,21
+1173,Flexi,FLEXI,15,22
+1174,Flexi,FLEXI,11,23
+1175,Flexi,FLEXI,13,24
+1176,Flexi,FLEXI,17,25
+1177,Flexi,FLEXI,9,26
+1178,Flexi,FLEXI,10,27
+1179,Flexi,FLEXI,15,28
+1180,Flexi,FLEXI,17,29
+1181,Flexi,FLEXI,9,30
+1182,Flexi,FLEXI,16,31
+1183,Flexi,FLEXI,7,32
+1184,Flexi,FLEXI,14,33
+1185,Flexi,FLEXI,12,34
+1186,Flexi,FLEXI,16,35
+1187,Flexi,FLEXI,8,36
+1188,Flexi,FLEXI,7,37
+1189,Flexi,FLEXI,14,38
+1190,Flexi,FLEXI,12,39
+1191,Flexi,FLEXI,10,40
+1192,Flexi,FLEXI,7,41
+1193,Flexi,FLEXI,11,42
+1194,Flexi,FLEXI,8,43
+1195,Flexi,FLEXI,17,44
+1196,Flexi,FLEXI,4,45
+1197,Flexi,FLEXI,9,46
+1198,Flexi,FLEXI,9,47
+1199,Flexi,FLEXI,9,48
+1200,Flexi,FLEXI,12,49
+1201,Flexi,FLEXI,12,50
+1202,Flexi,FLEXI,16,51
+1203,Flexi,FLEXI,10,52
+1204,Flexi,FLEXI,11,53
+1205,Flexi,FLEXI,12,54
+1206,Flexi,FLEXI,7,55
+1207,Flexi,FLEXI,3,56
+1208,Flexi,FLEXI,4,57
+1209,Flexi,FLEXI,15,58
+1210,Flexi,FLEXI,11,59
+1211,Flexi,FLEXI,9,60
+1212,Flexi,FLEXI,4,61
+1213,Flexi,FLEXI,14,62
+1214,Flexi,FLEXI,11,63
+1215,Flexi,FLEXI,6,64
+1216,Flexi,FLEXI,7,65
+1217,Flexi,FLEXI,6,66
+1218,Flexi,FLEXI,9,67
+1219,Flexi,FLEXI,8,68
+1220,Flexi,FLEXI,7,69
+1221,Flexi,FLEXI,7,70
+1222,Flexi,FLEXI,7,71
+1223,Flexi,FLEXI,11,72
+1224,Flexi,FLEXI,6,73
+1225,Flexi,FLEXI,4,74
+1226,Flexi,FLEXI,3,75
+1227,Flexi,FLEXI,2,76
+1228,Flexi,FLEXI,5,78
+1229,Flexi,FLEXI,6,79
+1230,Flexi,FLEXI,6,85
+1231,Flexi,FLEXI,3,87
+1232,Flexi,FLEXI,5,88
+1233,Flexi,FLEXI TBT,6,1
+1234,Flexi,FLEXI TBT,6,19
+1235,Flexi,FLEXI TBT,5,31
+1236,Flexi,FLEXI TBT,3,42
+1237,Flexi,FLEXI TBT,5,49
+1238,Flexi,FLEXI+APC,5,10
+1239,Flexi,FLEXI+APC,3,39
+1240,Flexi,FLEXI+APC,1,51
+1241,Flexi,FLEXI+EFTR,5,3
+1242,Flexi,FLEXI+EMR,3,1
+1243,Flexi,FLEXI+EMR,5,2
+1244,Flexi,FLEXI+EMR,3,3
+1245,Flexi,FLEXI+EMR,5,4
+1246,Flexi,FLEXI+EMR,6,5
+1247,Flexi,FLEXI+EMR,1,7
+1248,Flexi,FLEXI+EMR,3,22
+1249,Flexi,FLEXI+EMR,2,33
+1250,Flexi,FLEXI+EMR,6,50
+1251,Flexi,FLEXI+EMR,4,52
+1252,Flexi,FLEXI+EMR,1,54
+1253,Flexi,FLEXI+EMR,2,64
+1254,Flexi,FLEXI+ENEMA,2,0
+1255,Flexi,FLEXI+ENEMA,15,1
+1256,Flexi,FLEXI+ENEMA,26,2
+1257,Flexi,FLEXI+ENEMA,19,3
+1258,Flexi,FLEXI+ENEMA,4,4
+1259,Flexi,FLEXI+ENEMA,4,5
+1260,Flexi,FLEXI+ENEMA,23,6
+1261,Flexi,FLEXI+ENEMA,7,7
+1262,Flexi,FLEXI+ENEMA,6,8
+1263,Flexi,FLEXI+ENEMA,13,9
+1264,Flexi,FLEXI+ENEMA,12,10
+1265,Flexi,FLEXI+ENEMA,10,11
+1266,Flexi,FLEXI+ENEMA,10,12
+1267,Flexi,FLEXI+ENEMA,11,13
+1268,Flexi,FLEXI+ENEMA,4,14
+1269,Flexi,FLEXI+ENEMA,4,15
+1270,Flexi,FLEXI+ENEMA,5,16
+1271,Flexi,FLEXI+ENEMA,6,17
+1272,Flexi,FLEXI+ENEMA,10,18
+1273,Flexi,FLEXI+ENEMA,7,19
+1274,Flexi,FLEXI+ENEMA,7,20
+1275,Flexi,FLEXI+ENEMA,3,21
+1276,Flexi,FLEXI+ENEMA,3,22
+1277,Flexi,FLEXI+ENEMA,6,23
+1278,Flexi,FLEXI+ENEMA,6,24
+1279,Flexi,FLEXI+ENEMA,6,25
+1280,Flexi,FLEXI+ENEMA,7,27
+1281,Flexi,FLEXI+ENEMA,6,28
+1282,Flexi,FLEXI+ENEMA,4,29
+1283,Flexi,FLEXI+ENEMA,7,30
+1284,Flexi,FLEXI+ENEMA,3,31
+1285,Flexi,FLEXI+ENEMA,7,32
+1286,Flexi,FLEXI+ENEMA,6,33
+1287,Flexi,FLEXI+ENEMA,7,34
+1288,Flexi,FLEXI+ENEMA,3,35
+1289,Flexi,FLEXI+ENEMA,9,36
+1290,Flexi,FLEXI+ENEMA,5,37
+1291,Flexi,FLEXI+ENEMA,4,39
+1292,Flexi,FLEXI+ENEMA,2,40
+1293,Flexi,FLEXI+ENEMA,8,41
+1294,Flexi,FLEXI+ENEMA,4,42
+1295,Flexi,FLEXI+ENEMA,8,43
+1296,Flexi,FLEXI+ENEMA,8,44
+1297,Flexi,FLEXI+ENEMA,6,45
+1298,Flexi,FLEXI+ENEMA,4,46
+1299,Flexi,FLEXI+ENEMA,5,47
+1300,Flexi,FLEXI+ENEMA,1,48
+1301,Flexi,FLEXI+ENEMA,6,49
+1302,Flexi,FLEXI+ENEMA,3,50
+1303,Flexi,FLEXI+ENEMA,2,51
+1304,Flexi,FLEXI+ENEMA,5,52
+1305,Flexi,FLEXI+ENEMA,5,53
+1306,Flexi,FLEXI+ENEMA,5,55
+1307,Flexi,FLEXI+ENEMA,6,56
+1308,Flexi,FLEXI+ENEMA,3,57
+1309,Flexi,FLEXI+ENEMA,7,58
+1310,Flexi,FLEXI+ENEMA,3,59
+1311,Flexi,FLEXI+ENEMA,6,61
+1312,Flexi,FLEXI+ENEMA,1,63
+1313,Flexi,FLEXI+ENEMA,6,66
+1314,Flexi,FLEXI+ENEMA,6,76
+1315,Flexi,FLEXI+ENEMA TBT,1,8
+1316,Flexi,FLEXI+ENEMA TBT,5,17
+1317,Flexi,FLEXI+ENEMA TBT,4,18
+1318,Flexi,FLEXI+ENEMA+OGD,6,1
+1319,Flexi,FLEXI+ENEMA+OGD,4,4
+1320,Flexi,FLEXI+ENEMA+OGD,2,31
+1321,Flexi,FLEXI+ENEMA+OGD,6,50
+1322,Flexi,FLEXI+ENEMA+OGD+VARICES+BANDING,3,6
+1323,Flexi,FLEXI+IBD,4,14
+1324,Flexi,FLEXI+IBD,3,24
+1325,Flexi,FLEXI+OGD,3,2
+1326,Flexi,FLEXI+OGD,2,6
+1327,Flexi,FLEXI+OGD,7,7
+1328,Flexi,FLEXI+OGD,6,21
+1329,Flexi,FLEXI+OGD,6,28
+1330,Flexi,FLEXI+OGD,1,33
+1331,Flexi,FLEXI+OGD,3,36
+1332,Flexi,FLEXI+OGD,1,37
+1333,Flexi,FLEXI+OGD,5,40
+1334,Flexi,FLEXI+OGD,3,43
+1335,Flexi,FLEXI+OGD,2,46
+1336,Flexi,FLEXI+OGD,4,47
+1337,Flexi,FLEXI+OGD,2,49
+1338,Flexi,FLEXI+OGD,5,50
+1339,Flexi,FLEXI+OGD,6,55
+1340,Flexi,FLEXI+OGD,1,58
+1341,Flexi,FLEXI+OGD,4,60
+1342,Flexi,FLEXI+OGD,4,64
+1343,Flexi,FLEXI+OGD,6,67
+1344,Flexi,FLEXI+OGD,5,82
+1345,Flexi,FLEXI+OGD TBT,2,53
+1346,Flexi,FLEXI+OGD+BARRETTS,1,16
+1347,Flexi,FLEXI+OGD+EMR,6,9
+1348,Flexi,FLEXI+POYLP,6,1
+1349,Flexi,FLEXI+SSD,1,3
+1350,Flexi,FLEXI+SSD,8,4
+1351,Flexi,FLEXI+SSD,3,5
+1352,Flexi,FLEXI+SSD,5,6
+1353,Flexi,FLEXI+SSD,5,7
+1354,Flexi,FLEXI+SSD,6,9
+1355,Flexi,FLEXI+SSD,4,10
+1356,Flexi,FLEXI+SSD,1,11
+1357,Flexi,FLEXI+SSD,6,12
+1358,Flexi,FLEXI+SSD,2,13
+1359,Flexi,FLEXI+SSD,3,18
+1360,Flexi,FLEXI+SSD,5,19
+1361,Flexi,FLEXI+TATTOO,3,9
+1362,Flexi,OGD+BANDING+FLEXI,6,33
+1363,Flexi,STREAM 3 FLEXI,5,25
+1364,Flexi,STREAM 3 FLEXI,2,75
+1365,Flexi,STREAM 3 FLEXI,3,76
+1366,Flexi,STREAM 3 FLEXI,3,77
+1367,Flexi,STREAM 3 FLEXI,6,78
+1368,Flexi,STREAM 3 FLEXI,3,79
+1369,Flexi,STREAM 3 FLEXI,1,81
+1370,Flexi,STREAM 3 FLEXI,1,83
+1371,Flexi,STREAM 3 FLEXI,7,85
+1372,Flexi,STREAM 3 FLEXI,3,88
+1373,MRI,MRA Aorta thoracic,2,11
+1374,MRI,MRA Aorta whole,4,1
+1375,MRI,MRA Aorta whole,5,11
+1376,MRI,MRA Carotid Both,4,6
+1377,MRI,MRA Carotid Both,6,9
+1378,MRI,MRA Head,4,0
+1379,MRI,MRA Head,23,1
+1380,MRI,MRA Head,24,2
+1381,MRI,MRA Head,22,3
+1382,MRI,MRA Head,16,4
+1383,MRI,MRA Head,13,5
+1384,MRI,MRA Head,18,6
+1385,MRI,MRA Head,9,7
+1386,MRI,MRA Head,9,8
+1387,MRI,MRA Head,15,9
+1388,MRI,MRA Head,10,10
+1389,MRI,MRA Head,4,11
+1390,MRI,MRA Head,6,12
+1391,MRI,MRA Head,5,13
+1392,MRI,MRA Head,5,14
+1393,MRI,MRA Head,2,16
+1394,MRI,MRA Head,2,18
+1395,MRI,MRA Head,5,24
+1396,MRI,MRA Lower limb Both,5,2
+1397,MRI,MRA Neck,16,1
+1398,MRI,MRA Neck,11,2
+1399,MRI,MRA Neck,8,3
+1400,MRI,MRA Neck,4,4
+1401,MRI,MRA Neck,4,5
+1402,MRI,MRA Neck,5,6
+1403,MRI,MRA Neck,7,8
+1404,MRI,MRA Neck,5,9
+1405,MRI,MRA Neck,4,10
+1406,MRI,MRA Neck,1,12
+1407,MRI,MRA Neck,2,24
+1408,MRI,MRA Neck with contrast,1,7
+1409,MRI,MRA Renal and visceral,8,1
+1410,MRI,MRA Renal and visceral,6,2
+1411,MRI,MRA Renal and visceral,5,3
+1412,MRI,MRA Renal and visceral,3,4
+1413,MRI,MRA Renal and visceral,4,6
+1414,MRI,MRA Renal and visceral,6,7
+1415,MRI,MRA Renal and visceral,8,8
+1416,MRI,MRA Renal and visceral,7,9
+1417,MRI,MRA Renal and visceral,6,10
+1418,MRI,MRA Renal and visceral,1,16
+1419,MRI,MRA Renal Both,3,3
+1420,MRI,MRA Renal Both,5,6
+1421,MRI,MRA Renal Both,2,9
+1422,MRI,MRA Upper limb Lt,2,1
+1423,MRI,MRA Upper limb Lt,1,4
+1424,MRI,MRA Upper limb Lt,2,9
+1425,MRI,MRA Upper limb Rt,2,1
+1426,MRI,MRA Upper limb Rt,1,6
+1427,MRI,MRA Upper limb Rt,3,9
+1428,MRI,MRCP,4,0
+1429,MRI,MRCP,47,1
+1430,MRI,MRCP,37,2
+1431,MRI,MRCP,24,3
+1432,MRI,MRCP,17,4
+1433,MRI,MRCP,12,5
+1434,MRI,MRCP,26,6
+1435,MRI,MRCP,13,7
+1436,MRI,MRCP,16,8
+1437,MRI,MRCP,20,9
+1438,MRI,MRCP,13,10
+1439,MRI,MRCP,9,11
+1440,MRI,MRCP,5,12
+1441,MRI,MRCP,5,14
+1442,MRI,MRCP,2,16
+1443,MRI,MRCP with contrast,1,0
+1444,MRI,MRCP with contrast,6,1
+1445,MRI,MRCP with contrast,7,2
+1446,MRI,MRCP with contrast,3,7
+1447,MRI,MRCP with contrast,1,9
+1448,MRI,MRI Abdomen,7,1
+1449,MRI,MRI Abdomen,10,2
+1450,MRI,MRI Abdomen,12,3
+1451,MRI,MRI Abdomen,3,4
+1452,MRI,MRI Abdomen,1,5
+1453,MRI,MRI Abdomen,4,6
+1454,MRI,MRI Abdomen,3,7
+1455,MRI,MRI Abdomen,5,8
+1456,MRI,MRI Abdomen,6,9
+1457,MRI,MRI Abdomen,1,10
+1458,MRI,MRI Abdomen and pelvis,6,1
+1459,MRI,MRI Abdomen and pelvis,2,2
+1460,MRI,MRI Abdomen and pelvis,2,3
+1461,MRI,MRI Abdomen and pelvis,4,4
+1462,MRI,MRI Abdomen and pelvis,5,5
+1463,MRI,MRI Abdomen and pelvis,2,6
+1464,MRI,MRI Abdomen and pelvis with contrast,2,19
+1465,MRI,MRI Abdomen with contrast,6,1
+1466,MRI,MRI Abdomen with contrast,5,2
+1467,MRI,MRI Abdomen with contrast,4,4
+1468,MRI,MRI Abdomen with contrast,4,8
+1469,MRI,MRI Abdomen with contrast,1,14
+1470,MRI,MRI Achilles tendon Left,6,9
+1471,MRI,MRI Achilles tendon Right,1,9
+1472,MRI,MRI Achilles tendon Right,6,11
+1473,MRI,MRI Adrenal Both,5,1
+1474,MRI,MRI Adrenal Both,5,2
+1475,MRI,MRI Adrenal Both,11,3
+1476,MRI,MRI Adrenal Both,7,4
+1477,MRI,MRI Adrenal Both,3,6
+1478,MRI,MRI Adrenal Both,1,7
+1479,MRI,MRI Adrenal Both,4,8
+1480,MRI,MRI Adrenal Both,3,9
+1481,MRI,MRI Adrenal Both,6,10
+1482,MRI,MRI Adrenal Both,5,16
+1483,MRI,MRI Adrenal with contrast Both,1,1
+1484,MRI,MRI Adrenal with contrast Both,3,2
+1485,MRI,MRI Adrenal with contrast Both,6,4
+1486,MRI,MRI Adrenal with contrast Both,1,6
+1487,MRI,MRI Ankle Lt,3,0
+1488,MRI,MRI Ankle Lt,4,1
+1489,MRI,MRI Ankle Lt,11,2
+1490,MRI,MRI Ankle Lt,6,3
+1491,MRI,MRI Ankle Lt,9,4
+1492,MRI,MRI Ankle Lt,9,5
+1493,MRI,MRI Ankle Lt,7,6
+1494,MRI,MRI Ankle Lt,6,7
+1495,MRI,MRI Ankle Lt,9,8
+1496,MRI,MRI Ankle Lt,3,9
+1497,MRI,MRI Ankle Lt,2,10
+1498,MRI,MRI Ankle Rt,1,0
+1499,MRI,MRI Ankle Rt,9,1
+1500,MRI,MRI Ankle Rt,6,2
+1501,MRI,MRI Ankle Rt,12,3
+1502,MRI,MRI Ankle Rt,12,4
+1503,MRI,MRI Ankle Rt,7,5
+1504,MRI,MRI Ankle Rt,20,6
+1505,MRI,MRI Ankle Rt,5,7
+1506,MRI,MRI Ankle Rt,2,8
+1507,MRI,MRI Ankle Rt,7,9
+1508,MRI,MRI Ankle Rt,5,11
+1509,MRI,MRI Ankle Rt,4,12
+1510,MRI,MRI Ankle with contrast Lt,5,2
+1511,MRI,MRI Ankle with contrast Lt,2,9
+1512,MRI,MRI Ankle with contrast Rt,4,3
+1513,MRI,MRI Ankle with contrast Rt,2,4
+1514,MRI,MRI Arthrogram hip Lt,5,3
+1515,MRI,MRI Arthrogram hip Lt,6,6
+1516,MRI,MRI Arthrogram hip Lt,1,10
+1517,MRI,MRI Arthrogram hip Rt,5,2
+1518,MRI,MRI Arthrogram hip Rt,3,4
+1519,MRI,MRI Arthrogram hip Rt,3,6
+1520,MRI,MRI Arthrogram shoulder Lt,1,3
+1521,MRI,MRI Arthrogram shoulder Lt,8,4
+1522,MRI,MRI Arthrogram shoulder Lt,1,6
+1523,MRI,MRI Arthrogram shoulder Lt,5,9
+1524,MRI,MRI Arthrogram shoulder Lt,4,10
+1525,MRI,MRI Arthrogram shoulder Lt,6,12
+1526,MRI,MRI Arthrogram shoulder Rt,4,1
+1527,MRI,MRI Arthrogram shoulder Rt,5,6
+1528,MRI,MRI Arthrogram shoulder Rt,9,7
+1529,MRI,MRI Axilla with contrast Lt,3,11
+1530,MRI,MRI Axilla with contrast Rt,3,1
+1531,MRI,MRI Axilla with contrast Rt,6,2
+1532,MRI,MRI Axilla with contrast Rt,4,7
+1533,MRI,MRI Axilla with contrast Rt,3,23
+1534,MRI,MRI Brachial plexus,2,2
+1535,MRI,MRI Brachial plexus,1,4
+1536,MRI,MRI Brachial plexus,6,6
+1537,MRI,MRI Brachial plexus with contrast,1,2
+1538,MRI,MRI Brachial plexus with contrast,2,3
+1539,MRI,MRI Brachial plexus with contrast,5,8
+1540,MRI,MRI Breast Both,5,1
+1541,MRI,MRI Breast Both,2,2
+1542,MRI,MRI Breast Both,6,6
+1543,MRI,MRI Breast Both,3,7
+1544,MRI,MRI Breast Both,4,10
+1545,MRI,MRI Breast with contrast Both,18,1
+1546,MRI,MRI Breast with contrast Both,11,2
+1547,MRI,MRI Breast with contrast Both,12,3
+1548,MRI,MRI Breast with contrast Both,6,4
+1549,MRI,MRI Breast with contrast Both,2,6
+1550,MRI,MRI Breast with contrast Both,6,7
+1551,MRI,MRI Breast with contrast Both,7,8
+1552,MRI,MRI Buttock Both,2,2
+1553,MRI,MRI Clavicle Both,4,7
+1554,MRI,MRI Defaecating proctogram,6,1
+1555,MRI,MRI Defaecating proctogram,5,2
+1556,MRI,MRI Defaecating proctogram,4,3
+1557,MRI,MRI Defaecating proctogram,6,6
+1558,MRI,MRI Defaecating proctogram,1,10
+1559,MRI,MRI Defaecating proctogram,2,12
+1560,MRI,MRI Diffusion weighted brain,1,0
+1561,MRI,MRI Diffusion weighted brain,8,1
+1562,MRI,MRI Diffusion weighted brain,3,2
+1563,MRI,MRI Diffusion weighted brain,1,3
+1564,MRI,MRI Diffusion weighted brain,2,4
+1565,MRI,MRI Diffusion weighted brain,1,5
+1566,MRI,MRI Diffusion weighted brain,4,6
+1567,MRI,MRI Diffusion weighted IAM Both,5,0
+1568,MRI,MRI Diffusion weighted IAM Both,8,1
+1569,MRI,MRI Diffusion weighted IAM Both,6,2
+1570,MRI,MRI Diffusion weighted IAM Both,4,3
+1571,MRI,MRI Diffusion weighted IAM Both,13,4
+1572,MRI,MRI Diffusion weighted IAM Both,12,6
+1573,MRI,MRI Diffusion weighted IAM Both,7,7
+1574,MRI,MRI Diffusion weighted IAM Both,7,8
+1575,MRI,MRI Diffusion weighted IAM Both,15,9
+1576,MRI,MRI Diffusion weighted IAM Both,7,10
+1577,MRI,MRI Diffusion weighted IAM Both,5,11
+1578,MRI,MRI Elbow Lt,2,1
+1579,MRI,MRI Elbow Lt,5,3
+1580,MRI,MRI Elbow Lt,4,8
+1581,MRI,MRI Elbow Lt,4,11
+1582,MRI,MRI Elbow Rt,4,2
+1583,MRI,MRI Elbow Rt,3,6
+1584,MRI,MRI Elbow Rt,6,7
+1585,MRI,MRI Elbow Rt,3,8
+1586,MRI,MRI Elbow Rt,3,10
+1587,MRI,MRI Elbow Rt,4,11
+1588,MRI,MRI Elbow with contrast Lt,2,1
+1589,MRI,MRI Elbow with contrast Lt,4,5
+1590,MRI,MRI Elbow with contrast Rt,1,0
+1591,MRI,MRI Elbow with contrast Rt,5,3
+1592,MRI,MRI Face,1,1
+1593,MRI,MRI Face,1,2
+1594,MRI,MRI Face,1,3
+1595,MRI,MRI Face,4,4
+1596,MRI,MRI Face,7,6
+1597,MRI,MRI Face with contrast,2,3
+1598,MRI,MRI Face with contrast,6,4
+1599,MRI,MRI Face with contrast,2,6
+1600,MRI,MRI Face with contrast,5,7
+1601,MRI,MRI Face with contrast,2,9
+1602,MRI,MRI Face with contrast,6,10
+1603,MRI,MRI Femur Both,4,7
+1604,MRI,MRI Femur Lt,4,0
+1605,MRI,MRI Femur Lt,5,1
+1606,MRI,MRI Femur Lt,6,2
+1607,MRI,MRI Femur Lt,6,3
+1608,MRI,MRI Femur Lt,6,4
+1609,MRI,MRI Femur Lt,2,7
+1610,MRI,MRI Femur Lt,5,9
+1611,MRI,MRI Femur Lt,5,16
+1612,MRI,MRI Femur Rt,5,0
+1613,MRI,MRI Femur Rt,1,1
+1614,MRI,MRI Femur Rt,7,2
+1615,MRI,MRI Femur Rt,3,3
+1616,MRI,MRI Femur Rt,4,6
+1617,MRI,MRI Femur Rt,6,9
+1618,MRI,MRI Femur Rt,6,11
+1619,MRI,MRI Femur Rt,3,16
+1620,MRI,MRI Femur with contrast Lt,1,1
+1621,MRI,MRI Femur with contrast Lt,2,6
+1622,MRI,MRI Femur with contrast Rt,2,1
+1623,MRI,MRI Femur with contrast Rt,1,5
+1624,MRI,MRI Femur with contrast Rt,1,6
+1625,MRI,MRI Femur with contrast Rt,2,9
+1626,MRI,MRI Foot Both,6,2
+1627,MRI,MRI Foot Both,3,7
+1628,MRI,MRI Foot Lt,5,0
+1629,MRI,MRI Foot Lt,3,1
+1630,MRI,MRI Foot Lt,6,2
+1631,MRI,MRI Foot Lt,2,3
+1632,MRI,MRI Foot Lt,7,4
+1633,MRI,MRI Foot Lt,4,5
+1634,MRI,MRI Foot Lt,8,6
+1635,MRI,MRI Foot Lt,9,7
+1636,MRI,MRI Foot Lt,8,8
+1637,MRI,MRI Foot Lt,8,9
+1638,MRI,MRI Foot Rt,4,0
+1639,MRI,MRI Foot Rt,7,1
+1640,MRI,MRI Foot Rt,5,2
+1641,MRI,MRI Foot Rt,3,3
+1642,MRI,MRI Foot Rt,6,4
+1643,MRI,MRI Foot Rt,5,5
+1644,MRI,MRI Foot Rt,4,6
+1645,MRI,MRI Foot Rt,8,7
+1646,MRI,MRI Foot Rt,5,8
+1647,MRI,MRI Foot Rt,6,9
+1648,MRI,MRI Foot Rt,1,10
+1649,MRI,MRI Foot Rt,9,11
+1650,MRI,MRI Foot with contrast Both,3,1
+1651,MRI,MRI Foot with contrast Both,5,3
+1652,MRI,MRI Foot with contrast Both,6,6
+1653,MRI,MRI Foot with contrast Both,1,7
+1654,MRI,MRI Foot with contrast Both,1,8
+1655,MRI,MRI Foot with contrast Both,5,11
+1656,MRI,MRI Foot with contrast Lt,5,1
+1657,MRI,MRI Foot with contrast Lt,4,2
+1658,MRI,MRI Foot with contrast Lt,2,3
+1659,MRI,MRI Foot with contrast Lt,7,4
+1660,MRI,MRI Foot with contrast Lt,3,6
+1661,MRI,MRI Foot with contrast Lt,6,10
+1662,MRI,MRI Foot with contrast Lt,5,11
+1663,MRI,MRI Foot with contrast Rt,8,1
+1664,MRI,MRI Foot with contrast Rt,6,3
+1665,MRI,MRI Foot with contrast Rt,4,4
+1666,MRI,MRI Foot with contrast Rt,3,5
+1667,MRI,MRI Foot with contrast Rt,1,6
+1668,MRI,MRI Foot with contrast Rt,5,7
+1669,MRI,MRI Foot with contrast Rt,6,11
+1670,MRI,MRI Forearm Lt,1,1
+1671,MRI,MRI Forearm Rt,4,9
+1672,MRI,MRI Forearm with contrast Lt,2,8
+1673,MRI,MRI Forearm with contrast Rt,6,6
+1674,MRI,MRI Forefoot Lt,5,1
+1675,MRI,MRI Forefoot Rt,2,1
+1676,MRI,MRI Hand Lt,7,2
+1677,MRI,MRI Hand Lt,3,3
+1678,MRI,MRI Hand Lt,4,5
+1679,MRI,MRI Hand Lt,3,6
+1680,MRI,MRI Hand Lt,6,8
+1681,MRI,MRI Hand Lt,1,10
+1682,MRI,MRI Hand Rt,4,0
+1683,MRI,MRI Hand Rt,5,1
+1684,MRI,MRI Hand Rt,4,2
+1685,MRI,MRI Hand Rt,4,3
+1686,MRI,MRI Hand Rt,2,5
+1687,MRI,MRI Hand Rt,7,6
+1688,MRI,MRI Hand Rt,9,8
+1689,MRI,MRI Hand Rt,4,9
+1690,MRI,MRI Hand Rt,5,10
+1691,MRI,MRI Hand Rt,4,11
+1692,MRI,MRI Hand with contrast Both,2,6
+1693,MRI,MRI Hand with contrast Lt,2,0
+1694,MRI,MRI Hand with contrast Lt,9,1
+1695,MRI,MRI Hand with contrast Lt,6,2
+1696,MRI,MRI Hand with contrast Lt,5,3
+1697,MRI,MRI Hand with contrast Lt,3,4
+1698,MRI,MRI Hand with contrast Lt,2,5
+1699,MRI,MRI Hand with contrast Lt,5,6
+1700,MRI,MRI Hand with contrast Lt,5,7
+1701,MRI,MRI Hand with contrast Lt,2,8
+1702,MRI,MRI Hand with contrast Lt,6,9
+1703,MRI,MRI Hand with contrast Lt,7,10
+1704,MRI,MRI Hand with contrast Lt,3,17
+1705,MRI,MRI Hand with contrast Rt,6,0
+1706,MRI,MRI Hand with contrast Rt,11,1
+1707,MRI,MRI Hand with contrast Rt,5,2
+1708,MRI,MRI Hand with contrast Rt,7,3
+1709,MRI,MRI Hand with contrast Rt,4,4
+1710,MRI,MRI Hand with contrast Rt,4,5
+1711,MRI,MRI Hand with contrast Rt,7,6
+1712,MRI,MRI Hand with contrast Rt,8,7
+1713,MRI,MRI Hand with contrast Rt,6,8
+1714,MRI,MRI Hand with contrast Rt,4,9
+1715,MRI,MRI Hand with contrast Rt,7,10
+1716,MRI,MRI Hand with contrast Rt,2,17
+1717,MRI,MRI Head,42,0
+1718,MRI,MRI Head,166,1
+1719,MRI,MRI Head,202,2
+1720,MRI,MRI Head,214,3
+1721,MRI,MRI Head,139,4
+1722,MRI,MRI Head,100,5
+1723,MRI,MRI Head,285,6
+1724,MRI,MRI Head,164,7
+1725,MRI,MRI Head,123,8
+1726,MRI,MRI Head,119,9
+1727,MRI,MRI Head,44,10
+1728,MRI,MRI Head,35,11
+1729,MRI,MRI Head,25,12
+1730,MRI,MRI Head,6,13
+1731,MRI,MRI Head,13,14
+1732,MRI,MRI Head,7,15
+1733,MRI,MRI Head,6,16
+1734,MRI,MRI Head,4,17
+1735,MRI,MRI Head,9,18
+1736,MRI,MRI Head,8,19
+1737,MRI,MRI Head,10,20
+1738,MRI,MRI Head,3,21
+1739,MRI,MRI Head,9,22
+1740,MRI,MRI Head,3,23
+1741,MRI,MRI Head,8,24
+1742,MRI,MRI Head,4,25
+1743,MRI,MRI Head,6,26
+1744,MRI,MRI Head,6,28
+1745,MRI,MRI Head,6,29
+1746,MRI,MRI Head,3,30
+1747,MRI,MRI Head,3,40
+1748,MRI,MRI Head,2,49
+1749,MRI,MRI Head with contrast,12,0
+1750,MRI,MRI Head with contrast,46,1
+1751,MRI,MRI Head with contrast,45,2
+1752,MRI,MRI Head with contrast,45,3
+1753,MRI,MRI Head with contrast,37,4
+1754,MRI,MRI Head with contrast,19,5
+1755,MRI,MRI Head with contrast,44,6
+1756,MRI,MRI Head with contrast,28,7
+1757,MRI,MRI Head with contrast,26,8
+1758,MRI,MRI Head with contrast,17,9
+1759,MRI,MRI Head with contrast,8,10
+1760,MRI,MRI Head with contrast,5,11
+1761,MRI,MRI Head with contrast,2,12
+1762,MRI,MRI Head with contrast,2,13
+1763,MRI,MRI Head with contrast,3,22
+1764,MRI,MRI Head with contrast,3,25
+1765,MRI,MRI Head with contrast,3,29
+1766,MRI,MRI Head with contrast,1,32
+1767,MRI,MRI Hip Both,2,0
+1768,MRI,MRI Hip Both,6,1
+1769,MRI,MRI Hip Both,3,2
+1770,MRI,MRI Hip Both,10,3
+1771,MRI,MRI Hip Both,10,4
+1772,MRI,MRI Hip Both,7,5
+1773,MRI,MRI Hip Both,14,6
+1774,MRI,MRI Hip Both,8,7
+1775,MRI,MRI Hip Both,4,8
+1776,MRI,MRI Hip Both,3,9
+1777,MRI,MRI Hip Both,6,11
+1778,MRI,MRI Hip Lt,4,0
+1779,MRI,MRI Hip Lt,2,1
+1780,MRI,MRI Hip Lt,8,2
+1781,MRI,MRI Hip Lt,7,3
+1782,MRI,MRI Hip Lt,6,4
+1783,MRI,MRI Hip Lt,6,5
+1784,MRI,MRI Hip Lt,8,6
+1785,MRI,MRI Hip Lt,4,7
+1786,MRI,MRI Hip Lt,6,8
+1787,MRI,MRI Hip Lt,4,9
+1788,MRI,MRI Hip Lt,5,10
+1789,MRI,MRI Hip Lt,4,15
+1790,MRI,MRI Hip Rt,6,1
+1791,MRI,MRI Hip Rt,16,2
+1792,MRI,MRI Hip Rt,13,3
+1793,MRI,MRI Hip Rt,6,4
+1794,MRI,MRI Hip Rt,9,5
+1795,MRI,MRI Hip Rt,11,6
+1796,MRI,MRI Hip Rt,5,7
+1797,MRI,MRI Hip Rt,6,8
+1798,MRI,MRI Hip Rt,9,9
+1799,MRI,MRI Hip Rt,7,11
+1800,MRI,MRI Hip Rt,5,16
+1801,MRI,MRI Hip with contrast Both,6,3
+1802,MRI,MRI Hip with contrast Lt,5,7
+1803,MRI,MRI Hip with contrast Rt,3,1
+1804,MRI,MRI Hip with contrast Rt,1,3
+1805,MRI,MRI Hip with contrast Rt,3,6
+1806,MRI,MRI IAM with contrast Both,7,0
+1807,MRI,MRI IAM with contrast Both,28,1
+1808,MRI,MRI IAM with contrast Both,9,2
+1809,MRI,MRI IAM with contrast Both,11,3
+1810,MRI,MRI IAM with contrast Both,10,4
+1811,MRI,MRI IAM with contrast Both,4,5
+1812,MRI,MRI IAM with contrast Both,16,6
+1813,MRI,MRI IAM with contrast Both,12,7
+1814,MRI,MRI IAM with contrast Both,12,8
+1815,MRI,MRI IAM with contrast Both,4,10
+1816,MRI,MRI IAM with contrast Both,5,11
+1817,MRI,MRI Internal auditory meatus Both,17,0
+1818,MRI,MRI Internal auditory meatus Both,24,1
+1819,MRI,MRI Internal auditory meatus Both,49,2
+1820,MRI,MRI Internal auditory meatus Both,54,3
+1821,MRI,MRI Internal auditory meatus Both,36,4
+1822,MRI,MRI Internal auditory meatus Both,27,5
+1823,MRI,MRI Internal auditory meatus Both,79,6
+1824,MRI,MRI Internal auditory meatus Both,36,7
+1825,MRI,MRI Internal auditory meatus Both,35,8
+1826,MRI,MRI Internal auditory meatus Both,29,9
+1827,MRI,MRI Internal auditory meatus Both,11,10
+1828,MRI,MRI Internal auditory meatus Both,13,11
+1829,MRI,MRI Internal auditory meatus Both,1,12
+1830,MRI,MRI Internal auditory meatus Both,3,14
+1831,MRI,MRI Internal auditory meatus Both,3,15
+1832,MRI,MRI Internal auditory meatus Both,4,16
+1833,MRI,MRI Internal auditory meatus Both,2,17
+1834,MRI,MRI Internal auditory meatus Both,6,20
+1835,MRI,MRI Internal auditory meatus Both,5,27
+1836,MRI,MRI Internal auditory meatus Both,6,36
+1837,MRI,MRI Knee Both,4,1
+1838,MRI,MRI Knee Both,7,2
+1839,MRI,MRI Knee Both,5,3
+1840,MRI,MRI Knee Both,2,4
+1841,MRI,MRI Knee Both,4,7
+1842,MRI,MRI Knee Lt,7,0
+1843,MRI,MRI Knee Lt,29,1
+1844,MRI,MRI Knee Lt,28,2
+1845,MRI,MRI Knee Lt,38,3
+1846,MRI,MRI Knee Lt,31,4
+1847,MRI,MRI Knee Lt,25,5
+1848,MRI,MRI Knee Lt,50,6
+1849,MRI,MRI Knee Lt,37,7
+1850,MRI,MRI Knee Lt,27,8
+1851,MRI,MRI Knee Lt,23,9
+1852,MRI,MRI Knee Lt,10,10
+1853,MRI,MRI Knee Lt,8,11
+1854,MRI,MRI Knee Lt,6,12
+1855,MRI,MRI Knee Lt,6,13
+1856,MRI,MRI Knee Rt,7,0
+1857,MRI,MRI Knee Rt,21,1
+1858,MRI,MRI Knee Rt,39,2
+1859,MRI,MRI Knee Rt,46,3
+1860,MRI,MRI Knee Rt,35,4
+1861,MRI,MRI Knee Rt,40,5
+1862,MRI,MRI Knee Rt,59,6
+1863,MRI,MRI Knee Rt,28,7
+1864,MRI,MRI Knee Rt,37,8
+1865,MRI,MRI Knee Rt,28,9
+1866,MRI,MRI Knee Rt,13,10
+1867,MRI,MRI Knee Rt,11,11
+1868,MRI,MRI Knee Rt,6,12
+1869,MRI,MRI Knee Rt,4,17
+1870,MRI,MRI Knee with contrast Lt,8,8
+1871,MRI,MRI Knee with contrast Lt,6,14
+1872,MRI,MRI Knee with contrast Rt,2,4
+1873,MRI,MRI Knee with contrast Rt,2,5
+1874,MRI,MRI Knee with contrast Rt,6,6
+1875,MRI,MRI Knee with contrast Rt,2,8
+1876,MRI,MRI Liver and spleen,5,1
+1877,MRI,MRI Liver and spleen,9,2
+1878,MRI,MRI Liver and spleen,5,3
+1879,MRI,MRI Liver and spleen,6,4
+1880,MRI,MRI Liver and spleen,5,6
+1881,MRI,MRI Liver and spleen,2,7
+1882,MRI,MRI Liver and spleen,4,8
+1883,MRI,MRI Liver with contrast,9,0
+1884,MRI,MRI Liver with contrast,28,1
+1885,MRI,MRI Liver with contrast,25,2
+1886,MRI,MRI Liver with contrast,15,3
+1887,MRI,MRI Liver with contrast,15,4
+1888,MRI,MRI Liver with contrast,17,5
+1889,MRI,MRI Liver with contrast,22,6
+1890,MRI,MRI Liver with contrast,13,7
+1891,MRI,MRI Liver with contrast,9,8
+1892,MRI,MRI Liver with contrast,15,9
+1893,MRI,MRI Liver with contrast,10,10
+1894,MRI,MRI Liver with contrast,8,11
+1895,MRI,MRI Liver with contrast,5,12
+1896,MRI,MRI Liver with contrast,2,14
+1897,MRI,MRI Liver with contrast,7,15
+1898,MRI,MRI Liver with hepatobiliary contrast,4,1
+1899,MRI,MRI Liver with hepatobiliary contrast,10,2
+1900,MRI,MRI Liver with hepatobiliary contrast,6,3
+1901,MRI,MRI Liver with hepatobiliary contrast,5,6
+1902,MRI,MRI Liver with hepatobiliary contrast,3,9
+1903,MRI,MRI Liver with hepatobiliary contrast,4,10
+1904,MRI,MRI Liver with hepatobiliary contrast,3,12
+1905,MRI,MRI Lower leg Both,1,9
+1906,MRI,MRI Lower leg Lt,3,1
+1907,MRI,MRI Lower leg Lt,7,2
+1908,MRI,MRI Lower leg Lt,7,3
+1909,MRI,MRI Lower leg Lt,3,4
+1910,MRI,MRI Lower leg Lt,5,5
+1911,MRI,MRI Lower leg Lt,6,6
+1912,MRI,MRI Lower leg Lt,6,8
+1913,MRI,MRI Lower leg Lt,2,13
+1914,MRI,MRI Lower leg Rt,8,1
+1915,MRI,MRI Lower leg Rt,3,2
+1916,MRI,MRI Lower leg Rt,7,3
+1917,MRI,MRI Lower leg Rt,2,4
+1918,MRI,MRI Lower leg Rt,5,5
+1919,MRI,MRI Lower leg Rt,2,6
+1920,MRI,MRI Lower leg Rt,4,10
+1921,MRI,MRI Lower leg with contrast Lt,6,2
+1922,MRI,MRI Lower leg with contrast Lt,5,6
+1923,MRI,MRI Lower leg with contrast Rt,2,5
+1924,MRI,MRI Lower leg with contrast Rt,3,6
+1925,MRI,MRI Lower leg with contrast Rt,2,9
+1926,MRI,MRI Lower leg with contrast Rt,6,10
+1927,MRI,MRI Lower leg with contrast Rt,5,12
+1928,MRI,MRI Lower leg with contrast Rt,5,17
+1929,MRI,MRI Lower limb Both,6,2
+1930,MRI,MRI Lower limb Both,4,6
+1931,MRI,MRI Lower limb Left,2,2
+1932,MRI,MRI Lower limb Right,3,8
+1933,MRI,MRI Lower limb Right,3,9
+1934,MRI,MRI Lower limb Right,1,22
+1935,MRI,MRI Mandible,5,9
+1936,MRI,MRI Multiparametric prostate,2,0
+1937,MRI,MRI Multiparametric prostate,75,1
+1938,MRI,MRI Multiparametric prostate,45,2
+1939,MRI,MRI Multiparametric prostate,16,3
+1940,MRI,MRI Multiparametric prostate,9,4
+1941,MRI,MRI Multiparametric prostate,7,5
+1942,MRI,MRI Multiparametric prostate,24,6
+1943,MRI,MRI Multiparametric prostate,10,7
+1944,MRI,MRI Multiparametric prostate,10,8
+1945,MRI,MRI Multiparametric prostate,4,9
+1946,MRI,MRI Multiparametric prostate,1,10
+1947,MRI,MRI Multiparametric prostate,6,11
+1948,MRI,MRI Neck,2,1
+1949,MRI,MRI Neck,5,2
+1950,MRI,MRI Neck,4,3
+1951,MRI,MRI Neck,3,4
+1952,MRI,MRI Neck,4,8
+1953,MRI,MRI Neck with contrast,6,0
+1954,MRI,MRI Neck with contrast,27,1
+1955,MRI,MRI Neck with contrast,22,2
+1956,MRI,MRI Neck with contrast,15,3
+1957,MRI,MRI Neck with contrast,8,4
+1958,MRI,MRI Neck with contrast,6,5
+1959,MRI,MRI Neck with contrast,18,6
+1960,MRI,MRI Neck with contrast,9,7
+1961,MRI,MRI Neck with contrast,11,8
+1962,MRI,MRI Neck with contrast,6,9
+1963,MRI,MRI Neck with contrast,3,10
+1964,MRI,MRI Neck with contrast,6,11
+1965,MRI,MRI Neck with contrast,6,12
+1966,MRI,MRI Neck with contrast,2,14
+1967,MRI,MRI Neck with contrast,4,15
+1968,MRI,MRI Neck with contrast,1,18
+1969,MRI,MRI Neck with contrast,3,29
+1970,MRI,MRI Orbit Both,6,0
+1971,MRI,MRI Orbit Both,6,1
+1972,MRI,MRI Orbit Both,6,2
+1973,MRI,MRI Orbit Both,8,3
+1974,MRI,MRI Orbit Both,7,4
+1975,MRI,MRI Orbit Both,5,5
+1976,MRI,MRI Orbit Both,17,6
+1977,MRI,MRI Orbit Both,1,7
+1978,MRI,MRI Orbit Both,7,8
+1979,MRI,MRI Orbit Both,2,9
+1980,MRI,MRI Orbit Both,7,10
+1981,MRI,MRI Orbit Both,5,11
+1982,MRI,MRI Orbit Both,2,12
+1983,MRI,MRI Orbit Both,7,14
+1984,MRI,MRI Orbit Both,3,23
+1985,MRI,MRI Orbit with contrast Both,2,1
+1986,MRI,MRI Orbit with contrast Both,2,2
+1987,MRI,MRI Orbit with contrast Both,3,4
+1988,MRI,MRI Orbit with contrast Both,11,6
+1989,MRI,MRI Orbit with contrast Both,4,7
+1990,MRI,MRI Orbit with contrast Both,1,8
+1991,MRI,MRI Orbit with contrast Both,4,13
+1992,MRI,MRI Pancreas,5,0
+1993,MRI,MRI Pancreas,21,1
+1994,MRI,MRI Pancreas,13,2
+1995,MRI,MRI Pancreas,8,3
+1996,MRI,MRI Pancreas,2,5
+1997,MRI,MRI Pancreas,2,6
+1998,MRI,MRI Pancreas,5,7
+1999,MRI,MRI Pancreas,2,10
+2000,MRI,MRI Pancreas,6,11
+2001,MRI,MRI Pancreas with contrast,7,0
+2002,MRI,MRI Pancreas with contrast,5,1
+2003,MRI,MRI Pancreas with contrast,12,2
+2004,MRI,MRI Pancreas with contrast,13,3
+2005,MRI,MRI Pancreas with contrast,7,4
+2006,MRI,MRI Pancreas with contrast,5,5
+2007,MRI,MRI Pancreas with contrast,6,6
+2008,MRI,MRI Pancreas with contrast,6,7
+2009,MRI,MRI Pancreas with contrast,4,8
+2010,MRI,MRI Pancreas with contrast,5,9
+2011,MRI,MRI Pancreas with contrast,5,10
+2012,MRI,MRI Pancreas with contrast,1,11
+2013,MRI,MRI Pancreas with contrast,6,15
+2014,MRI,MRI Parotid,2,10
+2015,MRI,MRI Parotid gland with contrast,6,5
+2016,MRI,MRI Parotid gland with contrast,3,6
+2017,MRI,MRI Pelvis,5,0
+2018,MRI,MRI Pelvis,18,1
+2019,MRI,MRI Pelvis,13,2
+2020,MRI,MRI Pelvis,20,3
+2021,MRI,MRI Pelvis,9,4
+2022,MRI,MRI Pelvis,5,5
+2023,MRI,MRI Pelvis,21,6
+2024,MRI,MRI Pelvis,7,7
+2025,MRI,MRI Pelvis,10,8
+2026,MRI,MRI Pelvis,9,9
+2027,MRI,MRI Pelvis,7,10
+2028,MRI,MRI Pelvis,7,11
+2029,MRI,MRI Pelvis and hip Both,6,1
+2030,MRI,MRI Pelvis and hip Both,4,2
+2031,MRI,MRI Pelvis and hip Both,7,3
+2032,MRI,MRI Pelvis and hip Both,8,4
+2033,MRI,MRI Pelvis and hip Both,4,5
+2034,MRI,MRI Pelvis and hip Both,8,6
+2035,MRI,MRI Pelvis and hip Both,9,7
+2036,MRI,MRI Pelvis and hip Both,4,9
+2037,MRI,MRI Pelvis and hip Both,6,10
+2038,MRI,MRI Pelvis gynaecological,9,0
+2039,MRI,MRI Pelvis gynaecological,51,1
+2040,MRI,MRI Pelvis gynaecological,54,2
+2041,MRI,MRI Pelvis gynaecological,41,3
+2042,MRI,MRI Pelvis gynaecological,21,4
+2043,MRI,MRI Pelvis gynaecological,28,5
+2044,MRI,MRI Pelvis gynaecological,55,6
+2045,MRI,MRI Pelvis gynaecological,43,7
+2046,MRI,MRI Pelvis gynaecological,39,8
+2047,MRI,MRI Pelvis gynaecological,22,9
+2048,MRI,MRI Pelvis gynaecological,16,10
+2049,MRI,MRI Pelvis gynaecological,14,11
+2050,MRI,MRI Pelvis gynaecological,4,12
+2051,MRI,MRI Pelvis gynaecological,6,15
+2052,MRI,MRI Pelvis gynaecological,1,16
+2053,MRI,MRI Pelvis gynaecological,6,18
+2054,MRI,MRI Pelvis gynaecological,1,19
+2055,MRI,MRI Pelvis rectum,19,1
+2056,MRI,MRI Pelvis rectum,12,2
+2057,MRI,MRI Pelvis rectum,10,3
+2058,MRI,MRI Pelvis rectum,9,4
+2059,MRI,MRI Pelvis rectum,2,5
+2060,MRI,MRI Pelvis rectum,7,6
+2061,MRI,MRI Pelvis rectum,4,7
+2062,MRI,MRI Pelvis rectum,8,8
+2063,MRI,MRI Pelvis rectum,6,9
+2064,MRI,MRI Pelvis rectum,4,11
+2065,MRI,MRI Pelvis rectum,3,21
+2066,MRI,MRI Pelvis SIJ Both,8,0
+2067,MRI,MRI Pelvis SIJ Both,17,1
+2068,MRI,MRI Pelvis SIJ Both,16,2
+2069,MRI,MRI Pelvis SIJ Both,29,3
+2070,MRI,MRI Pelvis SIJ Both,16,4
+2071,MRI,MRI Pelvis SIJ Both,19,5
+2072,MRI,MRI Pelvis SIJ Both,32,6
+2073,MRI,MRI Pelvis SIJ Both,20,7
+2074,MRI,MRI Pelvis SIJ Both,16,8
+2075,MRI,MRI Pelvis SIJ Both,9,9
+2076,MRI,MRI Pelvis SIJ Both,10,10
+2077,MRI,MRI Pelvis SIJ Both,8,11
+2078,MRI,MRI Pelvis with contrast,5,0
+2079,MRI,MRI Pelvis with contrast,9,1
+2080,MRI,MRI Pelvis with contrast,6,2
+2081,MRI,MRI Pelvis with contrast,4,3
+2082,MRI,MRI Pelvis with contrast,4,4
+2083,MRI,MRI Pelvis with contrast,5,5
+2084,MRI,MRI Pelvis with contrast,1,6
+2085,MRI,MRI Pelvis with contrast,2,7
+2086,MRI,MRI Pelvis with contrast,5,8
+2087,MRI,MRI Pelvis with contrast,4,11
+2088,MRI,MRI Perianal fistula with contrast,6,0
+2089,MRI,MRI Perianal fistula with contrast,4,1
+2090,MRI,MRI Perianal fistula with contrast,3,2
+2091,MRI,MRI Perianal fistula with contrast,9,3
+2092,MRI,MRI Perianal fistula with contrast,6,4
+2093,MRI,MRI Perianal fistula with contrast,4,5
+2094,MRI,MRI Perianal fistula with contrast,7,6
+2095,MRI,MRI Perianal fistula with contrast,9,7
+2096,MRI,MRI Perianal fistula with contrast,9,9
+2097,MRI,MRI Perianal fistula with contrast,4,10
+2098,MRI,MRI Perianal fistula with contrast,2,11
+2099,MRI,MRI Pituitary,4,1
+2100,MRI,MRI Pituitary,4,2
+2101,MRI,MRI Pituitary,5,3
+2102,MRI,MRI Pituitary,5,7
+2103,MRI,MRI Pituitary,1,13
+2104,MRI,MRI Pituitary,3,16
+2105,MRI,MRI Pituitary with contrast,6,0
+2106,MRI,MRI Pituitary with contrast,14,1
+2107,MRI,MRI Pituitary with contrast,15,2
+2108,MRI,MRI Pituitary with contrast,10,3
+2109,MRI,MRI Pituitary with contrast,13,4
+2110,MRI,MRI Pituitary with contrast,12,6
+2111,MRI,MRI Pituitary with contrast,16,7
+2112,MRI,MRI Pituitary with contrast,10,8
+2113,MRI,MRI Pituitary with contrast,10,9
+2114,MRI,MRI Pituitary with contrast,8,10
+2115,MRI,MRI Pituitary with contrast,4,11
+2116,MRI,MRI Pituitary with contrast,7,12
+2117,MRI,MRI Pituitary with contrast,3,13
+2118,MRI,MRI Pituitary with contrast,1,14
+2119,MRI,MRI Pituitary with contrast,2,15
+2120,MRI,MRI Pituitary with contrast,4,18
+2121,MRI,MRI Prostate spectroscopy,3,1
+2122,MRI,MRI Prostate spectroscopy,2,2
+2123,MRI,MRI Prostate spectroscopy,2,3
+2124,MRI,MRI Prostate with contrast,3,2
+2125,MRI,MRI Renal Both,5,3
+2126,MRI,MRI Renal Both,6,10
+2127,MRI,MRI Renal with contrast Both,4,1
+2128,MRI,MRI Renal with contrast Both,3,2
+2129,MRI,MRI Renal with contrast Both,6,3
+2130,MRI,MRI Renal with contrast Both,6,4
+2131,MRI,MRI Renal with contrast Both,3,6
+2132,MRI,MRI Renal with contrast Both,1,8
+2133,MRI,MRI Renal with contrast Both,1,10
+2134,MRI,MRI Scrotum,2,2
+2135,MRI,MRI Shoulder Both,6,2
+2136,MRI,MRI Shoulder Both,1,3
+2137,MRI,MRI Shoulder Lt,6,0
+2138,MRI,MRI Shoulder Lt,13,1
+2139,MRI,MRI Shoulder Lt,12,2
+2140,MRI,MRI Shoulder Lt,26,3
+2141,MRI,MRI Shoulder Lt,17,4
+2142,MRI,MRI Shoulder Lt,8,5
+2143,MRI,MRI Shoulder Lt,28,6
+2144,MRI,MRI Shoulder Lt,10,7
+2145,MRI,MRI Shoulder Lt,9,8
+2146,MRI,MRI Shoulder Lt,15,9
+2147,MRI,MRI Shoulder Lt,4,10
+2148,MRI,MRI Shoulder Lt,4,11
+2149,MRI,MRI Shoulder Rt,9,0
+2150,MRI,MRI Shoulder Rt,10,1
+2151,MRI,MRI Shoulder Rt,24,2
+2152,MRI,MRI Shoulder Rt,25,3
+2153,MRI,MRI Shoulder Rt,20,4
+2154,MRI,MRI Shoulder Rt,13,5
+2155,MRI,MRI Shoulder Rt,23,6
+2156,MRI,MRI Shoulder Rt,18,7
+2157,MRI,MRI Shoulder Rt,17,8
+2158,MRI,MRI Shoulder Rt,14,9
+2159,MRI,MRI Shoulder Rt,7,10
+2160,MRI,MRI Shoulder with contrast Lt,1,3
+2161,MRI,MRI Shoulder with contrast Lt,2,6
+2162,MRI,MRI Shoulder with contrast Lt,5,7
+2163,MRI,MRI Shoulder with contrast Lt,1,9
+2164,MRI,MRI Shoulder with contrast Rt,1,2
+2165,MRI,MRI Shoulder with contrast Rt,8,3
+2166,MRI,MRI Shoulder with contrast Rt,4,9
+2167,MRI,MRI Sinuses,5,2
+2168,MRI,MRI Sinuses,1,3
+2169,MRI,MRI Sinuses,6,6
+2170,MRI,MRI Sinuses,6,7
+2171,MRI,MRI Sinuses,4,8
+2172,MRI,MRI Sinuses,1,9
+2173,MRI,MRI Sinuses,4,10
+2174,MRI,MRI Sinuses,4,11
+2175,MRI,MRI Sinuses with contrast,2,0
+2176,MRI,MRI Sinuses with contrast,6,2
+2177,MRI,MRI Sinuses with contrast,4,3
+2178,MRI,MRI Sinuses with contrast,1,8
+2179,MRI,MRI Sinuses with contrast,1,9
+2180,MRI,MRI Sinuses with contrast,5,12
+2181,MRI,MRI Sinuses with contrast,6,15
+2182,MRI,MRI Small bowel study,11,0
+2183,MRI,MRI Small bowel study,25,1
+2184,MRI,MRI Small bowel study,27,2
+2185,MRI,MRI Small bowel study,32,3
+2186,MRI,MRI Small bowel study,9,4
+2187,MRI,MRI Small bowel study,9,5
+2188,MRI,MRI Small bowel study,27,6
+2189,MRI,MRI Small bowel study,14,7
+2190,MRI,MRI Small bowel study,17,8
+2191,MRI,MRI Small bowel study,13,9
+2192,MRI,MRI Small bowel study,6,10
+2193,MRI,MRI Small bowel study,2,11
+2194,MRI,MRI Small bowel study,3,12
+2195,MRI,MRI Small bowel study,6,13
+2196,MRI,MRI Small bowel study,4,14
+2197,MRI,MRI Small bowel study,3,16
+2198,MRI,MRI Small bowel study,2,17
+2199,MRI,MRI Small bowel study,6,21
+2200,MRI,MRI Small bowel study,4,26
+2201,MRI,MRI Small bowel study,2,30
+2202,MRI,MRI Spine cervical,21,0
+2203,MRI,MRI Spine cervical,54,1
+2204,MRI,MRI Spine cervical,55,2
+2205,MRI,MRI Spine cervical,89,3
+2206,MRI,MRI Spine cervical,48,4
+2207,MRI,MRI Spine cervical,40,5
+2208,MRI,MRI Spine cervical,112,6
+2209,MRI,MRI Spine cervical,62,7
+2210,MRI,MRI Spine cervical,48,8
+2211,MRI,MRI Spine cervical,39,9
+2212,MRI,MRI Spine cervical,14,10
+2213,MRI,MRI Spine cervical,19,11
+2214,MRI,MRI Spine cervical,6,12
+2215,MRI,MRI Spine cervical,6,13
+2216,MRI,MRI Spine cervical,4,16
+2217,MRI,MRI Spine cervical,4,17
+2218,MRI,MRI Spine cervical,6,21
+2219,MRI,MRI Spine cervical with contrast,2,1
+2220,MRI,MRI Spine cervical with contrast,1,2
+2221,MRI,MRI Spine cervical with contrast,6,3
+2222,MRI,MRI Spine cervical with contrast,4,4
+2223,MRI,MRI Spine cervical with contrast,4,5
+2224,MRI,MRI Spine cervical with contrast,7,6
+2225,MRI,MRI Spine cervical with contrast,1,7
+2226,MRI,MRI Spine cervical with contrast,9,8
+2227,MRI,MRI Spine cervical with contrast,4,29
+2228,MRI,MRI Spine lumbar and sacral,34,0
+2229,MRI,MRI Spine lumbar and sacral,85,1
+2230,MRI,MRI Spine lumbar and sacral,163,2
+2231,MRI,MRI Spine lumbar and sacral,180,3
+2232,MRI,MRI Spine lumbar and sacral,128,4
+2233,MRI,MRI Spine lumbar and sacral,89,5
+2234,MRI,MRI Spine lumbar and sacral,225,6
+2235,MRI,MRI Spine lumbar and sacral,125,7
+2236,MRI,MRI Spine lumbar and sacral,134,8
+2237,MRI,MRI Spine lumbar and sacral,75,9
+2238,MRI,MRI Spine lumbar and sacral,32,10
+2239,MRI,MRI Spine lumbar and sacral,21,11
+2240,MRI,MRI Spine lumbar and sacral,10,12
+2241,MRI,MRI Spine lumbar and sacral,7,13
+2242,MRI,MRI Spine lumbar and sacral,2,14
+2243,MRI,MRI Spine lumbar and sacral,4,15
+2244,MRI,MRI Spine lumbar and sacral,4,16
+2245,MRI,MRI Spine lumbar and sacral,5,35
+2246,MRI,MRI Spine lumbar sacral with contrast,1,0
+2247,MRI,MRI Spine lumbar sacral with contrast,5,1
+2248,MRI,MRI Spine lumbar sacral with contrast,3,2
+2249,MRI,MRI Spine lumbar sacral with contrast,2,3
+2250,MRI,MRI Spine lumbar sacral with contrast,6,4
+2251,MRI,MRI Spine lumbar sacral with contrast,5,6
+2252,MRI,MRI Spine lumbar sacral with contrast,3,8
+2253,MRI,MRI Spine lumbar sacral with contrast,6,9
+2254,MRI,MRI Spine lumbar sacral with contrast,1,10
+2255,MRI,MRI Spine lumbar sacral with contrast,5,11
+2256,MRI,MRI Spine lumbar sacral with contrast,1,13
+2257,MRI,MRI Spine thoracic,11,0
+2258,MRI,MRI Spine thoracic,22,1
+2259,MRI,MRI Spine thoracic,25,2
+2260,MRI,MRI Spine thoracic,33,3
+2261,MRI,MRI Spine thoracic,17,4
+2262,MRI,MRI Spine thoracic,13,5
+2263,MRI,MRI Spine thoracic,50,6
+2264,MRI,MRI Spine thoracic,22,7
+2265,MRI,MRI Spine thoracic,17,8
+2266,MRI,MRI Spine thoracic,10,9
+2267,MRI,MRI Spine thoracic,11,10
+2268,MRI,MRI Spine thoracic,12,11
+2269,MRI,MRI Spine thoracic,6,12
+2270,MRI,MRI Spine thoracic,2,13
+2271,MRI,MRI Spine thoracic,5,16
+2272,MRI,MRI Spine thoracic with contrast,3,1
+2273,MRI,MRI Spine thoracic with contrast,3,2
+2274,MRI,MRI Spine thoracic with contrast,8,3
+2275,MRI,MRI Spine thoracic with contrast,3,6
+2276,MRI,MRI Spine thoracic with contrast,4,7
+2277,MRI,MRI Spine thoracic with contrast,8,8
+2278,MRI,MRI Spine thoracic with contrast,2,29
+2279,MRI,MRI Spine whole,13,0
+2280,MRI,MRI Spine whole,47,1
+2281,MRI,MRI Spine whole,47,2
+2282,MRI,MRI Spine whole,44,3
+2283,MRI,MRI Spine whole,34,4
+2284,MRI,MRI Spine whole,27,5
+2285,MRI,MRI Spine whole,57,6
+2286,MRI,MRI Spine whole,26,7
+2287,MRI,MRI Spine whole,18,8
+2288,MRI,MRI Spine whole,12,9
+2289,MRI,MRI Spine whole,9,10
+2290,MRI,MRI Spine whole,8,11
+2291,MRI,MRI Spine whole,6,13
+2292,MRI,MRI Spine whole,5,14
+2293,MRI,MRI Spine whole,1,15
+2294,MRI,MRI Spine whole,2,16
+2295,MRI,MRI Spine whole,3,19
+2296,MRI,MRI Spine whole,3,20
+2297,MRI,MRI Spine whole,2,22
+2298,MRI,MRI Spine whole,2,23
+2299,MRI,MRI Spine whole,4,24
+2300,MRI,MRI Spine whole,6,32
+2301,MRI,MRI Spine whole,6,49
+2302,MRI,MRI Spine whole with contrast,8,1
+2303,MRI,MRI Spine whole with contrast,7,2
+2304,MRI,MRI Spine whole with contrast,8,3
+2305,MRI,MRI Spine whole with contrast,5,4
+2306,MRI,MRI Spine whole with contrast,6,6
+2307,MRI,MRI Spine whole with contrast,5,7
+2308,MRI,MRI Spine whole with contrast,8,8
+2309,MRI,MRI Spine whole with contrast,5,9
+2310,MRI,MRI Spine whole with contrast,4,12
+2311,MRI,MRI Spine whole with contrast,5,15
+2312,MRI,MRI Spine whole with contrast,1,22
+2313,MRI,MRI Temporomandibular joint Both,6,0
+2314,MRI,MRI Temporomandibular joint Both,5,1
+2315,MRI,MRI Temporomandibular joint Both,9,2
+2316,MRI,MRI Temporomandibular joint Both,2,3
+2317,MRI,MRI Temporomandibular joint Both,3,4
+2318,MRI,MRI Temporomandibular joint Both,4,6
+2319,MRI,MRI Temporomandibular joint Both,4,8
+2320,MRI,MRI Thoracic outlet with contrast,6,7
+2321,MRI,MRI Thorax,7,6
+2322,MRI,MRI Thorax,1,11
+2323,MRI,MRI Thorax with contrast,4,1
+2324,MRI,MRI Thorax with contrast,3,2
+2325,MRI,MRI Thorax with contrast,6,7
+2326,MRI,MRI Thorax with contrast,5,9
+2327,MRI,MRI Thyroid,3,14
+2328,MRI,MRI Upper arm Lt,3,2
+2329,MRI,MRI Upper arm Lt,5,4
+2330,MRI,MRI Upper arm Lt,2,6
+2331,MRI,MRI Upper arm Lt,2,9
+2332,MRI,MRI Upper arm Rt,4,2
+2333,MRI,MRI Upper arm Rt,4,7
+2334,MRI,MRI Upper arm Rt,2,9
+2335,MRI,MRI Upper arm with contrast Lt,1,6
+2336,MRI,MRI Upper arm with contrast Lt,3,9
+2337,MRI,MRI Upper arm with contrast Rt,4,2
+2338,MRI,MRI Upper arm with contrast Rt,5,6
+2339,MRI,MRI Upper arm with contrast Rt,1,9
+2340,MRI,MRI Upper limb Left,3,2
+2341,MRI,MRI Upper limb Left,1,3
+2342,MRI,MRI Upper limb Left,6,8
+2343,MRI,MRI Upper limb Left,5,10
+2344,MRI,MRI Upper limb Right,5,1
+2345,MRI,MRI Upper limb Right,2,3
+2346,MRI,MRI Upper limb Right,2,8
+2347,MRI,MRI Wrist Lt,2,0
+2348,MRI,MRI Wrist Lt,4,2
+2349,MRI,MRI Wrist Lt,7,3
+2350,MRI,MRI Wrist Lt,3,4
+2351,MRI,MRI Wrist Lt,3,5
+2352,MRI,MRI Wrist Lt,6,6
+2353,MRI,MRI Wrist Lt,6,7
+2354,MRI,MRI Wrist Lt,6,9
+2355,MRI,MRI Wrist Lt,2,10
+2356,MRI,MRI Wrist Lt,6,11
+2357,MRI,MRI Wrist Rt,7,0
+2358,MRI,MRI Wrist Rt,5,1
+2359,MRI,MRI Wrist Rt,1,2
+2360,MRI,MRI Wrist Rt,2,3
+2361,MRI,MRI Wrist Rt,7,5
+2362,MRI,MRI Wrist Rt,8,6
+2363,MRI,MRI Wrist Rt,8,7
+2364,MRI,MRI Wrist Rt,3,8
+2365,MRI,MRI Wrist Rt,5,9
+2366,MRI,MRI Wrist Rt,6,10
+2367,MRI,MRI Wrist with contrast Lt,4,0
+2368,MRI,MRI Wrist with contrast Lt,7,1
+2369,MRI,MRI Wrist with contrast Lt,1,3
+2370,MRI,MRI Wrist with contrast Lt,3,4
+2371,MRI,MRI Wrist with contrast Lt,2,5
+2372,MRI,MRI Wrist with contrast Lt,3,6
+2373,MRI,MRI Wrist with contrast Lt,5,7
+2374,MRI,MRI Wrist with contrast Lt,5,12
+2375,MRI,MRI Wrist with contrast Rt,5,0
+2376,MRI,MRI Wrist with contrast Rt,7,1
+2377,MRI,MRI Wrist with contrast Rt,4,3
+2378,MRI,MRI Wrist with contrast Rt,5,4
+2379,MRI,MRI Wrist with contrast Rt,6,5
+2380,MRI,MRI Wrist with contrast Rt,1,6
+2381,MRI,MRI Wrist with contrast Rt,3,7
+2382,MRI,MRV Cerebral veins,4,1
+2383,MRI,MRV Cerebral veins,1,2
+2384,MRI,MRV Cerebral veins,5,3
+2385,MRI,MRV Cerebral veins,5,4
+2386,MRI,MRV Cerebral veins,3,5
+2387,MRI,MRV Cerebral veins,7,6
+2388,MRI,MRV Cerebral veins,6,8
+2389,MRI,MRV Cerebral veins,3,10
+2390,MRI,MRV Cranial,3,1
+2391,MRI,MRV Cranial,2,3
+2392,MRI,MRV Cranial,6,4
+2393,MRI,MRV Cranial,2,8
+2394,MRI,MRV Cranial,5,10
+2395,MRI,MRV Lower limb Both,1,6
+2396,MRI,MRV Lower limb Both,4,10
+2397,MRI,MRV Venogram,6,1
+2398,MRI,MRV Venogram,5,2
+2399,MRI,MRV Venogram,5,7
+2400,MRI,MRV Venogram,6,9
+2401,Non Obstetric Ultrasound,US Abdomen,12,0
+2402,Non Obstetric Ultrasound,US Abdomen,126,1
+2403,Non Obstetric Ultrasound,US Abdomen,115,2
+2404,Non Obstetric Ultrasound,US Abdomen,49,3
+2405,Non Obstetric Ultrasound,US Abdomen,19,4
+2406,Non Obstetric Ultrasound,US Abdomen,10,5
+2407,Non Obstetric Ultrasound,US Abdomen,18,6
+2408,Non Obstetric Ultrasound,US Abdomen,7,7
+2409,Non Obstetric Ultrasound,US Abdomen,3,8
+2410,Non Obstetric Ultrasound,US Abdomen,5,9
+2411,Non Obstetric Ultrasound,US Abdomen,4,10
+2412,Non Obstetric Ultrasound,US Abdomen,5,11
+2413,Non Obstetric Ultrasound,US Abdomen,7,12
+2414,Non Obstetric Ultrasound,US Abdomen,4,23
+2415,Non Obstetric Ultrasound,US Abdomen and pelvis,6,0
+2416,Non Obstetric Ultrasound,US Abdomen and pelvis,28,1
+2417,Non Obstetric Ultrasound,US Abdomen and pelvis,40,2
+2418,Non Obstetric Ultrasound,US Abdomen and pelvis,18,3
+2419,Non Obstetric Ultrasound,US Abdomen and pelvis,17,4
+2420,Non Obstetric Ultrasound,US Abdomen and pelvis,6,5
+2421,Non Obstetric Ultrasound,US Abdomen and pelvis,15,6
+2422,Non Obstetric Ultrasound,US Abdomen and pelvis,6,7
+2423,Non Obstetric Ultrasound,US Abdomen and pelvis,2,10
+2424,Non Obstetric Ultrasound,US Abdomen and renal tract,8,0
+2425,Non Obstetric Ultrasound,US Abdomen and renal tract,59,1
+2426,Non Obstetric Ultrasound,US Abdomen and renal tract,33,2
+2427,Non Obstetric Ultrasound,US Abdomen and renal tract,26,3
+2428,Non Obstetric Ultrasound,US Abdomen and renal tract,9,4
+2429,Non Obstetric Ultrasound,US Abdomen and renal tract,5,5
+2430,Non Obstetric Ultrasound,US Abdomen and renal tract,11,6
+2431,Non Obstetric Ultrasound,US Abdomen and renal tract,5,8
+2432,Non Obstetric Ultrasound,US Abdomen and renal tract,6,9
+2433,Non Obstetric Ultrasound,US Abdomen and renal tract,5,11
+2434,Non Obstetric Ultrasound,US Abdominal aorta,3,9
+2435,Non Obstetric Ultrasound,US Achilles tendon Lt,2,1
+2436,Non Obstetric Ultrasound,US Achilles tendon Lt,4,7
+2437,Non Obstetric Ultrasound,US Achilles tendon Rt,5,1
+2438,Non Obstetric Ultrasound,US Achilles tendon Rt,2,3
+2439,Non Obstetric Ultrasound,US Achilles tendon Rt,2,5
+2440,Non Obstetric Ultrasound,US Achilles tendon Rt,5,14
+2441,Non Obstetric Ultrasound,US Ankle Both,1,10
+2442,Non Obstetric Ultrasound,US Ankle Lt,3,2
+2443,Non Obstetric Ultrasound,US Ankle Lt,4,3
+2444,Non Obstetric Ultrasound,US Ankle Lt,5,4
+2445,Non Obstetric Ultrasound,US Ankle Lt,6,6
+2446,Non Obstetric Ultrasound,US Ankle Rt,4,1
+2447,Non Obstetric Ultrasound,US Ankle Rt,1,2
+2448,Non Obstetric Ultrasound,US Ankle Rt,5,4
+2449,Non Obstetric Ultrasound,US Ankle Rt,1,14
+2450,Non Obstetric Ultrasound,US Anterior Abdominal Wall,3,0
+2451,Non Obstetric Ultrasound,US Anterior Abdominal Wall,12,1
+2452,Non Obstetric Ultrasound,US Anterior Abdominal Wall,13,2
+2453,Non Obstetric Ultrasound,US Anterior Abdominal Wall,5,3
+2454,Non Obstetric Ultrasound,US Anterior Abdominal Wall,4,4
+2455,Non Obstetric Ultrasound,US Anterior Abdominal Wall,2,6
+2456,Non Obstetric Ultrasound,US Anterior Abdominal Wall,5,7
+2457,Non Obstetric Ultrasound,US Anterior Abdominal Wall,3,9
+2458,Non Obstetric Ultrasound,US Axilla Both,10,1
+2459,Non Obstetric Ultrasound,US Axilla Both,8,2
+2460,Non Obstetric Ultrasound,US Axilla Both,7,4
+2461,Non Obstetric Ultrasound,US Axilla Both,2,6
+2462,Non Obstetric Ultrasound,US Axilla Both,3,7
+2463,Non Obstetric Ultrasound,US Axilla Lt,14,1
+2464,Non Obstetric Ultrasound,US Axilla Lt,16,2
+2465,Non Obstetric Ultrasound,US Axilla Lt,5,3
+2466,Non Obstetric Ultrasound,US Axilla Lt,2,4
+2467,Non Obstetric Ultrasound,US Axilla Lt,8,5
+2468,Non Obstetric Ultrasound,US Axilla Lt,3,6
+2469,Non Obstetric Ultrasound,US Axilla Lt,4,7
+2470,Non Obstetric Ultrasound,US Axilla Lt,4,8
+2471,Non Obstetric Ultrasound,US Axilla Lt,2,9
+2472,Non Obstetric Ultrasound,US Axilla Lt,5,10
+2473,Non Obstetric Ultrasound,US Axilla Lt,7,11
+2474,Non Obstetric Ultrasound,US Axilla Lt,3,12
+2475,Non Obstetric Ultrasound,US Axilla Lt,7,13
+2476,Non Obstetric Ultrasound,US Axilla Lt,3,14
+2477,Non Obstetric Ultrasound,US Axilla Lt,7,15
+2478,Non Obstetric Ultrasound,US Axilla Lt,9,16
+2479,Non Obstetric Ultrasound,US Axilla Lt,1,22
+2480,Non Obstetric Ultrasound,US Axilla Rt,5,1
+2481,Non Obstetric Ultrasound,US Axilla Rt,12,2
+2482,Non Obstetric Ultrasound,US Axilla Rt,9,3
+2483,Non Obstetric Ultrasound,US Axilla Rt,9,4
+2484,Non Obstetric Ultrasound,US Axilla Rt,5,5
+2485,Non Obstetric Ultrasound,US Axilla Rt,6,6
+2486,Non Obstetric Ultrasound,US Axilla Rt,6,7
+2487,Non Obstetric Ultrasound,US Axilla Rt,2,8
+2488,Non Obstetric Ultrasound,US Axilla Rt,7,9
+2489,Non Obstetric Ultrasound,US Axilla Rt,4,10
+2490,Non Obstetric Ultrasound,US Axilla Rt,6,11
+2491,Non Obstetric Ultrasound,US Axilla Rt,2,12
+2492,Non Obstetric Ultrasound,US Axilla Rt,4,13
+2493,Non Obstetric Ultrasound,US Axilla Rt,4,14
+2494,Non Obstetric Ultrasound,US Axilla Rt,9,15
+2495,Non Obstetric Ultrasound,US Axilla Rt,3,18
+2496,Non Obstetric Ultrasound,US Axilla Rt,6,19
+2497,Non Obstetric Ultrasound,US Axilla Rt,3,26
+2498,Non Obstetric Ultrasound,US Bladder kidney Both,8,2
+2499,Non Obstetric Ultrasound,US Bladder kidney Both,1,3
+2500,Non Obstetric Ultrasound,US Buttock Lt,6,1
+2501,Non Obstetric Ultrasound,US Buttock Rt,3,1
+2502,Non Obstetric Ultrasound,US Clavicle Rt,4,9
+2503,Non Obstetric Ultrasound,US Compression venography lower limb Lt,3,1
+2504,Non Obstetric Ultrasound,US Cranial contents,3,2
+2505,Non Obstetric Ultrasound,US Craniofacial soft tissues,11,1
+2506,Non Obstetric Ultrasound,US Craniofacial soft tissues,11,2
+2507,Non Obstetric Ultrasound,US Craniofacial soft tissues,6,3
+2508,Non Obstetric Ultrasound,US Craniofacial soft tissues,3,4
+2509,Non Obstetric Ultrasound,US Craniofacial soft tissues,4,5
+2510,Non Obstetric Ultrasound,US Craniofacial soft tissues,2,6
+2511,Non Obstetric Ultrasound,US Craniofacial soft tissues,1,7
+2512,Non Obstetric Ultrasound,US Craniofacial soft tissues,6,8
+2513,Non Obstetric Ultrasound,US Craniofacial soft tissues,2,10
+2514,Non Obstetric Ultrasound,US Craniofacial soft tissues,6,14
+2515,Non Obstetric Ultrasound,US Doppler,7,1
+2516,Non Obstetric Ultrasound,US Doppler,2,2
+2517,Non Obstetric Ultrasound,US Doppler,5,5
+2518,Non Obstetric Ultrasound,US Doppler carotid artery Both,17,1
+2519,Non Obstetric Ultrasound,US Doppler carotid artery Both,7,2
+2520,Non Obstetric Ultrasound,US Doppler carotid artery Both,6,3
+2521,Non Obstetric Ultrasound,US Doppler carotid artery Both,6,4
+2522,Non Obstetric Ultrasound,US Doppler carotid artery Both,2,6
+2523,Non Obstetric Ultrasound,US Doppler carotid artery Lt,1,1
+2524,Non Obstetric Ultrasound,US Doppler carotid artery Rt,3,2
+2525,Non Obstetric Ultrasound,US Doppler compression venography LL Lt,4,3
+2526,Non Obstetric Ultrasound,US Doppler femoropopliteal artery Both,4,1
+2527,Non Obstetric Ultrasound,US Doppler femoropopliteal artery Both,6,2
+2528,Non Obstetric Ultrasound,US Doppler femoropopliteal artery Both,4,6
+2529,Non Obstetric Ultrasound,US Doppler groin Both,1,2
+2530,Non Obstetric Ultrasound,US Doppler iliac and femoral artery Both,4,2
+2531,Non Obstetric Ultrasound,US Doppler iliac and femoral artery Both,3,3
+2532,Non Obstetric Ultrasound,US Doppler iliac and femoral artery Both,1,7
+2533,Non Obstetric Ultrasound,US Doppler iliac and femoral artery Both,5,14
+2534,Non Obstetric Ultrasound,US Doppler liver and portal system,6,1
+2535,Non Obstetric Ultrasound,US Doppler liver and portal system,6,2
+2536,Non Obstetric Ultrasound,US Doppler liver and portal system,2,3
+2537,Non Obstetric Ultrasound,US Doppler liver and portal system,4,7
+2538,Non Obstetric Ultrasound,US Doppler liver and portal system,6,11
+2539,Non Obstetric Ultrasound,US Doppler lower limb arteries Both,5,2
+2540,Non Obstetric Ultrasound,US Doppler lower limb arteries Rt,3,2
+2541,Non Obstetric Ultrasound,US Doppler lower limb arteries Rt,5,3
+2542,Non Obstetric Ultrasound,US Doppler lower limb veins Both,3,1
+2543,Non Obstetric Ultrasound,US Doppler lower limb veins Lt,9,1
+2544,Non Obstetric Ultrasound,US Doppler lower limb veins Lt,8,2
+2545,Non Obstetric Ultrasound,US Doppler lower limb veins Rt,9,1
+2546,Non Obstetric Ultrasound,US Doppler lower limb veins Rt,3,2
+2547,Non Obstetric Ultrasound,US Doppler lower limb veins Rt,5,3
+2548,Non Obstetric Ultrasound,US Doppler renal artery Both,2,4
+2549,Non Obstetric Ultrasound,US Doppler renal artery Both,6,6
+2550,Non Obstetric Ultrasound,US Doppler renal Both,8,1
+2551,Non Obstetric Ultrasound,US Doppler renal Both,6,2
+2552,Non Obstetric Ultrasound,US Doppler renal Both,7,6
+2553,Non Obstetric Ultrasound,US Doppler testes,4,0
+2554,Non Obstetric Ultrasound,US Doppler testes,5,3
+2555,Non Obstetric Ultrasound,US Doppler transcranial,6,6
+2556,Non Obstetric Ultrasound,US Doppler upper limb veins Rt,6,1
+2557,Non Obstetric Ultrasound,US Doppler upper limb veins Rt,6,2
+2558,Non Obstetric Ultrasound,US Doppler uterine artery Both,2,0
+2559,Non Obstetric Ultrasound,US Doppler uterine artery Both,17,1
+2560,Non Obstetric Ultrasound,US Doppler uterine artery Both,13,2
+2561,Non Obstetric Ultrasound,US Doppler uterine artery Both,15,3
+2562,Non Obstetric Ultrasound,US Doppler uterine artery Both,11,4
+2563,Non Obstetric Ultrasound,US Doppler uterine artery Both,3,6
+2564,Non Obstetric Ultrasound,US Doppler uterine artery Right,5,4
+2565,Non Obstetric Ultrasound,US Doppler vein map lower limb Lt,5,2
+2566,Non Obstetric Ultrasound,US Doppler vein map lower limb Rt,6,2
+2567,Non Obstetric Ultrasound,US Doppler vertebral artery Both,2,2
+2568,Non Obstetric Ultrasound,US Doppler vertebral artery Both,7,3
+2569,Non Obstetric Ultrasound,US Elbow Both,3,12
+2570,Non Obstetric Ultrasound,US Elbow Lt,5,2
+2571,Non Obstetric Ultrasound,US Elbow Lt,5,5
+2572,Non Obstetric Ultrasound,US Elbow Lt,2,7
+2573,Non Obstetric Ultrasound,US Elbow Lt,5,9
+2574,Non Obstetric Ultrasound,US Extremity,8,1
+2575,Non Obstetric Ultrasound,US Extremity,4,2
+2576,Non Obstetric Ultrasound,US Extremity,4,3
+2577,Non Obstetric Ultrasound,US Extremity,4,4
+2578,Non Obstetric Ultrasound,US Extremity,9,5
+2579,Non Obstetric Ultrasound,US Extremity,7,6
+2580,Non Obstetric Ultrasound,US Extremity,8,7
+2581,Non Obstetric Ultrasound,US Extremity,6,10
+2582,Non Obstetric Ultrasound,US Finger Lt,3,1
+2583,Non Obstetric Ultrasound,US Finger Lt,4,5
+2584,Non Obstetric Ultrasound,US Finger Rt,5,4
+2585,Non Obstetric Ultrasound,US Finger Rt,1,5
+2586,Non Obstetric Ultrasound,US Finger Rt,1,6
+2587,Non Obstetric Ultrasound,US Follicular tracking transvaginal,3,3
+2588,Non Obstetric Ultrasound,US Foot Both,5,8
+2589,Non Obstetric Ultrasound,US Foot Both,1,9
+2590,Non Obstetric Ultrasound,US Foot Both,2,13
+2591,Non Obstetric Ultrasound,US Foot Lt,5,0
+2592,Non Obstetric Ultrasound,US Foot Lt,15,1
+2593,Non Obstetric Ultrasound,US Foot Lt,14,2
+2594,Non Obstetric Ultrasound,US Foot Lt,13,3
+2595,Non Obstetric Ultrasound,US Foot Lt,7,4
+2596,Non Obstetric Ultrasound,US Foot Lt,8,5
+2597,Non Obstetric Ultrasound,US Foot Lt,6,6
+2598,Non Obstetric Ultrasound,US Foot Lt,1,7
+2599,Non Obstetric Ultrasound,US Foot Lt,6,12
+2600,Non Obstetric Ultrasound,US Foot Lt,5,13
+2601,Non Obstetric Ultrasound,US Foot Rt,5,0
+2602,Non Obstetric Ultrasound,US Foot Rt,14,1
+2603,Non Obstetric Ultrasound,US Foot Rt,8,2
+2604,Non Obstetric Ultrasound,US Foot Rt,13,3
+2605,Non Obstetric Ultrasound,US Foot Rt,6,4
+2606,Non Obstetric Ultrasound,US Foot Rt,7,5
+2607,Non Obstetric Ultrasound,US Foot Rt,11,6
+2608,Non Obstetric Ultrasound,US Foot Rt,2,7
+2609,Non Obstetric Ultrasound,US Foot Rt,5,8
+2610,Non Obstetric Ultrasound,US Foot Rt,3,10
+2611,Non Obstetric Ultrasound,US Foot Rt,6,13
+2612,Non Obstetric Ultrasound,US Foot Rt,2,14
+2613,Non Obstetric Ultrasound,US Forearm Lt,3,1
+2614,Non Obstetric Ultrasound,US Forearm Lt,2,2
+2615,Non Obstetric Ultrasound,US Forearm Rt,3,3
+2616,Non Obstetric Ultrasound,US Forefoot Rt,4,5
+2617,Non Obstetric Ultrasound,US Groin and inguinal region,8,1
+2618,Non Obstetric Ultrasound,US Groin and inguinal region,6,2
+2619,Non Obstetric Ultrasound,US Groin and inguinal region,5,3
+2620,Non Obstetric Ultrasound,US Groin and inguinal region,3,6
+2621,Non Obstetric Ultrasound,US Groin and inguinal region,3,7
+2622,Non Obstetric Ultrasound,US Groin Lt,7,1
+2623,Non Obstetric Ultrasound,US Groin Lt,3,2
+2624,Non Obstetric Ultrasound,US Groin Lt,2,3
+2625,Non Obstetric Ultrasound,US Groin Lt,1,4
+2626,Non Obstetric Ultrasound,US Groin Lt,1,5
+2627,Non Obstetric Ultrasound,US Groin Lt,6,6
+2628,Non Obstetric Ultrasound,US Groin Rt,7,1
+2629,Non Obstetric Ultrasound,US Groin Rt,10,2
+2630,Non Obstetric Ultrasound,US Groin Rt,5,3
+2631,Non Obstetric Ultrasound,US Groin Rt,3,4
+2632,Non Obstetric Ultrasound,US Guided aspiration,2,1
+2633,Non Obstetric Ultrasound,US Guided aspiration,2,2
+2634,Non Obstetric Ultrasound,US Guided aspiration,1,3
+2635,Non Obstetric Ultrasound,US Guided aspiration,5,8
+2636,Non Obstetric Ultrasound,US Guided aspiration,6,9
+2637,Non Obstetric Ultrasound,US Guided aspiration,2,16
+2638,Non Obstetric Ultrasound,US Guided aspiration abdomen,2,4
+2639,Non Obstetric Ultrasound,US Guided aspiration abdomen,3,5
+2640,Non Obstetric Ultrasound,US Guided aspiration foot Rt,5,6
+2641,Non Obstetric Ultrasound,US Guided aspiration neck,2,0
+2642,Non Obstetric Ultrasound,US Guided aspiration neck,5,3
+2643,Non Obstetric Ultrasound,US Guided aspiration neck,4,6
+2644,Non Obstetric Ultrasound,US Guided aspiration pancreas,5,1
+2645,Non Obstetric Ultrasound,US Guided aspiration pelvis,2,15
+2646,Non Obstetric Ultrasound,US Guided aspiration thorax,7,1
+2647,Non Obstetric Ultrasound,US Guided aspiration thorax,5,2
+2648,Non Obstetric Ultrasound,US Guided aspiration thorax,2,3
+2649,Non Obstetric Ultrasound,US Guided aspiration thorax,4,6
+2650,Non Obstetric Ultrasound,US Guided aspiration thyroid,5,1
+2651,Non Obstetric Ultrasound,US Guided aspiration thyroid,1,2
+2652,Non Obstetric Ultrasound,US Guided aspiration thyroid,5,3
+2653,Non Obstetric Ultrasound,US Guided aspiration thyroid,6,4
+2654,Non Obstetric Ultrasound,US Guided aspiration thyroid,4,23
+2655,Non Obstetric Ultrasound,US Guided biopsy,16,1
+2656,Non Obstetric Ultrasound,US Guided biopsy,12,2
+2657,Non Obstetric Ultrasound,US Guided biopsy,10,3
+2658,Non Obstetric Ultrasound,US Guided biopsy,3,4
+2659,Non Obstetric Ultrasound,US Guided biopsy,4,5
+2660,Non Obstetric Ultrasound,US Guided biopsy,5,6
+2661,Non Obstetric Ultrasound,US Guided biopsy,5,12
+2662,Non Obstetric Ultrasound,US Guided biopsy chest,2,2
+2663,Non Obstetric Ultrasound,US Guided biopsy chest,2,6
+2664,Non Obstetric Ultrasound,US Guided biopsy liver,9,1
+2665,Non Obstetric Ultrasound,US Guided biopsy liver,6,2
+2666,Non Obstetric Ultrasound,US Guided biopsy liver,7,3
+2667,Non Obstetric Ultrasound,US Guided biopsy liver,3,4
+2668,Non Obstetric Ultrasound,US Guided biopsy liver,5,5
+2669,Non Obstetric Ultrasound,US Guided biopsy liver,5,6
+2670,Non Obstetric Ultrasound,US Guided biopsy liver,3,8
+2671,Non Obstetric Ultrasound,US Guided biopsy liver,6,9
+2672,Non Obstetric Ultrasound,US Guided biopsy liver,6,10
+2673,Non Obstetric Ultrasound,US Guided biopsy liver,1,11
+2674,Non Obstetric Ultrasound,US Guided biopsy liver,3,12
+2675,Non Obstetric Ultrasound,US Guided biopsy liver,1,13
+2676,Non Obstetric Ultrasound,US Guided biopsy neck,5,0
+2677,Non Obstetric Ultrasound,US Guided biopsy neck,23,1
+2678,Non Obstetric Ultrasound,US Guided biopsy neck,18,2
+2679,Non Obstetric Ultrasound,US Guided biopsy neck,19,3
+2680,Non Obstetric Ultrasound,US Guided biopsy neck,8,4
+2681,Non Obstetric Ultrasound,US Guided biopsy neck,6,5
+2682,Non Obstetric Ultrasound,US Guided biopsy neck,7,6
+2683,Non Obstetric Ultrasound,US Guided biopsy neck,2,7
+2684,Non Obstetric Ultrasound,US Guided biopsy neck,1,15
+2685,Non Obstetric Ultrasound,US Guided biopsy pelvis,5,2
+2686,Non Obstetric Ultrasound,US Guided biopsy salivary gland,2,0
+2687,Non Obstetric Ultrasound,US Guided biopsy salivary gland,5,1
+2688,Non Obstetric Ultrasound,US Guided biopsy salivary gland,6,2
+2689,Non Obstetric Ultrasound,US Guided biopsy salivary gland,7,3
+2690,Non Obstetric Ultrasound,US Guided biopsy salivary gland,1,4
+2691,Non Obstetric Ultrasound,US Guided biopsy salivary gland,3,6
+2692,Non Obstetric Ultrasound,US Guided biopsy salivary gland,2,7
+2693,Non Obstetric Ultrasound,US Guided biopsy salivary gland,1,17
+2694,Non Obstetric Ultrasound,US Guided biopsy thyroid,7,1
+2695,Non Obstetric Ultrasound,US Guided biopsy thyroid,5,2
+2696,Non Obstetric Ultrasound,US Guided biopsy thyroid,5,3
+2697,Non Obstetric Ultrasound,US Guided biopsy thyroid,3,5
+2698,Non Obstetric Ultrasound,US Guided biopsy thyroid,2,6
+2699,Non Obstetric Ultrasound,US Guided biopsy thyroid,5,8
+2700,Non Obstetric Ultrasound,US Guided biopsy thyroid,5,9
+2701,Non Obstetric Ultrasound,US Guided biopsy thyroid,5,14
+2702,Non Obstetric Ultrasound,US Guided biopsy thyroid,6,18
+2703,Non Obstetric Ultrasound,US Guided core biopsy axilla Both,1,6
+2704,Non Obstetric Ultrasound,US Guided core biopsy axilla Lt,1,1
+2705,Non Obstetric Ultrasound,US Guided core biopsy axilla Lt,7,2
+2706,Non Obstetric Ultrasound,US Guided core biopsy axilla Lt,3,4
+2707,Non Obstetric Ultrasound,US Guided core biopsy axilla Rt,1,1
+2708,Non Obstetric Ultrasound,US Guided core biopsy axilla Rt,1,2
+2709,Non Obstetric Ultrasound,US Guided core biopsy axilla Rt,5,4
+2710,Non Obstetric Ultrasound,US Guided core needle biopsy,1,4
+2711,Non Obstetric Ultrasound,US Guided drainage,3,1
+2712,Non Obstetric Ultrasound,US Guided drainage,6,9
+2713,Non Obstetric Ultrasound,US Guided drainage abdomen,7,1
+2714,Non Obstetric Ultrasound,US Guided drainage abdomen,3,2
+2715,Non Obstetric Ultrasound,US Guided drainage abdomen,5,3
+2716,Non Obstetric Ultrasound,US Guided drainage abdomen,5,6
+2717,Non Obstetric Ultrasound,US Guided drainage abdomen,3,8
+2718,Non Obstetric Ultrasound,US Guided drainage abdomen,6,10
+2719,Non Obstetric Ultrasound,US Guided drainage ovarian cyst,1,10
+2720,Non Obstetric Ultrasound,US Guided drainage thorax,1,1
+2721,Non Obstetric Ultrasound,US Guided drainage thorax,4,3
+2722,Non Obstetric Ultrasound,US Guided fine needle aspiration,5,0
+2723,Non Obstetric Ultrasound,US Guided fine needle aspiration,2,1
+2724,Non Obstetric Ultrasound,US Guided fine needle aspiration,5,2
+2725,Non Obstetric Ultrasound,US Guided fine needle aspiration,5,4
+2726,Non Obstetric Ultrasound,US Guided fine needle aspiration,6,5
+2727,Non Obstetric Ultrasound,US Guided FNA biopsy groin Right,5,2
+2728,Non Obstetric Ultrasound,US Guided FNA biopsy neck,2,4
+2729,Non Obstetric Ultrasound,US Guided injection,3,0
+2730,Non Obstetric Ultrasound,US Guided injection,2,2
+2731,Non Obstetric Ultrasound,US Guided injection,5,3
+2732,Non Obstetric Ultrasound,US Guided injection,5,4
+2733,Non Obstetric Ultrasound,US Guided injection,9,6
+2734,Non Obstetric Ultrasound,US Guided injection,6,9
+2735,Non Obstetric Ultrasound,US Guided injection,7,10
+2736,Non Obstetric Ultrasound,US Guided injection,3,12
+2737,Non Obstetric Ultrasound,US Guided injection,2,14
+2738,Non Obstetric Ultrasound,US Guided injection elbow Both,6,12
+2739,Non Obstetric Ultrasound,US Guided injection elbow Lt,4,12
+2740,Non Obstetric Ultrasound,US Guided injection elbow Rt,4,2
+2741,Non Obstetric Ultrasound,US Guided injection foot Both,2,13
+2742,Non Obstetric Ultrasound,US Guided injection foot Lt,4,1
+2743,Non Obstetric Ultrasound,US Guided injection foot Lt,4,12
+2744,Non Obstetric Ultrasound,US Guided injection foot Rt,1,7
+2745,Non Obstetric Ultrasound,US Guided injection hand Both,2,2
+2746,Non Obstetric Ultrasound,US Guided injection hip Lt,1,6
+2747,Non Obstetric Ultrasound,US Guided injection hip Rt,3,1
+2748,Non Obstetric Ultrasound,US Guided injection knee Rt,2,8
+2749,Non Obstetric Ultrasound,US Guided injection of joint,3,28
+2750,Non Obstetric Ultrasound,US Guided injection shoulder Lt,1,0
+2751,Non Obstetric Ultrasound,US Guided injection shoulder Lt,4,8
+2752,Non Obstetric Ultrasound,US Guided injection shoulder Rt,5,14
+2753,Non Obstetric Ultrasound,US Guided injection shoulder Rt,3,15
+2754,Non Obstetric Ultrasound,US Guided injection wrist Rt,2,13
+2755,Non Obstetric Ultrasound,US Guided marker insertion axilla Left,5,2
+2756,Non Obstetric Ultrasound,US Guided steroid injection,10,0
+2757,Non Obstetric Ultrasound,US Guided steroid injection,8,1
+2758,Non Obstetric Ultrasound,US Guided steroid injection,9,2
+2759,Non Obstetric Ultrasound,US Guided steroid injection,6,3
+2760,Non Obstetric Ultrasound,US Guided steroid injection,4,4
+2761,Non Obstetric Ultrasound,US Guided steroid injection,13,6
+2762,Non Obstetric Ultrasound,US Guided steroid injection,4,7
+2763,Non Obstetric Ultrasound,US Guided steroid injection,2,8
+2764,Non Obstetric Ultrasound,US Guided steroid injection,7,9
+2765,Non Obstetric Ultrasound,US Guided steroid injection,5,10
+2766,Non Obstetric Ultrasound,US Guided steroid injection,5,11
+2767,Non Obstetric Ultrasound,US Guided steroid injection,4,12
+2768,Non Obstetric Ultrasound,US Guided steroid injection,3,13
+2769,Non Obstetric Ultrasound,US Guided steroid injection,8,14
+2770,Non Obstetric Ultrasound,US Guided steroid injection,7,15
+2771,Non Obstetric Ultrasound,US Guided steroid injection,4,16
+2772,Non Obstetric Ultrasound,US Guided steroid injection,4,19
+2773,Non Obstetric Ultrasound,US Hand and wrist Both,5,0
+2774,Non Obstetric Ultrasound,US Hand and wrist Both,26,1
+2775,Non Obstetric Ultrasound,US Hand and wrist Both,18,2
+2776,Non Obstetric Ultrasound,US Hand and wrist Both,14,3
+2777,Non Obstetric Ultrasound,US Hand and wrist Both,10,4
+2778,Non Obstetric Ultrasound,US Hand and wrist Both,10,5
+2779,Non Obstetric Ultrasound,US Hand and wrist Both,17,6
+2780,Non Obstetric Ultrasound,US Hand and wrist Both,15,7
+2781,Non Obstetric Ultrasound,US Hand and wrist Both,5,8
+2782,Non Obstetric Ultrasound,US Hand and wrist Both,5,13
+2783,Non Obstetric Ultrasound,US Hand and wrist Both,7,14
+2784,Non Obstetric Ultrasound,US Hand Both,4,0
+2785,Non Obstetric Ultrasound,US Hand Both,8,1
+2786,Non Obstetric Ultrasound,US Hand Both,4,2
+2787,Non Obstetric Ultrasound,US Hand Both,6,3
+2788,Non Obstetric Ultrasound,US Hand Both,5,4
+2789,Non Obstetric Ultrasound,US Hand Both,2,5
+2790,Non Obstetric Ultrasound,US Hand Both,12,6
+2791,Non Obstetric Ultrasound,US Hand Both,4,7
+2792,Non Obstetric Ultrasound,US Hand Both,4,8
+2793,Non Obstetric Ultrasound,US Hand Both,1,11
+2794,Non Obstetric Ultrasound,US Hand Lt,8,1
+2795,Non Obstetric Ultrasound,US Hand Lt,3,2
+2796,Non Obstetric Ultrasound,US Hand Lt,6,3
+2797,Non Obstetric Ultrasound,US Hand Lt,4,4
+2798,Non Obstetric Ultrasound,US Hand Lt,6,6
+2799,Non Obstetric Ultrasound,US Hand Rt,4,1
+2800,Non Obstetric Ultrasound,US Hand Rt,4,2
+2801,Non Obstetric Ultrasound,US Hand Rt,3,3
+2802,Non Obstetric Ultrasound,US Hand Rt,5,4
+2803,Non Obstetric Ultrasound,US Hand Rt,4,6
+2804,Non Obstetric Ultrasound,US Hip Both,5,0
+2805,Non Obstetric Ultrasound,US Hip Both,12,1
+2806,Non Obstetric Ultrasound,US Hip Both,30,2
+2807,Non Obstetric Ultrasound,US Hip Both,19,3
+2808,Non Obstetric Ultrasound,US Hip Both,14,4
+2809,Non Obstetric Ultrasound,US Hip Both,12,5
+2810,Non Obstetric Ultrasound,US Hip Both,7,6
+2811,Non Obstetric Ultrasound,US Hip Both,5,7
+2812,Non Obstetric Ultrasound,US Hip Both,2,8
+2813,Non Obstetric Ultrasound,US Hip Both,3,9
+2814,Non Obstetric Ultrasound,US Hip Lt,5,0
+2815,Non Obstetric Ultrasound,US Hip Lt,5,5
+2816,Non Obstetric Ultrasound,US Hip Rt,2,6
+2817,Non Obstetric Ultrasound,US Kidney Both,15,1
+2818,Non Obstetric Ultrasound,US Kidney Both,7,2
+2819,Non Obstetric Ultrasound,US Kidney Both,3,3
+2820,Non Obstetric Ultrasound,US Kidney Both,6,4
+2821,Non Obstetric Ultrasound,US Kidney Both,3,6
+2822,Non Obstetric Ultrasound,US Kidney Both,5,9
+2823,Non Obstetric Ultrasound,US Knee Both,5,0
+2824,Non Obstetric Ultrasound,US Knee Both,2,2
+2825,Non Obstetric Ultrasound,US Knee Both,6,4
+2826,Non Obstetric Ultrasound,US Knee Both,1,15
+2827,Non Obstetric Ultrasound,US Knee Lt,7,1
+2828,Non Obstetric Ultrasound,US Knee Lt,8,2
+2829,Non Obstetric Ultrasound,US Knee Lt,2,5
+2830,Non Obstetric Ultrasound,US Knee Lt,3,6
+2831,Non Obstetric Ultrasound,US Knee Lt,2,7
+2832,Non Obstetric Ultrasound,US Knee Rt,9,1
+2833,Non Obstetric Ultrasound,US Knee Rt,5,2
+2834,Non Obstetric Ultrasound,US Knee Rt,2,4
+2835,Non Obstetric Ultrasound,US Knee Rt,2,5
+2836,Non Obstetric Ultrasound,US Knee Rt,2,6
+2837,Non Obstetric Ultrasound,US Knee Rt,6,7
+2838,Non Obstetric Ultrasound,US Knee Rt,4,12
+2839,Non Obstetric Ultrasound,US Liver,14,1
+2840,Non Obstetric Ultrasound,US Liver,14,2
+2841,Non Obstetric Ultrasound,US Liver,11,3
+2842,Non Obstetric Ultrasound,US Liver,5,6
+2843,Non Obstetric Ultrasound,US Liver,5,7
+2844,Non Obstetric Ultrasound,US Liver with contrast,6,3
+2845,Non Obstetric Ultrasound,US Lower leg Lt,4,1
+2846,Non Obstetric Ultrasound,US Lower leg Lt,1,2
+2847,Non Obstetric Ultrasound,US Lower leg Lt,1,6
+2848,Non Obstetric Ultrasound,US Lower leg Rt,6,4
+2849,Non Obstetric Ultrasound,US Lower leg Rt,1,6
+2850,Non Obstetric Ultrasound,US Lower leg Rt,5,17
+2851,Non Obstetric Ultrasound,US Neck,12,0
+2852,Non Obstetric Ultrasound,US Neck,63,1
+2853,Non Obstetric Ultrasound,US Neck,74,2
+2854,Non Obstetric Ultrasound,US Neck,38,3
+2855,Non Obstetric Ultrasound,US Neck,17,4
+2856,Non Obstetric Ultrasound,US Neck,9,5
+2857,Non Obstetric Ultrasound,US Neck,27,6
+2858,Non Obstetric Ultrasound,US Neck,13,7
+2859,Non Obstetric Ultrasound,US Neck,2,8
+2860,Non Obstetric Ultrasound,US Neck,13,9
+2861,Non Obstetric Ultrasound,US Neck,5,10
+2862,Non Obstetric Ultrasound,US Neck,3,11
+2863,Non Obstetric Ultrasound,US Neck,5,12
+2864,Non Obstetric Ultrasound,US Neck,5,13
+2865,Non Obstetric Ultrasound,US Pelvis,14,0
+2866,Non Obstetric Ultrasound,US Pelvis,59,1
+2867,Non Obstetric Ultrasound,US Pelvis,56,2
+2868,Non Obstetric Ultrasound,US Pelvis,33,3
+2869,Non Obstetric Ultrasound,US Pelvis,26,4
+2870,Non Obstetric Ultrasound,US Pelvis,26,5
+2871,Non Obstetric Ultrasound,US Pelvis,61,6
+2872,Non Obstetric Ultrasound,US Pelvis,1,10
+2873,Non Obstetric Ultrasound,US Pelvis TA and transvaginal,6,0
+2874,Non Obstetric Ultrasound,US Pelvis TA and transvaginal,13,1
+2875,Non Obstetric Ultrasound,US Pelvis TA and transvaginal,17,2
+2876,Non Obstetric Ultrasound,US Pelvis TA and transvaginal,12,3
+2877,Non Obstetric Ultrasound,US Pelvis TA and transvaginal,13,4
+2878,Non Obstetric Ultrasound,US Pelvis TA and transvaginal,4,5
+2879,Non Obstetric Ultrasound,US Pelvis TA and transvaginal,14,6
+2880,Non Obstetric Ultrasound,US Pelvis TA and transvaginal,5,7
+2881,Non Obstetric Ultrasound,US Pelvis TA and transvaginal,9,8
+2882,Non Obstetric Ultrasound,US Pelvis TA and transvaginal,13,9
+2883,Non Obstetric Ultrasound,US Pelvis TA and transvaginal,4,11
+2884,Non Obstetric Ultrasound,US Pelvis TA and transvaginal,3,18
+2885,Non Obstetric Ultrasound,US Pelvis transvaginal,38,1
+2886,Non Obstetric Ultrasound,US Pelvis transvaginal,42,2
+2887,Non Obstetric Ultrasound,US Pelvis transvaginal,34,3
+2888,Non Obstetric Ultrasound,US Pelvis transvaginal,1,4
+2889,Non Obstetric Ultrasound,US Pelvis transvaginal,3,6
+2890,Non Obstetric Ultrasound,US Penis,5,1
+2891,Non Obstetric Ultrasound,US Penis,4,2
+2892,Non Obstetric Ultrasound,US Penis,6,4
+2893,Non Obstetric Ultrasound,US Penis,6,6
+2894,Non Obstetric Ultrasound,US Popliteal fossa Rt,3,1
+2895,Non Obstetric Ultrasound,US Sacrum,4,1
+2896,Non Obstetric Ultrasound,US Sacrum,6,2
+2897,Non Obstetric Ultrasound,US Sacrum,1,8
+2898,Non Obstetric Ultrasound,US Sacrum,3,9
+2899,Non Obstetric Ultrasound,US Salivary gland,1,1
+2900,Non Obstetric Ultrasound,US Salivary gland,6,2
+2901,Non Obstetric Ultrasound,US Salivary gland,3,3
+2902,Non Obstetric Ultrasound,US Salivary gland,4,6
+2903,Non Obstetric Ultrasound,US Salivary glands parotid,5,1
+2904,Non Obstetric Ultrasound,US Salivary glands parotid,4,3
+2905,Non Obstetric Ultrasound,US Salivary glands parotid,4,4
+2906,Non Obstetric Ultrasound,US Salivary glands parotid,3,5
+2907,Non Obstetric Ultrasound,US Salivary glands parotid,6,6
+2908,Non Obstetric Ultrasound,US Salivary glands parotid,6,7
+2909,Non Obstetric Ultrasound,US Salivary glands parotid,3,8
+2910,Non Obstetric Ultrasound,US Salivary glands submandibular,4,1
+2911,Non Obstetric Ultrasound,US Salivary glands submandibular,6,2
+2912,Non Obstetric Ultrasound,US Salivary glands submandibular,4,3
+2913,Non Obstetric Ultrasound,US Salivary glands submandibular,8,4
+2914,Non Obstetric Ultrasound,US Salivary glands submandibular,7,5
+2915,Non Obstetric Ultrasound,US Salivary glands submandibular,9,6
+2916,Non Obstetric Ultrasound,US Salivary glands submandibular,4,7
+2917,Non Obstetric Ultrasound,US Scalp,4,0
+2918,Non Obstetric Ultrasound,US Scalp,4,2
+2919,Non Obstetric Ultrasound,US Scalp,5,4
+2920,Non Obstetric Ultrasound,US Scalp,4,5
+2921,Non Obstetric Ultrasound,US Scalp,6,32
+2922,Non Obstetric Ultrasound,US Scan chest wall,11,1
+2923,Non Obstetric Ultrasound,US Scan chest wall,8,2
+2924,Non Obstetric Ultrasound,US Scan chest wall,5,3
+2925,Non Obstetric Ultrasound,US Scan chest wall,4,4
+2926,Non Obstetric Ultrasound,US Scan chest wall,6,6
+2927,Non Obstetric Ultrasound,US Scan chest wall,2,9
+2928,Non Obstetric Ultrasound,US Scan chest wall,1,10
+2929,Non Obstetric Ultrasound,US Scan chest wall,1,17
+2930,Non Obstetric Ultrasound,US Scan supraclavicular fossa Lt,2,1
+2931,Non Obstetric Ultrasound,US Scan supraclavicular fossa Lt,3,2
+2932,Non Obstetric Ultrasound,US Scan supraclavicular fossa Rt,4,2
+2933,Non Obstetric Ultrasound,US Shoulder Both,3,1
+2934,Non Obstetric Ultrasound,US Shoulder Both,3,6
+2935,Non Obstetric Ultrasound,US Shoulder Both,4,7
+2936,Non Obstetric Ultrasound,US Shoulder Lt,2,1
+2937,Non Obstetric Ultrasound,US Shoulder Lt,6,2
+2938,Non Obstetric Ultrasound,US Shoulder Lt,10,3
+2939,Non Obstetric Ultrasound,US Shoulder Lt,4,4
+2940,Non Obstetric Ultrasound,US Shoulder Lt,5,6
+2941,Non Obstetric Ultrasound,US Shoulder Lt,7,8
+2942,Non Obstetric Ultrasound,US Shoulder Lt,7,10
+2943,Non Obstetric Ultrasound,US Shoulder Rt,10,1
+2944,Non Obstetric Ultrasound,US Shoulder Rt,10,2
+2945,Non Obstetric Ultrasound,US Shoulder Rt,10,3
+2946,Non Obstetric Ultrasound,US Shoulder Rt,7,4
+2947,Non Obstetric Ultrasound,US Shoulder Rt,9,5
+2948,Non Obstetric Ultrasound,US Shoulder Rt,6,6
+2949,Non Obstetric Ultrasound,US Shoulder Rt,6,7
+2950,Non Obstetric Ultrasound,US Shoulder Rt,5,8
+2951,Non Obstetric Ultrasound,US Shoulder Rt,1,10
+2952,Non Obstetric Ultrasound,US Skull,6,2
+2953,Non Obstetric Ultrasound,US Skull,1,5
+2954,Non Obstetric Ultrasound,US Skull,4,7
+2955,Non Obstetric Ultrasound,US Soft tissue,4,1
+2956,Non Obstetric Ultrasound,US Soft tissue,11,2
+2957,Non Obstetric Ultrasound,US Soft tissue,2,3
+2958,Non Obstetric Ultrasound,US Soft tissue,4,5
+2959,Non Obstetric Ultrasound,US Soft tissue,2,7
+2960,Non Obstetric Ultrasound,US Soft tissue,1,10
+2961,Non Obstetric Ultrasound,US Spine,6,1
+2962,Non Obstetric Ultrasound,US Spine,3,2
+2963,Non Obstetric Ultrasound,US Spine,3,7
+2964,Non Obstetric Ultrasound,US Spine,5,10
+2965,Non Obstetric Ultrasound,US Spine cervical,1,3
+2966,Non Obstetric Ultrasound,US Spine lumbar,1,1
+2967,Non Obstetric Ultrasound,US Testes,6,0
+2968,Non Obstetric Ultrasound,US Testes,28,1
+2969,Non Obstetric Ultrasound,US Testes,16,2
+2970,Non Obstetric Ultrasound,US Testes,6,3
+2971,Non Obstetric Ultrasound,US Testes,6,4
+2972,Non Obstetric Ultrasound,US Testes,2,5
+2973,Non Obstetric Ultrasound,US Testes,4,6
+2974,Non Obstetric Ultrasound,US Testes,8,7
+2975,Non Obstetric Ultrasound,US Testes,2,8
+2976,Non Obstetric Ultrasound,US Testes,5,10
+2977,Non Obstetric Ultrasound,US Thigh Lt,6,1
+2978,Non Obstetric Ultrasound,US Thigh Lt,3,2
+2979,Non Obstetric Ultrasound,US Thigh Lt,4,6
+2980,Non Obstetric Ultrasound,US Thigh Lt,6,7
+2981,Non Obstetric Ultrasound,US Thigh Rt,4,7
+2982,Non Obstetric Ultrasound,US Thorax and pleural cavity,4,1
+2983,Non Obstetric Ultrasound,US Thorax and pleural cavity,2,2
+2984,Non Obstetric Ultrasound,US Thumb Rt,2,1
+2985,Non Obstetric Ultrasound,US Thyroid,4,0
+2986,Non Obstetric Ultrasound,US Thyroid,18,1
+2987,Non Obstetric Ultrasound,US Thyroid,19,2
+2988,Non Obstetric Ultrasound,US Thyroid,7,3
+2989,Non Obstetric Ultrasound,US Thyroid,4,4
+2990,Non Obstetric Ultrasound,US Thyroid,5,5
+2991,Non Obstetric Ultrasound,US Thyroid,8,6
+2992,Non Obstetric Ultrasound,US Thyroid,5,8
+2993,Non Obstetric Ultrasound,US Thyroid,4,9
+2994,Non Obstetric Ultrasound,US Thyroid and parathyroid,4,1
+2995,Non Obstetric Ultrasound,US Thyroid and parathyroid,3,2
+2996,Non Obstetric Ultrasound,US Thyroid and parathyroid,5,3
+2997,Non Obstetric Ultrasound,US Toes Lt,3,1
+2998,Non Obstetric Ultrasound,US Toes Rt,6,2
+2999,Non Obstetric Ultrasound,US Transplant kidney,6,1
+3000,Non Obstetric Ultrasound,US Transplant kidney,6,3
+3001,Non Obstetric Ultrasound,US Upper arm Lt,2,1
+3002,Non Obstetric Ultrasound,US Upper arm Lt,5,2
+3003,Non Obstetric Ultrasound,US Upper arm Lt,3,3
+3004,Non Obstetric Ultrasound,US Upper arm Lt,6,5
+3005,Non Obstetric Ultrasound,US Upper arm Rt,4,2
+3006,Non Obstetric Ultrasound,US Upper limb Lt,1,1
+3007,Non Obstetric Ultrasound,US Upper limb Lt,6,2
+3008,Non Obstetric Ultrasound,US Upper limb Lt,6,4
+3009,Non Obstetric Ultrasound,US Upper limb Rt,2,0
+3010,Non Obstetric Ultrasound,US Upper limb Rt,6,2
+3011,Non Obstetric Ultrasound,US Upper limb Rt,1,3
+3012,Non Obstetric Ultrasound,US Upper limb Rt,3,5
+3013,Non Obstetric Ultrasound,US Upper limb Rt,3,12
+3014,Non Obstetric Ultrasound,US Urinary bladder,5,1
+3015,Non Obstetric Ultrasound,US Urinary bladder,6,4
+3016,Non Obstetric Ultrasound,US Urinary tract,28,1
+3017,Non Obstetric Ultrasound,US Urinary tract,22,2
+3018,Non Obstetric Ultrasound,US Urinary tract,5,3
+3019,Non Obstetric Ultrasound,US Urinary tract,8,4
+3020,Non Obstetric Ultrasound,US Urinary tract,6,5
+3021,Non Obstetric Ultrasound,US Urinary tract,8,6
+3022,Non Obstetric Ultrasound,US Urinary tract,4,9
+3023,Non Obstetric Ultrasound,US Wrist Both,2,4
+3024,Non Obstetric Ultrasound,US Wrist Both,9,6
+3025,Non Obstetric Ultrasound,US Wrist Both,4,14
+3026,Non Obstetric Ultrasound,US Wrist Lt,5,2
+3027,Non Obstetric Ultrasound,US Wrist Lt,4,3
+3028,Non Obstetric Ultrasound,US Wrist Lt,2,4
+3029,Non Obstetric Ultrasound,US Wrist Lt,4,6
+3030,Non Obstetric Ultrasound,US Wrist Lt,3,7
+3031,Non Obstetric Ultrasound,US Wrist Lt,3,8
+3032,Non Obstetric Ultrasound,US Wrist Rt,7,1
+3033,Non Obstetric Ultrasound,US Wrist Rt,5,3
+3034,Non Obstetric Ultrasound,US Wrist Rt,3,6
+3035,Non Obstetric Ultrasound,US Wrist Rt,2,7
+3036,Non Obstetric Ultrasound,US Wrist Rt,1,8
+3037,Non Obstetric Ultrasound,US Wrist Rt,5,13
+3038,Non Obstetric Ultrasound,US Wrist Rt,4,14
+3039,Non Obstetric Ultrasound Breast,US Breast Both,3,0
+3040,Non Obstetric Ultrasound Breast,US Breast Both,12,1
+3041,Non Obstetric Ultrasound Breast,US Breast Both,12,2
+3042,Non Obstetric Ultrasound Breast,US Breast Both,6,3
+3043,Non Obstetric Ultrasound Breast,US Breast Both,10,4
+3044,Non Obstetric Ultrasound Breast,US Breast Both,5,5
+3045,Non Obstetric Ultrasound Breast,US Breast Both,12,6
+3046,Non Obstetric Ultrasound Breast,US Breast Both,8,7
+3047,Non Obstetric Ultrasound Breast,US Breast Both,4,8
+3048,Non Obstetric Ultrasound Breast,US Breast Both,7,9
+3049,Non Obstetric Ultrasound Breast,US Breast Both,6,10
+3050,Non Obstetric Ultrasound Breast,US Breast Both,19,11
+3051,Non Obstetric Ultrasound Breast,US Breast Both,12,12
+3052,Non Obstetric Ultrasound Breast,US Breast Both,7,13
+3053,Non Obstetric Ultrasound Breast,US Breast Both,12,14
+3054,Non Obstetric Ultrasound Breast,US Breast Both,12,15
+3055,Non Obstetric Ultrasound Breast,US Breast Both,4,16
+3056,Non Obstetric Ultrasound Breast,US Breast Both,8,17
+3057,Non Obstetric Ultrasound Breast,US Breast Both,1,18
+3058,Non Obstetric Ultrasound Breast,US Breast Both,4,19
+3059,Non Obstetric Ultrasound Breast,US Breast Lt,8,0
+3060,Non Obstetric Ultrasound Breast,US Breast Lt,39,1
+3061,Non Obstetric Ultrasound Breast,US Breast Lt,40,2
+3062,Non Obstetric Ultrasound Breast,US Breast Lt,33,3
+3063,Non Obstetric Ultrasound Breast,US Breast Lt,19,4
+3064,Non Obstetric Ultrasound Breast,US Breast Lt,12,5
+3065,Non Obstetric Ultrasound Breast,US Breast Lt,32,6
+3066,Non Obstetric Ultrasound Breast,US Breast Lt,24,7
+3067,Non Obstetric Ultrasound Breast,US Breast Lt,19,8
+3068,Non Obstetric Ultrasound Breast,US Breast Lt,16,9
+3069,Non Obstetric Ultrasound Breast,US Breast Lt,15,10
+3070,Non Obstetric Ultrasound Breast,US Breast Lt,17,11
+3071,Non Obstetric Ultrasound Breast,US Breast Lt,29,12
+3072,Non Obstetric Ultrasound Breast,US Breast Lt,21,13
+3073,Non Obstetric Ultrasound Breast,US Breast Lt,30,14
+3074,Non Obstetric Ultrasound Breast,US Breast Lt,23,15
+3075,Non Obstetric Ultrasound Breast,US Breast Lt,26,16
+3076,Non Obstetric Ultrasound Breast,US Breast Lt,14,17
+3077,Non Obstetric Ultrasound Breast,US Breast Lt,11,18
+3078,Non Obstetric Ultrasound Breast,US Breast Lt,6,19
+3079,Non Obstetric Ultrasound Breast,US Breast Rt,5,0
+3080,Non Obstetric Ultrasound Breast,US Breast Rt,37,1
+3081,Non Obstetric Ultrasound Breast,US Breast Rt,34,2
+3082,Non Obstetric Ultrasound Breast,US Breast Rt,24,3
+3083,Non Obstetric Ultrasound Breast,US Breast Rt,23,4
+3084,Non Obstetric Ultrasound Breast,US Breast Rt,9,5
+3085,Non Obstetric Ultrasound Breast,US Breast Rt,37,6
+3086,Non Obstetric Ultrasound Breast,US Breast Rt,10,7
+3087,Non Obstetric Ultrasound Breast,US Breast Rt,15,8
+3088,Non Obstetric Ultrasound Breast,US Breast Rt,9,9
+3089,Non Obstetric Ultrasound Breast,US Breast Rt,8,10
+3090,Non Obstetric Ultrasound Breast,US Breast Rt,10,11
+3091,Non Obstetric Ultrasound Breast,US Breast Rt,20,12
+3092,Non Obstetric Ultrasound Breast,US Breast Rt,22,13
+3093,Non Obstetric Ultrasound Breast,US Breast Rt,13,14
+3094,Non Obstetric Ultrasound Breast,US Breast Rt,17,15
+3095,Non Obstetric Ultrasound Breast,US Breast Rt,11,16
+3096,Non Obstetric Ultrasound Breast,US Breast Rt,10,17
+3097,Non Obstetric Ultrasound Breast,US Breast Rt,8,18
+3098,Non Obstetric Ultrasound Breast,US Breast Rt,6,19
+3099,Non Obstetric Ultrasound Breast,US Guided aspiration breast Lt,3,1
+3100,Non Obstetric Ultrasound Breast,US Guided aspiration breast Lt,5,2
+3101,Non Obstetric Ultrasound Breast,US Guided core biopsy breast Lt,3,1
+3102,Non Obstetric Ultrasound Breast,US Guided core biopsy breast Lt,3,3
+3103,Non Obstetric Ultrasound Breast,US Guided core biopsy breast Lt,5,9
+3104,Non Obstetric Ultrasound Breast,US Guided core biopsy breast Rt,5,0
+3105,Non Obstetric Ultrasound Breast,US Guided core biopsy breast Rt,8,1
+3106,Non Obstetric Ultrasound Breast,US Guided core biopsy breast Rt,8,2
+3107,Non Obstetric Ultrasound Breast,US Guided core biopsy breast Rt,3,6
+3108,Non Obstetric Ultrasound Breast,US Guided core biopsy breast Rt,3,15
+3109,Non Obstetric Ultrasound Breast,US Guided core biopsy breast Rt,5,19
+3110,Non Obstetric Ultrasound Breast,US Guided guidewire Loc breast Lt,13,1
+3111,Non Obstetric Ultrasound Breast,US Guided guidewire Loc breast Lt,3,2
+3112,Non Obstetric Ultrasound Breast,US Guided guidewire Loc breast Lt,5,3
+3113,Non Obstetric Ultrasound Breast,US Guided guidewire Loc breast Lt,1,6
+3114,Non Obstetric Ultrasound Breast,US Guided guidewire Loc breast Rt,7,1
+3115,Non Obstetric Ultrasound Breast,US Guided guidewire Loc breast Rt,8,2
+3116,Non Obstetric Ultrasound Breast,US Guided guidewire Loc breast Rt,7,3
+3117,Non Obstetric Ultrasound Breast,US Guided guidewire Loc breast Rt,3,6
+3118,Non Obstetric Ultrasound Breast,US Guided marker insertion breast Lt,7,1
+3119,Non Obstetric Ultrasound Breast,US Guided marker insertion breast Lt,4,3
+3120,Non Obstetric Ultrasound Breast,US Guided marker insertion breast Rt,4,1
+3121,OGD, COLON+OGD,4,40
+3122,OGD,COLON+OGD,10,0
+3123,OGD,COLON+OGD,19,1
+3124,OGD,COLON+OGD,30,2
+3125,OGD,COLON+OGD,19,3
+3126,OGD,COLON+OGD,2,4
+3127,OGD,COLON+OGD,10,5
+3128,OGD,COLON+OGD,8,6
+3129,OGD,COLON+OGD,7,7
+3130,OGD,COLON+OGD,13,8
+3131,OGD,COLON+OGD,3,9
+3132,OGD,COLON+OGD,1,10
+3133,OGD,COLON+OGD,7,11
+3134,OGD,COLON+OGD,7,12
+3135,OGD,COLON+OGD,7,13
+3136,OGD,COLON+OGD,7,14
+3137,OGD,COLON+OGD,6,15
+3138,OGD,COLON+OGD,6,16
+3139,OGD,COLON+OGD,7,17
+3140,OGD,COLON+OGD,9,18
+3141,OGD,COLON+OGD,8,19
+3142,OGD,COLON+OGD,6,20
+3143,OGD,COLON+OGD,7,21
+3144,OGD,COLON+OGD,9,22
+3145,OGD,COLON+OGD,6,23
+3146,OGD,COLON+OGD,6,24
+3147,OGD,COLON+OGD,4,25
+3148,OGD,COLON+OGD,10,26
+3149,OGD,COLON+OGD,7,27
+3150,OGD,COLON+OGD,3,28
+3151,OGD,COLON+OGD,10,29
+3152,OGD,COLON+OGD,11,30
+3153,OGD,COLON+OGD,4,31
+3154,OGD,COLON+OGD,3,32
+3155,OGD,COLON+OGD,8,33
+3156,OGD,COLON+OGD,6,34
+3157,OGD,COLON+OGD,4,35
+3158,OGD,COLON+OGD,2,36
+3159,OGD,COLON+OGD,5,37
+3160,OGD,COLON+OGD,2,38
+3161,OGD,COLON+OGD,7,39
+3162,OGD,COLON+OGD,10,40
+3163,OGD,COLON+OGD,5,41
+3164,OGD,COLON+OGD,4,42
+3165,OGD,COLON+OGD,9,43
+3166,OGD,COLON+OGD,10,44
+3167,OGD,COLON+OGD,5,45
+3168,OGD,COLON+OGD,5,46
+3169,OGD,COLON+OGD,7,47
+3170,OGD,COLON+OGD,10,48
+3171,OGD,COLON+OGD,3,49
+3172,OGD,COLON+OGD,5,50
+3173,OGD,COLON+OGD,6,51
+3174,OGD,COLON+OGD,9,52
+3175,OGD,COLON+OGD,4,53
+3176,OGD,COLON+OGD,9,54
+3177,OGD,COLON+OGD,1,56
+3178,OGD,COLON+OGD,8,58
+3179,OGD,COLON+OGD,4,60
+3180,OGD,COLON+OGD,2,62
+3181,OGD,COLON+OGD,8,63
+3182,OGD,COLON+OGD,6,64
+3183,OGD,COLON+OGD,1,65
+3184,OGD,COLON+OGD,3,66
+3185,OGD,COLON+OGD,3,67
+3186,OGD,COLON+OGD,3,73
+3187,OGD,COLON+OGD,2,74
+3188,OGD,COLON+OGD,6,78
+3189,OGD,COLON+OGD,4,79
+3190,OGD,COLON+OGD,3,81
+3191,OGD,COLON+OGD,6,84
+3192,OGD,COLON+OGD,6,85
+3193,OGD,COLON+OGD,1,87
+3194,OGD,COLON+OGD,5,88
+3195,OGD,COLON+OGD,3,89
+3196,OGD,COLON+OGD,3,90
+3197,OGD,COLON+OGD,1,93
+3198,OGD,COLON+OGD TBT,5,17
+3199,OGD,COLON+OGD TBT,3,18
+3200,OGD,COLON+OGD TBT,1,76
+3201,OGD,COLON+OGD+/-VARICES,2,35
+3202,OGD,COLON+OGD+BARRETTS,4,6
+3203,OGD,COLON+OGD+VARICES,3,2
+3204,OGD,OGD,3,0
+3205,OGD,OGD,84,1
+3206,OGD,OGD,87,2
+3207,OGD,OGD,52,3
+3208,OGD,OGD,31,4
+3209,OGD,OGD,18,5
+3210,OGD,OGD,71,6
+3211,OGD,OGD,37,7
+3212,OGD,OGD,47,8
+3213,OGD,OGD,41,9
+3214,OGD,OGD,39,10
+3215,OGD,OGD,45,11
+3216,OGD,OGD,45,12
+3217,OGD,OGD,30,13
+3218,OGD,OGD,44,14
+3219,OGD,OGD,31,15
+3220,OGD,OGD,32,16
+3221,OGD,OGD,35,17
+3222,OGD,OGD,30,18
+3223,OGD,OGD,42,19
+3224,OGD,OGD,39,20
+3225,OGD,OGD,27,21
+3226,OGD,OGD,39,22
+3227,OGD,OGD,29,23
+3228,OGD,OGD,56,24
+3229,OGD,OGD,25,25
+3230,OGD,OGD,39,26
+3231,OGD,OGD,28,27
+3232,OGD,OGD,39,28
+3233,OGD,OGD,33,29
+3234,OGD,OGD,28,30
+3235,OGD,OGD,29,31
+3236,OGD,OGD,22,32
+3237,OGD,OGD,55,33
+3238,OGD,OGD,40,34
+3239,OGD,OGD,39,35
+3240,OGD,OGD,31,36
+3241,OGD,OGD,36,37
+3242,OGD,OGD,23,38
+3243,OGD,OGD,38,39
+3244,OGD,OGD,30,40
+3245,OGD,OGD,20,41
+3246,OGD,OGD,33,42
+3247,OGD,OGD,33,43
+3248,OGD,OGD,28,44
+3249,OGD,OGD,24,45
+3250,OGD,OGD,34,46
+3251,OGD,OGD,47,47
+3252,OGD,OGD,28,48
+3253,OGD,OGD,34,49
+3254,OGD,OGD,39,50
+3255,OGD,OGD,27,51
+3256,OGD,OGD,24,52
+3257,OGD,OGD,23,53
+3258,OGD,OGD,20,54
+3259,OGD,OGD,25,55
+3260,OGD,OGD,13,56
+3261,OGD,OGD,35,57
+3262,OGD,OGD,18,58
+3263,OGD,OGD,23,59
+3264,OGD,OGD,33,60
+3265,OGD,OGD,25,61
+3266,OGD,OGD,22,62
+3267,OGD,OGD,25,63
+3268,OGD,OGD,22,64
+3269,OGD,OGD,27,65
+3270,OGD,OGD,16,66
+3271,OGD,OGD,24,67
+3272,OGD,OGD,37,68
+3273,OGD,OGD,16,69
+3274,OGD,OGD,14,70
+3275,OGD,OGD,24,71
+3276,OGD,OGD,11,72
+3277,OGD,OGD,6,73
+3278,OGD,OGD,15,74
+3279,OGD,OGD,5,75
+3280,OGD,OGD,8,76
+3281,OGD,OGD,8,77
+3282,OGD,OGD,11,78
+3283,OGD,OGD,7,79
+3284,OGD,OGD,10,80
+3285,OGD,OGD,6,81
+3286,OGD,OGD,9,82
+3287,OGD,OGD,13,83
+3288,OGD,OGD,7,84
+3289,OGD,OGD,3,85
+3290,OGD,OGD,2,86
+3291,OGD,OGD,4,87
+3292,OGD,OGD,5,88
+3293,OGD,OGD,12,89
+3294,OGD,OGD,7,90
+3295,OGD,OGD,8,91
+3296,OGD,OGD,6,92
+3297,OGD,OGD,6,96
+3298,OGD,OGD,3,102
+3299,OGD,OGD,2,115
+3300,OGD,OGD +NJ,3,2
+3301,OGD,OGD TBT,2,2
+3302,OGD,OGD TBT,9,17
+3303,OGD,OGD TBT,4,18
+3304,OGD,OGD TBT,3,31
+3305,OGD,OGD TBT,2,32
+3306,OGD,OGD TBT,3,35
+3307,OGD,OGD TBT,2,40
+3308,OGD,OGD TBT,1,45
+3309,OGD,OGD TBT,7,48
+3310,OGD,OGD TBT,1,53
+3311,OGD,OGD TBT,3,57
+3312,OGD,OGD TBT,7,60
+3313,OGD,OGD TBT,4,64
+3314,OGD,OGD TBT,3,72
+3315,OGD,OGD+/- BANDING,4,20
+3316,OGD,OGD+/-VARICES,6,19
+3317,OGD,OGD+/-VARICES,1,29
+3318,OGD,OGD+/-VARICES,3,30
+3319,OGD,OGD+/-VARICES,3,38
+3320,OGD,OGD+/-VARICES,3,43
+3321,OGD,OGD+/-VARICES,5,46
+3322,OGD,OGD+/-VARICES,5,49
+3323,OGD,OGD+/-VARICES,2,57
+3324,OGD,OGD+/-VARICES,1,67
+3325,OGD,OGD+ACETIC ACID,3,17
+3326,OGD,OGD+APC,1,8
+3327,OGD,OGD+APC,2,35
+3328,OGD,OGD+APC,3,36
+3329,OGD,OGD+APC,1,45
+3330,OGD,OGD+BANDING,5,6
+3331,OGD,OGD+BANDING,5,10
+3332,OGD,OGD+BANDING,2,13
+3333,OGD,OGD+BANDING,4,15
+3334,OGD,OGD+BANDING,1,18
+3335,OGD,OGD+BANDING,5,19
+3336,OGD,OGD+BANDING,3,23
+3337,OGD,OGD+BANDING,6,26
+3338,OGD,OGD+BANDING,6,35
+3339,OGD,OGD+BANDING,3,38
+3340,OGD,OGD+BANDING,3,39
+3341,OGD,OGD+BANDING,2,42
+3342,OGD,OGD+BANDING,3,43
+3343,OGD,OGD+BANDING,3,48
+3344,OGD,OGD+BARRETTS,4,1
+3345,OGD,OGD+BARRETTS,2,2
+3346,OGD,OGD+BARRETTS,2,6
+3347,OGD,OGD+BARRETTS,1,10
+3348,OGD,OGD+BARRETTS,1,11
+3349,OGD,OGD+BARRETTS,4,14
+3350,OGD,OGD+BARRETTS,4,15
+3351,OGD,OGD+BARRETTS,2,20
+3352,OGD,OGD+BARRETTS,4,23
+3353,OGD,OGD+BARRETTS,3,29
+3354,OGD,OGD+EMR,3,4
+3355,OGD,OGD+EMR,4,6
+3356,OGD,OGD+EMR,2,7
+3357,OGD,OGD+NJ,4,1
+3358,OGD,OGD+NJ,1,9
+3359,OGD,OGD+SIDE VIEW,1,25
+3360,OGD,OGD+SIDE VIEW,3,87
+3361,OGD,OGD+SIDE VIEWER,1,2
+3362,OGD,OGD+SIDEVIEW,6,3
+3363,OGD,OGD+SIDEVIEW,4,52
+3364,OGD,OGD+ULCER,6,8
+3365,OGD,OGD+ULCER,1,18
+3366,OGD,OGD+ULCER,4,23
+3367,OGD,OGD+ULCER,1,29
+3368,OGD,OGD+ULCER,5,31
+3369,OGD,OGD+VARICES,2,1
+3370,OGD,OGD+VARICES,5,2
+3371,OGD,OGD+VARICES,8,3
+3372,OGD,OGD+VARICES,6,6
+3373,OGD,OGD+VARICES,5,9
+3374,OGD,OGD+VARICES,4,54
+3375,OGD,OGD+VARICES+BANDING,6,22
+3376,OGD,OGD+VARICIES,1,11
+3377,OGD,OGD-CST,4,6
+3378,OGD,STREAM 2 OGD,4,95
+3379,OGD,STREAM 3 COLON+OGD,4,38
+3380,OGD,STREAM 3 COLON+OGD,5,81
+3381,OGD,STREAM 3 COLON+OGD,3,82
+3382,OGD,STREAM 3 COLON+OGD,1,88
+3383,OGD,STREAM 3 COLON+OGD,2,90
+3384,OGD,STREAM 3 OGD,5,66
+3385,OGD,STREAM 3 OGD,3,69
+3386,OGD,STREAM 3 OGD,5,74
+3387,OGD,STREAM 3 OGD,6,75
+3388,OGD,STREAM 3 OGD,7,76
+3389,OGD,STREAM 3 OGD,6,77
+3390,OGD,STREAM 3 OGD,5,78
+3391,OGD,STREAM 3 OGD,5,79
+3392,OGD,STREAM 3 OGD,5,80
+3393,OGD,STREAM 3 OGD,6,81
+3394,OGD,STREAM 3 OGD,6,82
+3395,OGD,STREAM 3 OGD,12,83
+3396,OGD,STREAM 3 OGD,2,86
+3397,OGD,STREAM 3 OGD,6,87
+3398,OGD,STREAM 3 OGD,2,88
+3399,OGD,STREAM 3 OGD,3,90
+3400,OGD,STREAM 3 OGD+/-VARICES,5,82
+3401,OGD,STREAM 3 OGD+/-VARICES,2,90
+3402,OGD,STREAM 4 COLON+OGD+/-VARICES,4,85
+3403,OGD,STREAM 4 OGD,5,88
+3404,OGD,STREAM 4 OGD+/-VARICES,6,88
+3405,OGD,STREAM 4 OGD+/-VARICES,5,89
+3406,OGD,TBT OGD,6,3
+3407,Paed Audiology,Hearing assessment,5,2
+3408,Paed Audiology,Hearing assessment,18,3
+3409,Paed Audiology,Hearing assessment,16,4
+3410,Paed Audiology,Hearing assessment,16,5
+3411,Paed Audiology,Hearing assessment,43,6
+3412,Paed Audiology,Hearing assessment,27,7
+3413,Paed Audiology,Hearing assessment,22,8
+3414,Paed Audiology,Hearing assessment,24,9
+3415,Paed Audiology,Hearing assessment,22,10
+3416,Paed Audiology,Hearing assessment,29,11
+3417,Paed Audiology,Hearing assessment,29,12
+3418,Paed Audiology,Hearing assessment,32,13
+3419,Paed Audiology,Hearing assessment,28,14
+3420,Paed Audiology,Hearing assessment,29,15
+3421,Paed Audiology,Hearing assessment,24,16
+3422,Paed Audiology,Hearing assessment,33,17
+3423,Paed Audiology,Hearing assessment,25,18
+3424,Paed Audiology,Hearing assessment,18,19
+3425,Paed Audiology,Hearing assessment,17,20
+3426,Paed Audiology,Hearing assessment,17,21
+3427,Paed Audiology,Hearing assessment,12,22
+3428,Paed Audiology,Hearing assessment,21,23
+3429,Paed Audiology,Hearing assessment,10,24
+3430,Paed Audiology,Hearing assessment,1,25
+3431,Paediatric Gastroenterology,COLON+OGD,2,1
+3432,Paediatric Gastroenterology,COLON+OGD,6,2
+3433,Paediatric Gastroenterology,COLON+OGD,6,6
+3434,Paediatric Gastroenterology,OGD,3,1
+3435,Paediatric Gastroenterology,OGD,3,2
+3436,Paediatric Gastroenterology,OGD,3,3
+3437,Paediatric Gastroenterology,OGD,4,4
+3438,Paediatric Gastroenterology,OGD,5,6
+3439,Paediatric Gastroenterology,OGD,2,10
+3440,Sleep Studies,Sleep Studies,66,1
+3441,Sleep Studies,Sleep Studies,82,2
+3442,Sleep Studies,Sleep Studies,84,3
+3443,Sleep Studies,Sleep Studies,57,4
+3444,Sleep Studies,Sleep Studies,38,5
+3445,Sleep Studies,Sleep Studies,71,6
+3446,Sleep Studies,Sleep Studies,15,7
+3447,Sleep Studies,Sleep Studies,1,9
+3448,Sleep Studies,Sleep Studies,1,10
+3449,Urodynamics Gynae,Urodynamics,16,1
+3450,Urodynamics Gynae,Urodynamics,14,2
+3451,Urodynamics Gynae,Urodynamics,14,3
+3452,Urodynamics Gynae,Urodynamics,12,4
+3453,Urodynamics Gynae,Urodynamics,10,6
+3454,Urodynamics Gynae,Urodynamics,4,14
+3455,Urodynamics Gynae,Urodynamics,5,18
+3456,Urodynamics Gynae,Urodynamics,2,65
