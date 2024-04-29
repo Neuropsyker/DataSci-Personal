@@ -1,6 +1,6 @@
 This is a public repository for data science projects that I have completed in my spare time either with the goal of expanding my skillset or simply out of personal interest.
 
-Folder Contents:
+Content Guide:
 
 - Studies: materials from the Hatch Data Academy I attended between November 2023 and February 2024.
 - Bitcoin Modelling Project: a time-series forecast group project I participated in during the closing weeks of the Hatch academy.
